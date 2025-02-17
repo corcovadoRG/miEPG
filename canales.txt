@@ -25,25 +25,13 @@ DMAX,DMAX FHD
 DKISS,DKISS FHD
 TRECE,TRECE FHD
 24 Horas,24h FHD
-El País,EL PAÍS TV
-El Confidencial,EL CONFIDENCIAL TV HD
 El Toro TV,El Toro TV
-À Punt,A Punt FHD
 Canal Sur 2,Canal Sur 2 HD
 Canal Sur HD,Canal Sur FHD
-TV Canaria,TV Canaria HD
-TV3,TV3 HD
-Betevé,Betevé 1080
-Aragón TV,Aragon TV
-Onda Cádiz TV,ONDA CADIZ
-Canal Extremadura,Canal Extremadura
 Telemadrid,Telemadrid FHD
 ETB1,ETB 1 HD
 ETB2,ETB 2 HD
 TVG,TV Galicia
-IB3 TV Illes Balears,IB3 1080
-Esport 3,Esport 3 1080
-La Otra,La Otra
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+ HD,Movistar Plus+ FHD
 Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
@@ -122,10 +110,6 @@ Onetoro,OneToro HD
 Onetoro,OneToro FHD
 Cazavisión,Cazavisión FHD
 Enfamilia,Enfamilia FHD
-DBike,DBike FHD
-Flooxer,Flooxer
-El club de la comedia,El Club de la comedia HD
-SELEKT,Selekt 1080
 M+ Documentales HD,Documentales por M+ FHD
 M+ Documentales HD,Documentales por M+ HD
 National Geographic HD,Nat Geo HD
@@ -157,14 +141,7 @@ M+ Deportes HD,Deportes por M+ HD
 M+ Deportes HD,Deportes por M+ 1080
 M+ Deportes HD,Deportes por M+ FHD
 M+ Deportes 2 HD,Deportes 2 por M+ FHD
-M+ Deportes 3,Deportes 3 por M+
-M+ Deportes 4,Deportes 4 por M+
-M+ Deportes 5,Deportes 5 por M+
-M+ Deportes 6,Deportes 6 por M+
-M+ Deportes 7,Deportes 7 por M+
-M+ Deportes 8,Deportes 8 por M+
 M+ Golf HD,Golf por M+ 1080
-M+ Golf 2 HD,Golf 2 por M+
 Teledeporte,Teledeporte 1080
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 1 HD,Eurosport 1 FHD
@@ -204,8 +181,6 @@ M+ Liga de Campeones 8,Liga De Campeones 8 por M+
 GOL PLAY,Gol Play HD
 GOL PLAY,Gol Play FHD
 Real Madrid TV,Real Madrid TV
-Sevilla FC Televisión,Sevilla FC TV
-Betis TV,Betis TV
 DAZN F1 HD,DAZN F1 HD
 DAZN F1 HD,DAZN F1 1080
 DAZN F1 HD,DAZN F1 FHD
