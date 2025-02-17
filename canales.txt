@@ -36,7 +36,8 @@ Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+ HD,Movistar Plus+ FHD
 Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
 Movistar Plus+ 2 HD,Movistar Plus+ 2 1080
-M+ Estrenos HD,Estrenos por M+ HD
+M+ Estrenos HD,Estrenos por M+
+Estrenos por M+ HD,M+ Estrenos
 M+ Estrenos HD,Estrenos por M+ FHD
 M+ Originales HD,Originales por M+ HD
 M+ Originales HD,Originales por M+ FHD
@@ -125,7 +126,7 @@ Discovery,Discovery Channel FHD
 BuenViaje,¡Buenviaje! 1080
 Dreamworks HD,Dreamworks
 Disney Junior,Disney Junior
-Nickelodeon HD,Nickelodeon
+Nickelodeon HD,Nickelodeon,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png"
 Nick JR,Nick Jr
 Clan,Clan TVE
 Boing,BOING
