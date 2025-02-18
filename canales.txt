@@ -126,7 +126,7 @@ Discovery,Discovery Channel FHD
 BuenViaje,¡Buenviaje! 1080
 Dreamworks HD,Dreamworks
 Disney Junior,Disney Junior
-Nickelodeon HD,Nickelodeon,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png"
+Nickelodeon HD,Nickelodeon,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png
 Nick JR,Nick Jr
 Clan,Clan TVE
 Boing,BOING
