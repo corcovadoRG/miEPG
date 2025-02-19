@@ -1,9 +1,19 @@
-M+ Estrenos,Estrenos por M+ HD
-Estrenos por M+ HD,M+ Estrenos
-M+ Comedia HD,Comedia
-M+ Drama HD,Drama
-M+%20Indie%20HD,Indie%20por%20M+%20FHD
-M+ Cine Español,Cine Español
-M+ Hits HD,Hits
-AXN Movies HD,AXN%20Movies%20HD
-Somos Cine,SOMOS FHD,
+La 1 HD,La 1 FHD
+La 2,La 2 FHD
+Antena 3 HD,Antena 3 FHD
+Cuatro HD,Cuatro FHD
+Telecinco HD,Telecinco FHD
+La Sexta HD,La Sexta FHD
+Neox,Neox FHD
+Energy,Energy FHD
+Mega,Mega FHD
+Nova,Nova FHD
+Divinity,Divinity FHD
+Factoría de Ficción,FDF 1080
+Ten,TEN FHD
+Atreseries,A3series FHD
+Be Mad,BE MAD FHD
+DMAX,DMAX FHD
+DKISS,DKISS FHD
+TRECE,TRECE FHD
+24 Horas,24h FHD
