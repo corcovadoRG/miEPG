@@ -1,19 +1,7 @@
-La 1 HD,La 1 FHD
-La 2,La 2 FHD
-Antena 3 HD,Antena 3 FHD
-Cuatro HD,Cuatro FHD
-Telecinco HD,Telecinco FHD
-La Sexta HD,La Sexta FHD
-Neox,Neox FHD
-Energy,Energy FHD
-Mega,Mega FHD
-Nova,Nova FHD
-Divinity,Divinity FHD
-Factoría de Ficción,FDF 1080
-Ten,TEN FHD
-Atreseries,A3series FHD
-Be Mad,BE MAD FHD
-DMAX,DMAX FHD
-DKISS,DKISS FHD
-TRECE,TRECE FHD
-24 Horas,24h FHD
+La 1 HD
+La 2
+Antena 3 HD,Antena 3 HD
+BBC Drama,BBC Drama HD
+BBC Drama,BBC Drama 1080
+Disney Junior,Disney Junior
+Nickelodeon HD,Nickelodeon
