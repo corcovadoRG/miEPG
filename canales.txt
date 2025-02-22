@@ -1,5 +1,5 @@
-La 1 HD
-La 2
+La 1 HD,La1FHD
+La 2,La2HD
 Antena 3 HD,Antena 3 HD
 BBC Drama,BBC Drama HD
 BBC Drama,BBC Drama 1080
