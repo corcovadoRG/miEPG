@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/02/2025 11:38" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/02/2025 11:39" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Neox">
     <display-name>Neox</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
@@ -242,7 +242,7 @@
   <programme start="20250225203400 +0100" stop="20250225212300 +0100" channel="Neox">
     <title lang="es">Navy: Investigación criminal T15 E21 · Un paso adelante</title>
     <desc lang="es">Series/Thriller | 2017 | ⑫ | ★6.0/10
-· Sara Carter suplica a Gibbs que investigue el asesinato de su madre, ya que cree que las autoridades locales condenaron al hombre equivocado. Votos: 102.
+· Sara Carter suplica a Gibbs que investigue el asesinato de su madre, ya que cree que las autoridades locales condenaron al hombre equivocado. Votos: 104.
 · Título original: NCIS: Naval... (T15): Ep.21 One Step Forward
 · País: EE.UU.
 · Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
@@ -260,7 +260,8 @@
   <programme start="20250225221300 +0100" stop="20250225230200 +0100" channel="Neox">
     <title lang="es">Navy: Investigación criminal T20 E14 · Viejas Heridas</title>
     <desc lang="es">Series/Thriller | 2022 | ⑫ | ★8.0/10
-· Leroy Jethro Gibbs está al mando de un equipo de criminólogos que se encargan de investigar crímenes relacionados con la Marina. Votos: 18.
+· Leroy Jethro Gibbs está al mando de un equipo de criminólogos que se encargan de investigar crímenes relacionados con la Marina. Votos: 20.
+· Título original: NCIS: Naval... (T20): Ep.14 Old Wounds
 · País: EE.UU.
 · Reparto: Rocky Carroll, Sean Murray, Brian Dietzen, Wilmer Valderrama.
 · Productora: CBS Paramount Network Television.</desc>
@@ -1501,155 +1502,138 @@
 · 'El Chiringuito de Jugones' llega con una mirada a lo acontecido cada jornada desde la óptica de un gran equipo de periodistas dirigidos por Josep Pedrerol. Votos: 15.
 · País: España</desc>
   </programme>
-  <programme start="20250225074000 +0100" stop="20250225102500 +0100" channel="Mega">
+  <programme start="20250225074000 +0100" stop="20250225101500 +0100" channel="Mega">
     <title lang="es">El chiringuito de jugones</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | ⑦ | ★6.0/10
-· Josep Pedrerol y sus colaboradores analizan la actualidad deportiva. Votos: 99.
+· Josep Pedrerol y sus colaboradores analizan la actualidad deportiva. Votos: 101.
 · País: España
 · Dirección: Josep Pedrerol.</desc>
   </programme>
-  <programme start="20250225102500 +0100" stop="20250225112300 +0100" channel="Mega">
+  <programme start="20250225101500 +0100" stop="20250225111500 +0100" channel="Mega">
     <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2015 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 14.
+    <desc lang="es">Series/Drama | 2018 | ⑯ | ★6.0/10
+· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 13.
 · Título original: Life Below Zero
 · País: EE.UU.
 · Productora: BBC Worldwide.</desc>
   </programme>
-  <programme start="20250225112300 +0100" stop="20250225122200 +0100" channel="Mega">
+  <programme start="20250225111500 +0100" stop="20250225121600 +0100" channel="Mega">
     <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2015 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 14.
+    <desc lang="es">Series/Drama | 2018 | ⑯ | ★6.0/10
+· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 12.
 · Título original: Life Below Zero
 · País: EE.UU.
 · Productora: BBC Worldwide.</desc>
   </programme>
-  <programme start="20250225122200 +0100" stop="20250225132100 +0100" channel="Mega">
+  <programme start="20250225121600 +0100" stop="20250225131700 +0100" channel="Mega">
     <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2015 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 14.
+    <desc lang="es">Series/Drama | 2018 | ⑯ | ★6.0/10
+· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 13.
 · Título original: Life Below Zero
 · País: EE.UU.
 · Productora: BBC Worldwide.</desc>
   </programme>
-  <programme start="20250225132100 +0100" stop="20250225142000 +0100" channel="Mega">
+  <programme start="20250225131700 +0100" stop="20250225141800 +0100" channel="Mega">
     <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2015 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 14.
+    <desc lang="es">Series/Drama | 2018 | ⑯ | ★6.0/10
+· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 13.
 · Título original: Life Below Zero
 · País: EE.UU.
 · Productora: BBC Worldwide.</desc>
   </programme>
-  <programme start="20250225142000 +0100" stop="20250225151900 +0100" channel="Mega">
+  <programme start="20250225141800 +0100" stop="20250225151900 +0100" channel="Mega">
     <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2015 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 14.
-· Título original: Life Below Zero
-· País: EE.UU.
-· Productora: BBC Worldwide.</desc>
+    <desc lang="es">Series
+· Sin detalles...
+</desc>
   </programme>
-  <programme start="20250225151900 +0100" stop="20250225161800 +0100" channel="Mega">
+  <programme start="20250225151900 +0100" stop="20250225162000 +0100" channel="Mega">
     <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2016 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 11.
-· Título original: Life Below Zero
+    <desc lang="es">Series
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250225162000 +0100" stop="20250225171500 +0100" channel="Mega">
+    <title lang="es">Pesca Extrema: Batalla en el Atlántico</title>
+    <desc lang="es">Documentales/Viajes | 2012 | ⑫ | ★8.0/10
+· Los pescadores de Nueva Inglaterra afrontan todos los días los peligros y las dificultades de pescar legalmente una especie vulnerable, el atún rojo. Votos: 31.
+· Título original: Wicked Tuna
 · País: EE.UU.
-· Productora: BBC Worldwide.</desc>
+· Dirección: Zachary Boggs.
+· Guion: Sarah Madden, Matthew Lee.
+· Música: Alec Puro.
+· Productora: Pilgrim Studios.</desc>
   </programme>
-  <programme start="20250225161800 +0100" stop="20250225171700 +0100" channel="Mega">
-    <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2016 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 11.
-· Título original: Life Below Zero
+  <programme start="20250225171500 +0100" stop="20250225181100 +0100" channel="Mega">
+    <title lang="es">Pesca Extrema: Batalla en el Atlántico</title>
+    <desc lang="es">Documentales/Viajes | 2012 | ⑫ | ★8.0/10
+· Los pescadores de Nueva Inglaterra afrontan todos los días los peligros y las dificultades de pescar legalmente una especie vulnerable, el atún rojo. Votos: 31.
+· Título original: Wicked Tuna
 · País: EE.UU.
-· Productora: BBC Worldwide.</desc>
+· Dirección: Zachary Boggs.
+· Guion: Sarah Madden, Matthew Lee.
+· Música: Alec Puro.
+· Productora: Pilgrim Studios.</desc>
   </programme>
-  <programme start="20250225171700 +0100" stop="20250225181600 +0100" channel="Mega">
-    <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2016 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 11.
-· Título original: Life Below Zero
+  <programme start="20250225181100 +0100" stop="20250225190600 +0100" channel="Mega">
+    <title lang="es">Pesca Extrema: Batalla en el Atlántico</title>
+    <desc lang="es">Documentales/Viajes | 2013 | ⑫ | ★8.0/10
+· Los pescadores de Nueva Inglaterra afrontan todos los días los peligros y las dificultades de pescar legalmente una especie vulnerable, el atún rojo. Votos: 8.
+· Título original: Wicked Tuna
 · País: EE.UU.
-· Productora: BBC Worldwide.</desc>
+· Dirección: Zachary Boggs.
+· Guion: Sarah Madden, Matthew Lee.
+· Música: Alec Puro.
+· Productora: Pilgrim Studios.</desc>
   </programme>
-  <programme start="20250225181600 +0100" stop="20250225191500 +0100" channel="Mega">
-    <title lang="es">Vida bajo cero</title>
-    <desc lang="es">Series/Drama | 2016 | ⑯ | ★6.0/10
-· Cuatro familias luchan por sobrevivir a los inviernos extremos de Alaska, a temperaturas bajo cero. Votos: 11.
-· Título original: Life Below Zero
+  <programme start="20250225190600 +0100" stop="20250225200200 +0100" channel="Mega">
+    <title lang="es">Pesca radical</title>
+    <desc lang="es">Documentales/Viajes | 2005 | TP | ★6.0/10
+· Los pescadores de cangrejos faenan en aguas del Ártico y se enfrentan a unas condiciones brutales y a unas olas enormes para ganar mucho dinero. Votos: 142.
 · País: EE.UU.
-· Productora: BBC Worldwide.</desc>
+· Reparto: Mike Rowe, Sig Hansen, Rick Quashnick, Peter Liske, Jim Stone, Jeff Weeks, Coleman Anderson, Tony Larussa, Vince Shavender, Shaun Miles.
+· Productora: Original Productions.</desc>
   </programme>
-  <programme start="20250225191500 +0100" stop="20250225194200 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 215.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250225194200 +0100" stop="20250225200900 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 215.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250225200900 +0100" stop="20250225203600 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2022 | ⑦ | ★8.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 9.
-· Título original: Storage Wars
+  <programme start="20250225200200 +0100" stop="20250225205800 +0100" channel="Mega">
+    <title lang="es">Pesca radical</title>
+    <desc lang="es">Documentales/Viajes | 2005 | TP | ★6.0/10
+· Los pescadores de cangrejos faenan en aguas del Ártico y se enfrentan a unas condiciones brutales y a unas olas enormes para ganar mucho dinero. Votos: 142.
 · País: EE.UU.
-· Productora: Cinema Vehicle Services.</desc>
+· Reparto: Mike Rowe, Sig Hansen, Rick Quashnick, Peter Liske, Jim Stone, Jeff Weeks, Coleman Anderson, Tony Larussa, Vince Shavender, Shaun Miles.
+· Productora: Original Productions.</desc>
   </programme>
-  <programme start="20250225203600 +0100" stop="20250225210300 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 214.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
+  <programme start="20250225205800 +0100" stop="20250225215300 +0100" channel="Mega">
+    <title lang="es">Pesca Extrema: Batalla en el Atlántico</title>
+    <desc lang="es">Documentales/Viajes | 2012 | ⑫ | ★2.0/10
+· En esta serie acompañamos a los mejores barcos de pesca de Massachusetts y sus tripulaciones durante la pesca de uno de los peces más listos y más escurridizos de los mares, el atún. Votos: 2.
+· Título original: Wicked Tuna
+· País: EE.UU.
+· Dirección: Zachary Boggs.
+· Guion: Matthew Lee, Sarah Madden.
+· Música: Alec Puro.
+· Productora: Pilgrim Studios.</desc>
   </programme>
-  <programme start="20250225210300 +0100" stop="20250225213000 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 524.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
+  <programme start="20250225215300 +0100" stop="20250225224900 +0100" channel="Mega">
+    <title lang="es">Pesca extrema</title>
+    <desc lang="es">Documentales/Viajes | 2018 | ⑫ | ★8.0/10
+· Serie que muestra la vida de un grupo de pescadores dedicados a la pesca del atún rojo. Votos: 8.
+· Título original: Wicked Tuna
+· País: EE.UU.
+· Dirección: Zachary Boggs.
+· Guion: Sarah Madden, Matthew Lee.
+· Música: Alec Puro.
+· Productora: Pilgrim Studios.</desc>
   </programme>
-  <programme start="20250225213000 +0100" stop="20250225215700 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 524.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250225215700 +0100" stop="20250225222400 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 214.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250225222400 +0100" stop="20250225225100 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 214.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250225225100 +0100" stop="20250225231800 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 214.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250225231800 +0100" stop="20250225234500 +0100" channel="Mega">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2017 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas. Votos: 214.
-· Título original: Storage Wars
-· País: EE.UU.</desc>
+  <programme start="20250225224900 +0100" stop="20250225234500 +0100" channel="Mega">
+    <title lang="es">Pesca extrema</title>
+    <desc lang="es">Documentales/Viajes | 2018 | ⑫ | ★8.0/10
+· Serie que muestra la vida de un grupo de pescadores dedicados a la pesca del atún rojo. Votos: 8.
+· Título original: Wicked Tuna
+· País: EE.UU.
+· Dirección: Zachary Boggs.
+· Guion: Sarah Madden, Matthew Lee.
+· Música: Alec Puro.
+· Productora: Pilgrim Studios.</desc>
   </programme>
   <programme start="20250225234500 +0100" stop="20250226000000 +0100" channel="Mega">
     <title lang="es">El chiringuito: La cuenta atrás</title>
@@ -1664,24 +1648,26 @@
 · País: España
 · Dirección: Josep Pedrerol.</desc>
   </programme>
-  <programme start="20250226024500 +0100" stop="20250226032500 +0100" channel="Mega">
+  <programme start="20250226024500 +0100" stop="20250226033000 +0100" channel="Mega">
     <title lang="es">Sportium Game Show</title>
-    <desc lang="es">Entretenimiento | 2025 | ⑱ | ★6.0/10
-· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 5.
+    <desc lang="es">Entretenimiento | 2025 | ⑱ | ★4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
 · País: España
 · Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
   </programme>
-  <programme start="20250226032500 +0100" stop="20250226040000 +0100" channel="Mega">
-    <title lang="es">Vip casino</title>
-    <desc lang="es">Entretenimiento | 2020 | ⑱ | ★6.0/10
-· Concurso nocturno para que los espectadores puedan jugar al casino desde casa. Votos: 50.
-</desc>
-  </programme>
-  <programme start="20250226040000 +0100" stop="20250226050000 +0100" channel="Mega">
+  <programme start="20250226033000 +0100" stop="20250226044000 +0100" channel="Mega">
     <title lang="es">Venta Prime</title>
     <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | ★8.0/10
-· Espacio de televenta. Votos: 10.
+· Espacio de televenta. Votos: 15.
 · Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250226044000 +0100" stop="20250226050000 +0100" channel="Mega">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Información/Reportaje | 2015 | ⑯ | ★6.0/10
+· El equipo revela los entresijos de la primera banda de paramilitares de España. Votos: 49.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
   </programme>
   <programme start="20250226050000 +0100" stop="20250226060000 +0100" channel="Mega">
     <title lang="es">Equipo de investigación</title>
@@ -3212,7 +3198,7 @@
   <programme start="20250226075000 +0100" stop="20250226085100 +0100" channel="BBC Drama">
     <title lang="es">¡Llama a la comadrona! T3 E1</title>
     <desc lang="es">Series/Drama | 2014 | ⑯ | ★6.0/10
-· Tercera temporada de la serie que narra la vida de Jenny, una joven enfermera que llega al East End de Londres para trabajar como matrona junto a unas monjas anglicanas. En esta etapa se descubre a un bebé abandonado en las escaleras del convento. Votos: 32.
+· Tercera temporada de la serie que narra la vida de Jenny, una joven enfermera que llega al East End de Londres para trabajar como matrona junto a unas monjas anglicanas. En esta etapa se descubre a un bebé abandonado en las escaleras del convento. Votos: 36.
 · Título original: Call the Midwife (T3): Ep.1
 · País: R.U.
 · Reparto: Vanessa Redgrave, Judy Parfitt, Jessica Raine, Pam Ferris, Helen George, Laura Main.
@@ -3246,7 +3232,7 @@
   <programme start="20250226115200 +0100" stop="20250226125300 +0100" channel="BBC Drama">
     <title lang="es">¡Llama a la comadrona! T3 E5</title>
     <desc lang="es">Series/Drama | 2012 | ⑯ | ★6.0/10
-· Cuando una mujer con síndrome de Down descubre que está embarazada, tendrá que tomar una decisión muy dura. Votos: 36.
+· Cuando una mujer con síndrome de Down descubre que está embarazada, tendrá que tomar una decisión muy dura. Votos: 40.
 · País: R.U.
 · Reparto: Vanessa Redgrave, Judy Parfitt, Jessica Raine, Pam Ferris, Helen George, Laura Main.
 · Productora: Neal Street Productions, Top Talent Agency.</desc>
@@ -3262,7 +3248,7 @@
   <programme start="20250226135300 +0100" stop="20250226144500 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T1 E6</title>
     <desc lang="es">Series/Ciencia ficción | 2007 | TP | ★6.0/10
-· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 45.
+· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 47.
 · Título original: Primeval (T1): Ep.6 Future Foe
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -3280,7 +3266,7 @@
   <programme start="20250226153700 +0100" stop="20250226162900 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T2 E2</title>
     <desc lang="es">Series/Ciencia ficción | 2008 | TP | ★6.0/10
-· Varios trabajadores han quedado atrapados en las oficinas de un rascacielos que ha sido tomado por unos gusanos gigantes. Votos: 67.
+· Varios trabajadores han quedado atrapados en las oficinas de un rascacielos que ha sido tomado por unos gusanos gigantes. Votos: 69.
 · Título original: Primeval (T2): Ep.2
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -3478,7 +3464,7 @@
   <programme start="20250227111200 +0100" stop="20250227121200 +0100" channel="BBC Drama">
     <title lang="es">¡Llama a la comadrona! T4 E3</title>
     <desc lang="es">Series/Drama | 2012 | TP | ★6.0/10
-· Cuarta temporada de la serie sobre Jenny, una joven enfermera que llega a Londres para trabajar como matrona junto a unas monjas anglicanas. En esta etapa se descubre a un bebé abandonado en las escaleras del convento. Votos: 16.
+· Cuarta temporada de la serie sobre Jenny, una joven enfermera que llega a Londres para trabajar como matrona junto a unas monjas anglicanas. En esta etapa se descubre a un bebé abandonado en las escaleras del convento. Votos: 18.
 · Título original: Call the Midwife (T4): Ep.3
 · País: R.U.
 · Reparto: Vanessa Redgrave, Judy Parfitt, Jessica Raine, Pam Ferris, Helen George, Laura Main.
@@ -3541,7 +3527,7 @@
   <programme start="20250227174100 +0100" stop="20250227183300 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T1 E6</title>
     <desc lang="es">Series/Ciencia ficción | 2007 | TP | ★6.0/10
-· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 45.
+· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 47.
 · Título original: Primeval (T1): Ep.6 Future Foe
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -3559,7 +3545,7 @@
   <programme start="20250227192600 +0100" stop="20250227201800 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T2 E2</title>
     <desc lang="es">Series/Ciencia ficción | 2008 | TP | ★6.0/10
-· Varios trabajadores han quedado atrapados en las oficinas de un rascacielos que ha sido tomado por unos gusanos gigantes. Votos: 67.
+· Varios trabajadores han quedado atrapados en las oficinas de un rascacielos que ha sido tomado por unos gusanos gigantes. Votos: 69.
 · Título original: Primeval (T2): Ep.2
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -3735,7 +3721,7 @@
   <programme start="20250228122400 +0100" stop="20250228132100 +0100" channel="BBC Drama">
     <title lang="es">¡Llama a la comadrona! T5 E2</title>
     <desc lang="es">Series/Drama | 2012 | TP | ★6.0/10
-· Barbara tiene dificultades para encontrar la mejor manera de ayudar una mujer joven con el marido al paro. Las duras opiniones de la hermana Evangelina traen problemas, y la Phyllis asiste en una clase de español con resultados inesperados. Votos: 39.
+· Barbara tiene dificultades para encontrar la mejor manera de ayudar una mujer joven con el marido al paro. Las duras opiniones de la hermana Evangelina traen problemas, y la Phyllis asiste en una clase de español con resultados inesperados. Votos: 41.
 · Título original: Call the Midwife (T5): Ep.2
 · País: R.U.
 · Reparto: Vanessa Redgrave, Judy Parfitt, Jessica Raine, Pam Ferris, Helen George, Laura Main.
@@ -3826,7 +3812,7 @@
   <programme start="20250228211900 +0100" stop="20250228221100 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T1 E6</title>
     <desc lang="es">Series/Ciencia ficción | 2007 | TP | ★6.0/10
-· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 45.
+· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 47.
 · Título original: Primeval (T1): Ep.6 Future Foe
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -3964,7 +3950,7 @@
   <programme start="20250301105600 +0100" stop="20250301115700 +0100" channel="BBC Drama">
     <title lang="es">Orgullo y prejuicio T1 E1</title>
     <desc lang="es">Series/Drama | 1995 | TP | ★8.0/10
-· La serie muestra cómo el orgullo y los prejuicios de las clases altas pueden condenar a dos enamorados. Votos: 84.
+· La familia Bennet está emocionada con las noticias del nuevo huésped en Netherfield Hall. Votos: 84.
 · Título original: Pride &amp; Prejudice (T1): Ep.1
 · País: R.U.
 · Dirección: Simon Langton.
@@ -3975,7 +3961,7 @@
   <programme start="20250301115700 +0100" stop="20250301125900 +0100" channel="BBC Drama">
     <title lang="es">Orgullo y prejuicio T1 E2</title>
     <desc lang="es">Series/Drama | 1995 | TP | ★6.0/10
-· La serie muestra cómo el orgullo y los prejuicios de las clases altas pueden condenar a dos enamorados. Votos: 62.
+· El primo separado del Sr. Bennet, el sr. Collins, escribe para anunciar su inmiente visita a Longbourn, la casa que heredará al morir el sr. Bennet. Votos: 62.
 · Título original: Pride &amp; Prejudice (T1): Ep.2
 · País: R.U.
 · Dirección: Simon Langton.
@@ -3986,7 +3972,7 @@
   <programme start="20250301125900 +0100" stop="20250301140000 +0100" channel="BBC Drama">
     <title lang="es">Orgullo y prejuicio T1 E3</title>
     <desc lang="es">Series/Drama | 1995 | TP | ★6.0/10
-· La serie muestra cómo el orgullo y los prejuicios de las clases altas pueden condenar a dos enamorados. Votos: 38.
+· Elizabeth recibe una sorprendente noticia y la dulce naturaleza de Jane se pone a prueba cuando escucha que Bingley y sus hermanas se han ido de Netherfield Park. Votos: 38.
 · Título original: Pride &amp; Prejudice (T1): Ep.3
 · País: R.U.
 · Dirección: Simon Langton.
@@ -3997,7 +3983,7 @@
   <programme start="20250301140000 +0100" stop="20250301150000 +0100" channel="BBC Drama">
     <title lang="es">Orgullo y prejuicio T1 E4</title>
     <desc lang="es">Series/Drama | 1995 | TP | ★6.0/10
-· La serie muestra cómo el orgullo y los prejuicios de las clases altas pueden condenar a dos enamorados. Votos: 52.
+· Rechazado por Elizabeth, Darcy vuelve a Rosing park, y le escribe revelando la verdad sobre el personaje de Wickham. Votos: 52.
 · Título original: Pride &amp; Prejudice (T1): Ep.4
 · País: R.U.
 · Dirección: Simon Langton.
@@ -4008,7 +3994,7 @@
   <programme start="20250301150000 +0100" stop="20250301155500 +0100" channel="BBC Drama">
     <title lang="es">Orgullo y prejuicio T1 E5</title>
     <desc lang="es">Series/Drama | 1995 | TP | ★8.0/10
-· La serie muestra cómo el orgullo y los prejuicios de las clases altas pueden condenar a dos enamorados. Votos: 51.
+· Darcy se complace al presentar a Elizabeth a su hermana, Georgiana, y para darle la bienvenida a ella, a su tía, a su tío, a Pemberley. Votos: 51.
 · Título original: Pride &amp; Prejudice (T1): Ep.5
 · País: R.U.
 · Dirección: Simon Langton.
@@ -4019,7 +4005,7 @@
   <programme start="20250301155500 +0100" stop="20250301165400 +0100" channel="BBC Drama">
     <title lang="es">Orgullo y prejuicio T1 E6</title>
     <desc lang="es">Series/Drama | 1995 | TP | ★6.0/10
-· La serie muestra cómo el orgullo y los prejuicios de las clases altas pueden condenar a dos enamorados. Votos: 76.
+· La sra. Bennett se complace al tener al menos a una de sus hijas casadas, mientras Elizabeth admite que estuvo equivocda sobre el sr. Darcy. Votos: 76.
 · Título original: Pride &amp; Prejudice (T1): Ep.6
 · País: R.U.
 · Dirección: Simon Langton.
@@ -4030,7 +4016,8 @@
   <programme start="20250301165400 +0100" stop="20250301175400 +0100" channel="BBC Drama">
     <title lang="es">Tess, la de los Urbervilles T1 E1</title>
     <desc lang="es">Series/Drama | 2008 | ⑯ | ★8.0/10
-· Retrata la vida rural del sur de Inglaterra a través de la figura de la protagonista, descendiente de una familia aristocrática empobrecida. Forzada por un aristócrata y condenada por una sociedad de moral estricta, Votos: 65.
+· Las dificultades fuerzan a Tess Durbeyfield a buscar apoyo de sus familiares los D'Urbervilles. Votos: 65.
+· Título original: Tess of the... (T1): Ep.1
 · País: EE.UU. y R.U.
 · Dirección: David Blair.
 · Reparto: Gemma Arterton, Eddie Redmayne, Ruth Jones, Hans Matheson, Ian Puleston-Davies.
@@ -4039,7 +4026,7 @@
   <programme start="20250301175400 +0100" stop="20250301185500 +0100" channel="BBC Drama">
     <title lang="es">Tess, la de los Urbervilles T1 E2</title>
     <desc lang="es">Series/Drama | 2008 | TP | ★8.0/10
-· Retrata la vida rural del sur de Inglaterra a través de la figura de la protagonista, descendiente de una familia aristocrática empobrecida. Forzada por un aristócrata y condenada por una sociedad de moral estricta, Votos: 46.
+· Tess vuelve a casa de lo D'Ubervilles confundida y avergonzada después de seducida por el manìlador, Alec. Votos: 46.
 · País: EE.UU. y R.U.
 · Dirección: David Blair.
 · Reparto: Gemma Arterton, Eddie Redmayne, Ruth Jones, Hans Matheson, Ian Puleston-Davies.
@@ -4048,7 +4035,7 @@
   <programme start="20250301185500 +0100" stop="20250301195500 +0100" channel="BBC Drama">
     <title lang="es">Tess, la de los Urbervilles T1 E3</title>
     <desc lang="es">Series/Drama | 2008 | TP | ★8.0/10
-· Retrata la vida rural del sur de Inglaterra a través de la figura de la protagonista, descendiente de una familia aristocrática empobrecida. Forzada por un aristócrata y condenada por una sociedad de moral estricta, Votos: 53.
+· Tess acepta casarse con Ángel, para su felicidad. Cuando él confiesa un evento deshonroso del pasado, Tess siente que puede decirle cómo es su relación con Alec D'Urberville y sus consecuencias. Votos: 53.
 · País: EE.UU. y R.U.
 · Dirección: David Blair.
 · Reparto: Gemma Arterton, Eddie Redmayne, Ruth Jones, Hans Matheson, Ian Puleston-Davies.
@@ -4057,7 +4044,7 @@
   <programme start="20250301195500 +0100" stop="20250301205600 +0100" channel="BBC Drama">
     <title lang="es">Tess, la de los Urbervilles T1 E4</title>
     <desc lang="es">Series/Drama | 2008 | TP | ★8.0/10
-· Retrata la vida rural del sur de Inglaterra a través de la figura de la protagonista, descendiente de una familia aristocrática empobrecida. Forzada por un aristócrata y condenada por una sociedad de moral estricta, Votos: 61.
+· Ángel se fue a Brasil, dejando a Tess soportando un duro invierno en una granja donde ella es incansablemente perseguida por Alec. Votos: 61.
 · País: EE.UU. y R.U.
 · Dirección: David Blair.
 · Reparto: Gemma Arterton, Eddie Redmayne, Ruth Jones, Hans Matheson, Ian Puleston-Davies.
@@ -4066,7 +4053,7 @@
   <programme start="20250301205600 +0100" stop="20250301215700 +0100" channel="BBC Drama">
     <title lang="es">Grandes esperanzas T1 E1</title>
     <desc lang="es">Series/Drama | 2011 | ⑯ | ★8.0/10
-· Adaptación de la novela de Charles Dickens basada en la historia del huérfano Pip y su fortiuito encuentro con Abel Magwitch, un convicto que se ha fugado de la cárcel y le exige comida y una lima para quitarse los grilletes. Votos: 57.
+· A través de un giro del destino, Pip, un huérfano que anhela una gran suerte en la vida, conoce a la misteriosa y excéntrica señorita Havisham, quien le muestra un oscuro mundo de posibilidades. Votos: 57.
 · País: EE.UU. y R.U.
 · Dirección: Brian Kirk.
 · Reparto: Douglas Booth, Jack Roth, Ray Winstone, David Suchet.
@@ -4075,7 +4062,7 @@
   <programme start="20250301215700 +0100" stop="20250301225800 +0100" channel="BBC Drama">
     <title lang="es">Grandes esperanzas T1 E2</title>
     <desc lang="es">Series/Drama | 2011 | ⑯ | ★8.0/10
-· Adaptación de la novela de Charles Dickens basada en la historia del huérfano Pip y su fortiuito encuentro con Abel Magwitch, un convicto que se ha fugado de la cárcel y le exige comida y una lima para quitarse los grilletes. Votos: 37.
+· La nueva vida de Pip comienza en Londres, por fin un caballero. Votos: 37.
 · País: EE.UU. y R.U.
 · Dirección: Brian Kirk.
 · Reparto: Douglas Booth, Jack Roth, Ray Winstone, David Suchet.
@@ -4084,7 +4071,7 @@
   <programme start="20250301225800 +0100" stop="20250301235900 +0100" channel="BBC Drama">
     <title lang="es">Grandes esperanzas T1 E3</title>
     <desc lang="es">Series/Drama | 2011 | ⑯ | ★8.0/10
-· Adaptación de la novela de Charles Dickens basada en la historia del huérfano Pip y su fortiuito encuentro con Abel Magwitch, un convicto que se ha fugado de la cárcel y le exige comida y una lima para quitarse los grilletes. Votos: 60.
+· La llegada de Magwitch amenaza todo lo que Pip aprecia. Votos: 60.
 · País: EE.UU. y R.U.
 · Dirección: Brian Kirk.
 · Reparto: Douglas Booth, Jack Roth, Ray Winstone, David Suchet.
@@ -4092,8 +4079,8 @@
   </programme>
   <programme start="20250301235900 +0100" stop="20250302010600 +0100" channel="BBC Drama">
     <title lang="es">Represalias T1 E1 · La tormenta</title>
-    <desc lang="es">Series/Thriller | 2016 | ⑯ | ★10.0/10
-· Grace y Adam, una pareja de recién casados, mueren brutalmente apuñalados en su casa por un ladrón, que roba un coche y huye a las Highlands escocesas. Votos: 4.
+    <desc lang="es">Series/Thriller | 2016 | ⑯ | ★6.0/10
+· Grace y Adam, una pareja de recién casados, mueren brutalmente apuñalados en su casa por un ladrón, que roba un coche y huye a las Highlands escocesas. Votos: 6.
 · País: R.U.
 · Reparto: Adrian Edmondson, Kate Bracken, Georgina Campbell, Joe Dempsie, Kate Dickie.
 · Productora: Netflix Studios, BBC Scotland.</desc>
@@ -4145,7 +4132,7 @@
   <programme start="20250302052100 +0100" stop="20250302054800 +0100" channel="BBC Drama">
     <title lang="es">Diario de un joven doctor T1 E3</title>
     <desc lang="es">Series/Drama | 2012 | ⑯ | ★6.0/10
-· Se narra la historia de un doctor durante dos épocas de su vida: cuando es un joven intrépido con muchas ganas de desempeñar su profesión, y cuando es un adulto al que el paso del tiempo ha desviado de su camino. Votos: 44.
+· Cuando Pelageya enferma gravemente, el joven médico se debate entre ella y la bella Natasha. Votos: 44.
 · País: R.U.
 · Dirección: Alex hardcastle.
 · Reparto: Jon Hamm, Daniel Radcliffe, Rosie Cavaliero, Adam Godley, Vicki Pepperdine.
@@ -4499,7 +4486,7 @@
   <programme start="20250303140600 +0100" stop="20250303145800 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T1 E6</title>
     <desc lang="es">Series/Ciencia ficción | 2007 | TP | ★6.0/10
-· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 45.
+· Un lagarto extraordinariamente evolucionado esta acechando en las calles de Londres en busca de comida. Votos: 47.
 · Título original: Primeval (T1): Ep.6 Future Foe
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -4517,7 +4504,7 @@
   <programme start="20250303155100 +0100" stop="20250303164300 +0100" channel="BBC Drama">
     <title lang="es">Invasión jurásica T2 E2</title>
     <desc lang="es">Series/Ciencia ficción | 2008 | TP | ★6.0/10
-· Varios trabajadores han quedado atrapados en las oficinas de un rascacielos que ha sido tomado por unos gusanos gigantes. Votos: 67.
+· Varios trabajadores han quedado atrapados en las oficinas de un rascacielos que ha sido tomado por unos gusanos gigantes. Votos: 69.
 · Título original: Primeval (T2): Ep.2
 · País: R.U.
 · Reparto: James Murray, Jason Flemyng, Douglas Henshall, Andrew Lee Potts, Lucy Brown, Hannah Spearritt.
@@ -4702,7 +4689,7 @@
   <programme start="20250225132000 +0100" stop="20250225145500 +0100" channel="M+ Cine Español">
     <title lang="es">Lázaro de Tormes</title>
     <desc lang="es">Cine/Comedia | 2000 | ⑦ | ★6.0/10
-· Un maduro Lázaro de Tormes se ve obligado a demostrar ante un tribunal de Toledo que su forma de vida se debe a la necesidad de escapar del hambre y no al deseo de cometer delitos. Votos: 127.
+· Un maduro Lázaro de Tormes se ve obligado a demostrar ante un tribunal de Toledo que su forma de vida se debe a la necesidad de escapar del hambre y no al deseo de cometer delitos. Votos: 128.
 · País: España
 · Dirección: Fernando Fernán Gómez, José Luis García Sánchez.
 · Reparto: Rafael Álvarez \, Karra Elejalde, Beatriz Rico, Manuel Alexandre, Francisco Algora, Álvaro de Luna, Juan Luis Galiardo, Agustín González, Emilio Laguna, José Lifante, Manuel Lozano, Francisco Rabal, Tina Sáinz, José Alias.
@@ -4714,7 +4701,7 @@
   <programme start="20250225145500 +0100" stop="20250225164500 +0100" channel="M+ Cine Español">
     <title lang="es">Los santos inocentes</title>
     <desc lang="es">Cine/Drama | 1984 | ⑯ | ★8.0/10
-· España franquista. Durante la década de los sesenta, una familia de campesinos vive miserablemente en un cortijo extremeño bajo la férula del terrateniente. Su vida es renuncia, sacrificio y obediencia. Votos: 454.
+· España franquista. Durante la década de los sesenta, una familia de campesinos vive miserablemente en un cortijo extremeño bajo la férula del terrateniente. Su vida es renuncia, sacrificio y obediencia. Votos: 459.
 · País: España
 · Dirección: Mario Camus.
 · Reparto: Alfredo Landa, Francisco Rabal, Terele Pávez, Juan Diego, Ágata Lys, Agustín González, Mary Carrillo, Belén Ballesteros, Juan Sachez, Susana Sánchez.
@@ -4744,7 +4731,7 @@
   <programme start="20250225183000 +0100" stop="20250225200000 +0100" channel="M+ Cine Español">
     <title lang="es">El hijo del cura</title>
     <desc lang="es">Cine/Comedia | 1982 | ⑯ | ★6.0/10
-· Una joven embarazada hace creer a todo el mundo que su hijo es del cura para evitar que su padre mate al novio. Votos: 131.
+· Una joven embarazada hace creer a todo el mundo que su hijo es del cura para evitar que su padre mate al novio. Votos: 132.
 · País: España
 · Dirección: Mariano Ozores.
 · Reparto: Fernando Esteso, Juanito Navarro, Adriana Ozores, Mari Carmen Prendes, Antonio Ozores, José Sazatornil \.
@@ -6022,7 +6009,7 @@
   <programme start="20250225062500 +0100" stop="20250225065000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E1 · La fiesta del té encantada / Campistas infelices</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· La pandilla va a una fiesta de té, y Goofy y Daisy encuentran un lugar perfecto. La pandilla molesta accidentalmente a una mamá mapache y a sus crías en su campamento. Votos: 35.
+· La pandilla va a una fiesta de té, y Goofy y Daisy encuentran un lugar perfecto. La pandilla molesta accidentalmente a una mamá mapache y a sus crías en su campamento. Votos: 37.
 · Título original: Mickey Mouse... (T2): The Enchanted Tea Party! / Unhappy Campers
 · País: EE.UU.
 · Dirección: Matthew O'Callaghan.
@@ -6046,7 +6033,7 @@
   <programme start="20250225072500 +0100" stop="20250225073500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T1 E22 · La piscina</title>
     <desc lang="es">Infantil/Dibujos animados | 2019 | TP | ★6.0/10
-· ¡Bluey y su padre echan de menos a su madre cuando van a la piscina y ven que se olvidaron de todo!. Votos: 137.
+· ¡Bluey y su padre echan de menos a su madre cuando van a la piscina y ven que se olvidaron de todo!. Votos: 139.
 · Título original: Bluey (T1): The Pool
 · País: Australia y R.U.
 · Guion: Tim Bain, John McGeachin.
@@ -6265,7 +6252,7 @@
   <programme start="20250225144500 +0100" stop="20250225145500 +0100" channel="Disney Junior">
     <title lang="es">SuperKitties T1 E4 · Árboles de queso</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Los SuperKitties deben evitar que la Rata de Laboratorio convierta ValleKitty en queso, pero Ginny tiene miedo de la sustancia pegajosa. Votos: 10.
+· Los SuperKitties deben evitar que la Rata de Laboratorio convierta ValleKitty en queso, pero Ginny tiene miedo de la sustancia pegajosa. Votos: 11.
 · Título original: SuperKitties (T1): The SuperKitties and the Cheese Trees
 · País: EE.UU.
 · Dirección: Chad Van De Keere.
@@ -6287,8 +6274,8 @@
   </programme>
   <programme start="20250225155000 +0100" stop="20250225162000 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E17 · Construcción de un pequeño granero / Un trabajo colorido</title>
-    <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★8.0/10
-· Pupstruction tiene que construir su edificio más pequeño y delicado hasta la fecha. Pupstruction construye una casa para un camaleón, ¡que no se decide de qué color debe ser!. Votos: 2.
+    <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★10.0/10
+· Pupstruction tiene que construir su edificio más pequeño y delicado hasta la fecha. Pupstruction construye una casa para un camaleón, ¡que no se decide de qué color debe ser!. Votos: 4.
 · Título original: Pupstruction... (T1): Itty Bitty Barn Build/ A Colorful Job
 · País: EE.UU.</desc>
   </programme>
@@ -6302,7 +6289,7 @@
   <programme start="20250225164500 +0100" stop="20250225165500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E36 · Casita</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo construyen una casa muy especial para Kimjim, su muñeco de peluche. Votos: 7.
+· Bluey y Bingo construyen una casa muy especial para Kimjim, su muñeco de peluche. Votos: 10.
 · Título original: Bluey S3 (T3): Cubby
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6416,7 +6403,7 @@
   <programme start="20250225201500 +0100" stop="20250225202000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E53 · Asamblea familiar</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando acusan a papá de "aletear" la cara de Bluey mientras se levantaba de la cama, lo llevan a juicio con mamá como juez y Bluey y Bingo como testigos. Pero, ¿qué hacía Bluey allí?. Votos: 16.
+· Cuando acusan a papá de "aletear" la cara de Bluey mientras se levantaba de la cama, lo llevan a juicio con mamá como juez y Bluey y Bingo como testigos. Pero, ¿qué hacía Bluey allí?. Votos: 18.
 · Título original: Bluey S3 (T3): Family Meeting
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6466,42 +6453,42 @@
   <programme start="20250225223500 +0100" stop="20250225224000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E52 · Besito</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo quieren a papá para ellas solas hasta que descubren que tiene algunas costumbres asquerosas. Votos: 15.
+· Bluey y Bingo quieren a papá para ellas solas hasta que descubren que tiene algunas costumbres asquerosas. Votos: 17.
 · Título original: Bluey S3 (T3): Smoochy Kiss
 · País: Australia</desc>
   </programme>
   <programme start="20250225224000 +0100" stop="20250225225000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E50 · ¡Sorpresa!</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bluey y Bingo quieren que su padre juege a dos cosas distintas al mismo tiempo, así que él lo intenta. Votos: 10.
+· Bluey y Bingo quieren que su padre juege a dos cosas distintas al mismo tiempo, así que él lo intenta. Votos: 11.
 · Título original: Bluey S3 (T3): Surprise
 · País: Australia</desc>
   </programme>
   <programme start="20250225225000 +0100" stop="20250225230000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E49 · El cesto fantasma</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Papá finge ser un agente inmobiliario y vende la casa de la abuela a mamá. Pero Janet y Rita no quieren marcharse. Votos: 3.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
+· Papá finge ser un agente inmobiliario y vende la casa de la abuela a mamá. Pero Janet y Rita no quieren marcharse. Votos: 7.
 · Título original: Bluey S3 (T3): Ghostbasket
 · País: Australia</desc>
   </programme>
   <programme start="20250225230000 +0100" stop="20250225230500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E48 · Pista de agua</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bingo y Lila tienen muchas ganas de deslizarse por su pista de agua nueva, pero tienen que ir con cuidado para no aplastar a ningún bichllo. Votos: 3.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
+· Bingo y Lila tienen muchas ganas de deslizarse por su pista de agua nueva, pero tienen que ir con cuidado para no aplastar a ningún bichllo. Votos: 5.
 · Título original: Bluey S3 (T3): Slide
 · País: Australia</desc>
   </programme>
   <programme start="20250225230500 +0100" stop="20250225231500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E47 · Dragón</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey le pide a su padre que la ayude a dibujar un dragón para su cuento, pero a él no se le da muy bien dibujar. Votos: 12.
+· Bluey le pide a su padre que la ayude a dibujar un dragón para su cuento, pero a él no se le da muy bien dibujar. Votos: 16.
 · Título original: Bluey S3 (T3): Dragon
 · País: Australia</desc>
   </programme>
   <programme start="20250225231500 +0100" stop="20250225232500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E46 · La tienda de las teles</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· En la farmacia, Bluey, Bingo y sus amigos se divierten gracias a los monitores de las cámaras de seguridad. Votos: 10.
+· En la farmacia, Bluey, Bingo y sus amigos se divierten gracias a los monitores de las cámaras de seguridad. Votos: 13.
 · Título original: Bluey S3 (T3): TV Shop
 · País: Australia</desc>
   </programme>
@@ -6572,7 +6559,7 @@
   <programme start="20250226024000 +0100" stop="20250226030500 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E21 · Dino ve, dino hace / ¡Pete, el Bebé Poderoso!</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Mickey y la pandilla se dirigen al Mundo Prehistórico para una fiesta de pijamas con unos dinosaurios bebés. Donald y Pete se meten en una fuente de la juventud que los convierte en bebés!. Votos: 41.
+· Mickey y la pandilla se dirigen al Mundo Prehistórico para una fiesta de pijamas con unos dinosaurios bebés. Donald y Pete se meten en una fuente de la juventud que los convierte en bebés!. Votos: 44.
 · Título original: Mickey Mouse... (T2): Dino See, Dino Do / Pete the Mighty Baby!
 · País: EE.UU.
 · Productora: Walt Disney Television Animation.</desc>
@@ -6580,7 +6567,7 @@
   <programme start="20250226030500 +0100" stop="20250226033000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E18 · Dino Safari</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· La pandilla visita Prehistoric World para sentarse en T-top y algunos huevos de dinosaurio. Votos: 24.
+· La pandilla visita Prehistoric World para sentarse en T-top y algunos huevos de dinosaurio. Votos: 25.
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250226033000 +0100" stop="20250226035500 +0100" channel="Disney Junior">
@@ -6593,7 +6580,7 @@
   <programme start="20250226035500 +0100" stop="20250226042000 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E30 · El ronquido interminable / Maquinar y maquinar sin parar</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Un roncasaurio se echa la siesta en la puerta de la cueva y para la fiesta de cumpleaños de Eureka antes de que pueda empezar. En una excursión a la biblioteca, Eureka no puede dejar de maquinar. Votos: 22.
+· Un roncasaurio se echa la siesta en la puerta de la cueva y para la fiesta de cumpleaños de Eureka antes de que pueda empezar. En una excursión a la biblioteca, Eureka no puede dejar de maquinar. Votos: 24.
 · Título original: Eureka! (dobles) (T1): Never Ending Snorey, The/ Thinker Inker-Inkering
 · País: EE.UU.</desc>
   </programme>
@@ -6607,7 +6594,7 @@
   <programme start="20250226044500 +0100" stop="20250226050000 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E49 · Un sustituto para pelusa</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Bog pierde la tortuga de peluche de Clod y lo oculta mientras hace un Quishy nuevo. Votos: 6.
+· Bog pierde la tortuga de peluche de Clod y lo oculta mientras hace un Quishy nuevo. Votos: 8.
 · Título original: Eureka! (T1): Make a Quish
 · País: EE.UU.
 · Dirección: Norton Virgien.
@@ -6627,7 +6614,7 @@
   <programme start="20250226051000 +0100" stop="20250226053500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E22 · Fabricando luz de luna / Dipply va al dentista</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka busca un modo de meter la luna dentro de casa para que sus amigos puedan leer por la noche. Dipply despierta con dolor de muelas, pero le da miedo ir a ver a Sierra, la dentista de Rocky Falls. Votos: 33.
+· Eureka busca un modo de meter la luna dentro de casa para que sus amigos puedan leer por la noche. Dipply despierta con dolor de muelas, pero le da miedo ir a ver a Sierra, la dentista de Rocky Falls. Votos: 36.
 · Título original: Eureka! (dobles) (T1): Making Up Moonlight/ Dipply Goes to the Dentist
 · País: EE.UU.</desc>
   </programme>
@@ -6662,28 +6649,28 @@
   <programme start="20250226071500 +0100" stop="20250226072500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E45 · La gran final</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Lucky, Chuky y su padre van a casa de los Pastor para ver juntos la final de rugby. Votos: 25.
+· Lucky, Chuky y su padre van a casa de los Pastor para ver juntos la final de rugby. Votos: 26.
 · Título original: Bluey S3 (T3): The Decider
 · País: Australia</desc>
   </programme>
   <programme start="20250226072500 +0100" stop="20250226073500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E44 · Las chicas del bosque</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· En el cole, Coco quiere jugar con Indy a las "Chicas del bosque", pero Chloe quiere que juege a otra cosa. Votos: 7.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★4.0/10
+· En el cole, Coco quiere jugar con Indy a las "Chicas del bosque", pero Chloe quiere que juege a otra cosa. Votos: 9.
 · Título original: Bluey S3 (T3): Wild Girls
 · País: Australia</desc>
   </programme>
   <programme start="20250226073500 +0100" stop="20250226074000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E43 · Presentación</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando Bandido le dice a Bluey que se acabe el desayuno, ella quiere saber por qué su padre siempre le está mandando. Votos: 14.
+· Cuando Bandido le dice a Bluey que se acabe el desayuno, ella quiere saber por qué su padre siempre le está mandando. Votos: 17.
 · Título original: Bluey S3 (T3): Show &amp; Tell
 · País: Australia</desc>
   </programme>
   <programme start="20250226074000 +0100" stop="20250226075000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E42 · Relajarse</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo prefieren jugar a explorar el apartamento de las vacaciones a relajarse en la playa con su madre. Votos: 18.
+· Bluey y Bingo prefieren jugar a explorar el apartamento de las vacaciones a relajarse en la playa con su madre. Votos: 20.
 · Título original: Bluey S3 (T3): Relax
 · País: Australia</desc>
   </programme>
@@ -6697,7 +6684,7 @@
   <programme start="20250226080000 +0100" stop="20250226080500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E40 · Ejercicio</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bingo juega a ser la empleada nueva de Bluey mientras su padre entrena en el jardín. Bluey, que es la jefa, le enseña a Bingo la oficina y su padre hace más ejercicio que en toda su vida. Votos: 16.
+· Bingo juega a ser la empleada nueva de Bluey mientras su padre entrena en el jardín. Bluey, que es la jefa, le enseña a Bingo la oficina y su padre hace más ejercicio que en toda su vida. Votos: 18.
 · Título original: Bluey S3 (T3): Exercise
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6757,7 +6744,7 @@
   <programme start="20250226112000 +0100" stop="20250226115000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E5 · La maldición de la Almeja Costrosa / Sueños divertidos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Donald abre una almeja gigante y desata una maldición. La pandilla ayuda a Goofy a dominar su miedo a soñar acompañándole en una divertida aventura mientras duermen. Votos: 38.
+· Donald abre una almeja gigante y desata una maldición. La pandilla ayuda a Goofy a dominar su miedo a soñar acompañándole en una divertida aventura mientras duermen. Votos: 40.
 · Título original: Mickey Mouse... (T2): Curse of the Crusty Clam! / Dream a Little Dream
 · País: EE.UU.
 · Dirección: Matthew O'Callaghan.
@@ -6766,8 +6753,8 @@
   </programme>
   <programme start="20250226115000 +0100" stop="20250226122000 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E21 · La parrita francesa / Cachorros basureros</title>
-    <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★8.0/10
-· A los cachorros les preocupa que su castillo no sea ideal para la princesa, hasta que se dan cuenta de que le encanta jugar. Roxy debe reconocer su miedo a la oscuridad ante el equipo. Votos: 4.
+    <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
+· A los cachorros les preocupa que su castillo no sea ideal para la princesa, hasta que se dan cuenta de que le encanta jugar. Roxy debe reconocer su miedo a la oscuridad ante el equipo. Votos: 6.
 · Título original: Pupstruction... (T1): Pup Princess/ Trash Truck Pups
 · País: EE.UU.</desc>
   </programme>
@@ -6788,7 +6775,7 @@
   <programme start="20250226131000 +0100" stop="20250226132000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E33 · Los comerciantes</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo se esconden bajo la casa y espían a dos misteriosos comerciantes que trabajan en el patio trasero. Votos: 22.
+· Bluey y Bingo se esconden bajo la casa y espían a dos misteriosos comerciantes que trabajan en el patio trasero. Votos: 23.
 · Título original: Bluey S3 (T3): Tradies
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6796,7 +6783,7 @@
   <programme start="20250226132000 +0100" stop="20250226133000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E32 · Pijamas</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Brandy, la hermana de mamá, viene de visita y les trae a las niñas un pijama de regalo. ¡La efecto que causa en Bingo es sorprendente!. Votos: 17.
+· Brandy, la hermana de mamá, viene de visita y les trae a las niñas un pijama de regalo. ¡La efecto que causa en Bingo es sorprendente!. Votos: 22.
 · Título original: Bluey S3 (T3): Onesies
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6804,7 +6791,7 @@
   <programme start="20250226133000 +0100" stop="20250226133500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E31 · El niño tortuga</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bingo se encuentra una tortuga de peluche en los columpios y quiere llevársela a casa, pero su padre le dice que eso no está bien. Votos: 19.
+· Bingo se encuentra una tortuga de peluche en los columpios y quiere llevársela a casa, pero su padre le dice que eso no está bien. Votos: 23.
 · Título original: Bluey S3 (T3): Turtle Boy
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6812,7 +6799,7 @@
   <programme start="20250226133500 +0100" stop="20250226135000 +0100" channel="Disney Junior">
     <title lang="es">SuperKitties T1 E13 · Buscando al Señor Verdi</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Sr. Zarpazos roba el juguete preferido de Bitsy, el Señor Verdi. Votos: 10.
+· Sr. Zarpazos roba el juguete preferido de Bitsy, el Señor Verdi. Votos: 11.
 · Título original: SuperKitties (T1): The SuperKitties and the Missing Mr. Greenie
 · País: EE.UU.
 · Dirección: Chad Van De Keere.
@@ -6884,7 +6871,7 @@
   <programme start="20250226164500 +0100" stop="20250226165500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E35 · El espacio</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Mackenzie, Jack y Rusty juegan a ser unos astronautas que se van en misión a Marte. Sin embargo, durante el viaje, Mackenzie desaparece varias veces y nadie sabe por qué: ¡Ni siquiera él!. Votos: 17.
+· Mackenzie, Jack y Rusty juegan a ser unos astronautas que se van en misión a Marte. Sin embargo, durante el viaje, Mackenzie desaparece varias veces y nadie sabe por qué: ¡Ni siquiera él!. Votos: 19.
 · Título original: Bluey S3 (T3): Space
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6906,7 +6893,7 @@
   <programme start="20250226171500 +0100" stop="20250226172500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E30 · Críquet</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★4.0/10
-· Se celebra un partido amistoso de críquet en el barrio y ninguno de los padres puede eliminar a Rusty, que ha pasado muchas tardes perfeccionando su técnica de bateo. Votos: 5.
+· Se celebra un partido amistoso de críquet en el barrio y ninguno de los padres puede eliminar a Rusty, que ha pasado muchas tardes perfeccionando su técnica de bateo. Votos: 6.
 · Título original: Bluey S3 (T3): Cricket
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6914,7 +6901,7 @@
   <programme start="20250226172500 +0100" stop="20250226173500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E29 · Suciedad</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Judo quiere jugar en la tierra con Bluey y Bingo, pero no puede ensuciarse. Votos: 22.
+· Judo quiere jugar en la tierra con Bluey y Bingo, pero no puede ensuciarse. Votos: 26.
 · Título original: Bluey S3 (T3): Dirt
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -6922,7 +6909,7 @@
   <programme start="20250226173500 +0100" stop="20250226174000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E28 · Cuento de hadas</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Papá les cuenta a Bluey y a Bingo un cuento de hadas de la vida real acerca de la infancia en un lugar salvaje llamado "los 80" que trata sobre un niño que fue maldecido por ser malo con su hermano pequeño. Votos: 24.
+· Papá les cuenta a Bluey y a Bingo un cuento de hadas de la vida real acerca de la infancia en un lugar salvaje llamado "los 80" que trata sobre un niño que fue maldecido por ser malo con su hermano pequeño. Votos: 25.
 · Título original: Bluey S3 (T3): Fairytale
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -6946,7 +6933,7 @@
   <programme start="20250226182000 +0100" stop="20250226183500 +0100" channel="Disney Junior">
     <title lang="es">SuperKitties T1 E30 · El problema con Pickles</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Pickles no deja de mentir y los SuperKitties no le creen cuando ve robar a Ladrón Felino. Votos: 10.
+· Pickles no deja de mentir y los SuperKitties no le creen cuando ve robar a Ladrón Felino. Votos: 12.
 · Título original: SuperKitties (T1): The SuperKitties and the Pickle Problem
 · País: EE.UU.</desc>
   </programme>
@@ -6970,7 +6957,7 @@
   <programme start="20250226193000 +0100" stop="20250226194000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E27 · Muñeco de trapo</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· El padre de Bluey y Bingo acepta llevarlas a comprar un helado si consiguen llevarlo hasta el coche. El único problema es? ¡Que se pone en modo "Muñeco de trapo"!. Votos: 35.
+· El padre de Bluey y Bingo acepta llevarlas a comprar un helado si consiguen llevarlo hasta el coche. El único problema es? ¡Que se pone en modo "Muñeco de trapo"!. Votos: 36.
 · Título original: Bluey S3 (T3): Ragdoll
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7019,7 +7006,7 @@
   <programme start="20250226201500 +0100" stop="20250226202000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E22 · Pizzeras</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo hacen pizzas de barro y se las entregan a los adultos, pero ¡la rueda de su coche infantil se cae todo el rato!. Votos: 28.
+· Bluey y Bingo hacen pizzas de barro y se las entregan a los adultos, pero ¡la rueda de su coche infantil se cae todo el rato!. Votos: 29.
 · Título original: Bluey S3 (T3): Pizza Girls
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7061,14 +7048,14 @@
   <programme start="20250226214500 +0100" stop="20250226221000 +0100" channel="Disney Junior">
     <title lang="es">Unidad de rescate (dobles) T1 E25 · Los Autotrovadores / ¡Motopolo!</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· La unidad de rescate ayuda a unos músicos ambulantes a comprar un motor nuevo organizando un concierto y recaudando dinero. Flash es nombrado capitán del equipo de motopolo. Votos: 11.
+· La unidad de rescate ayuda a unos músicos ambulantes a comprar un motor nuevo organizando un concierto y recaudando dinero. Flash es nombrado capitán del equipo de motopolo. Votos: 12.
 · Título original: Firebuds (T1): The Four Door Troubadours/ Moto-Polo!
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250226221000 +0100" stop="20250226223500 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E30 · Crystal Aqua contra las algas rosas / La gran aventura de Trolland</title>
     <desc lang="es">Infantil/Preescolar | 2021 | TP | ★6.0/10
-· La pandilla necesita la ayuda de Crystal Clearwater tras descubrir que Weasel ha traído una especia invasora. Trolland emprende una épica aventura para ser un caballero heroico del rey Ludwig. Votos: 45.
+· La pandilla necesita la ayuda de Crystal Clearwater tras descubrir que Weasel ha traído una especia invasora. Trolland emprende una épica aventura para ser un caballero heroico del rey Ludwig. Votos: 46.
 · Título original: Mickey Mouse... (T2): Crystal Clearwater vs. the Annoying Algae / Trolland's Big Adventure
 · País: EE.UU.
 · Productora: Walt Disney Television Animation.</desc>
@@ -7076,7 +7063,7 @@
   <programme start="20250226223500 +0100" stop="20250226224000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E21 · LLuvia</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Una fuerte tormenta de verano cae sobre la casa de los Pastor y Bluey está decidida a hacer una presa para parar el agua del jardín. Mientras su madre intenta que deje de manchar de barro la casa. Votos: 30.
+· Una fuerte tormenta de verano cae sobre la casa de los Pastor y Bluey está decidida a hacer una presa para parar el agua del jardín. Mientras su madre intenta que deje de manchar de barro la casa. Votos: 31.
 · Título original: Bluey S3 (T3): Rain
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7086,7 +7073,7 @@
   <programme start="20250226224000 +0100" stop="20250226225000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E20 · Tarta paulova</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Las niñas juegan a las cafeterías para que Bingo pueda comer tarta paulova, pero su padre, que hace de chef, no es capaz de prepararla bien. Cuando Bluey lo despide, él monta otra cafetería justo al lado. Votos: 35.
+· Las niñas juegan a las cafeterías para que Bingo pueda comer tarta paulova, pero su padre, que hace de chef, no es capaz de prepararla bien. Cuando Bluey lo despide, él monta otra cafetería justo al lado. Votos: 36.
 · Título original: Bluey S3 (T3): Pavlova
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7106,7 +7093,7 @@
   <programme start="20250226230000 +0100" stop="20250226230500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E18 · Exploradores</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Mientras espera a que vengan a recogerlo al colegio, Jack juega a que es un marinero que intenta llegar a casa, a Australia. Al mismo tiempo, su padre se pierde de camino al colegio. Votos: 36.
+· Mientras espera a que vengan a recogerlo al colegio, Jack juega a que es un marinero que intenta llegar a casa, a Australia. Al mismo tiempo, su padre se pierde de camino al colegio. Votos: 37.
 · Título original: Bluey S3 (T3): Explorers
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7116,7 +7103,7 @@
   <programme start="20250226230500 +0100" stop="20250226231500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E17 · Perfecto</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey quiere que su tarjeta del Día del Padre sea perfecta, pero ¡no sabe qué dibujar! Su madre le recuerda todos los momentos divertidos que ha vivido con su padre y que él tampoco es nada perfecto. Votos: 36.
+· Bluey quiere que su tarjeta del Día del Padre sea perfecta, pero ¡no sabe qué dibujar! Su madre le recuerda todos los momentos divertidos que ha vivido con su padre y que él tampoco es nada perfecto. Votos: 37.
 · Título original: Bluey S3 (T3): Perfect
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7204,14 +7191,14 @@
   <programme start="20250227030500 +0100" stop="20250227033000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E8 · Cora el cangrejo pirata / El curioso caso del científico chiflado</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Goofy tiene celos de que Cora el cangrejo gigante sea el contramaestre del Capitán Huesos Salados. Los ayudantes de Von Pato le hacen invisible por accidente. Votos: 36.
+· Goofy tiene celos de que Cora el cangrejo gigante sea el contramaestre del Capitán Huesos Salados. Los ayudantes de Von Pato le hacen invisible por accidente. Votos: 38.
 · Título original: Mickey Mouse... (T2): Cora the Pirate Crab! / The Curious Case of the Kooky Scientist
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250227033000 +0100" stop="20250227035500 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E4 · El día de la tarta de Clarabelle / El nuevo cachorro de Minnie</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Clarabelle se siente abrumada por las cosas que tiene que hacer durante el Día del Pastel. Minnie adopta un nuevo cachorro y no está preparada para entrenarlo. Votos: 40.
+· Clarabelle se siente abrumada por las cosas que tiene que hacer durante el Día del Pastel. Minnie adopta un nuevo cachorro y no está preparada para entrenarlo. Votos: 41.
 · Título original: Mickey Mouse... (T2): Clarabelle's Pie Day / Minnie's New Puppy
 · País: EE.UU.
 · Dirección: Matthew O'Callaghan.
@@ -7228,7 +7215,7 @@
   <programme start="20250227042000 +0100" stop="20250227044500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E7 · La luz al final de la cueva / Canga-ave es la clave</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Cuando nuestros amigos exploran una cueva, el normalmente intrépido Pepper reconoce que tiene miedo a la oscuridad. KB, el amigo de Eureka, no sabe si saltar con los cangadones o volar con las aves. Votos: 19.
+· Cuando nuestros amigos exploran una cueva, el normalmente intrépido Pepper reconoce que tiene miedo a la oscuridad. KB, el amigo de Eureka, no sabe si saltar con los cangadones o volar con las aves. Votos: 22.
 · Título original: Eureka! (dobles) (T1): Light at the End of the Cave/ Kanga-Bird is the Word
 · País: EE.UU.</desc>
   </programme>
@@ -7255,7 +7242,7 @@
   <programme start="20250227051000 +0100" stop="20250227053500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E23 · La bandada de CP / Ember recuerda</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Cuando un invento atrae a una bandada de pájaros kanga, KB se pregunta si debería abandonar Rocky Falls con ellos. Eureka ayuda a Ember a vencer el miedo escénico. Votos: 25.
+· Cuando un invento atrae a una bandada de pájaros kanga, KB se pregunta si debería abandonar Rocky Falls con ellos. Eureka ayuda a Ember a vencer el miedo escénico. Votos: 29.
 · Título original: Eureka! (dobles) (T1): Kbs of a Feather/ Ember Remembers
 · País: EE.UU.</desc>
   </programme>
@@ -7279,7 +7266,7 @@
   <programme start="20250227062500 +0100" stop="20250227065000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E10 · Plumas de pájaro / Sal contra pimienta</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· La cotorra de la contramaestre Cuckoo Loca hace preguntas que la ponen en evidencia. El capitán Huesos Salados necesita la ayuda del grupo para encontrar un tesoro antes que su rival, Pepper Lemon. Votos: 39.
+· La cotorra de la contramaestre Cuckoo Loca hace preguntas que la ponen en evidencia. El capitán Huesos Salados necesita la ayuda del grupo para encontrar un tesoro antes que su rival, Pepper Lemon. Votos: 41.
 · Título original: Mickey Mouse... (T2): Birds of a Feather / Salty vs. Pepper
 · País: EE.UU.</desc>
   </programme>
@@ -7307,7 +7294,7 @@
   <programme start="20250227072500 +0100" stop="20250227073500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E14 · Corderito</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Papá accede a jugar al corderito con Bluey y Bingo para que no molesten a su madre, que se ha tomado un merecido descanso. Resulta que cuidar de un cordero da más trabajo del que se esperaban. Votos: 25.
+· Papá accede a jugar al corderito con Bluey y Bingo para que no molesten a su madre, que se ha tomado un merecido descanso. Resulta que cuidar de un cordero da más trabajo del que se esperaban. Votos: 26.
 · Título original: Bluey S3 (T3): Sheepdog
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7337,7 +7324,7 @@
   <programme start="20250227075000 +0100" stop="20250227080000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E11 · La odisea del curri</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando van a un intercambio de curry en casa de Mackenzie cruzando el parque, Bingo y papá tendrán que desafiar a una urraca que se les lanza en picado para proteger su nido. Votos: 28.
+· Cuando van a un intercambio de curry en casa de Mackenzie cruzando el parque, Bingo y papá tendrán que desafiar a una urraca que se les lanza en picado para proteger su nido. Votos: 29.
 · Título original: Bluey S3 (T3): Curry Quest
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7347,7 +7334,7 @@
   <programme start="20250227080000 +0100" stop="20250227080500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E10 · Unicorse</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey no se puede dormir, así que su madre le lee un cuento, pero las interrumpe Unicorsio, la marioneta más pesada del mundo. Bluey intenta que cambie. Votos: 21.
+· Bluey no se puede dormir, así que su madre le lee un cuento, pero las interrumpe Unicorsio, la marioneta más pesada del mundo. Bluey intenta que cambie. Votos: 22.
 · País: Australia y R.U.
 · Reparto: Bluey.
 · Guion: Tim Bain, John McGeachin.
@@ -7404,7 +7391,7 @@
   <programme start="20250227100000 +0100" stop="20250227102500 +0100" channel="Disney Junior">
     <title lang="es">Unidad de rescate (dobles) T1 E24 · Fuego cumpleañero / Todos "lovean" a Axl</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Flash vende sus mangueras para poder hacerle a Bo el mejor regalo de cumpleaños del mundo. Cuando Axl ve que a la gente le encantan sus acrobacias, empieza a exhibirse para JuneTube. Votos: 10.
+· Flash vende sus mangueras para poder hacerle a Bo el mejor regalo de cumpleaños del mundo. Cuando Axl ve que a la gente le encantan sus acrobacias, empieza a exhibirse para JuneTube. Votos: 13.
 · Título original: Firebuds (T1): The Birthday Blaze/ Everybody Loves Axl
 · País: EE.UU.</desc>
   </programme>
@@ -7425,7 +7412,7 @@
   <programme start="20250227112000 +0100" stop="20250227115000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E14 · 3:10 a Rocky Road / Por favor y gracias</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Las comadrejas roban un tren lleno de helado Rocky Road para quedárselo todo para ellas. Invitan a la pandilla y a sus mascotas a un baile, y Mortimer se niega a usar buenos modales. Votos: 45.
+· Las comadrejas roban un tren lleno de helado Rocky Road para quedárselo todo para ellas. Invitan a la pandilla y a sus mascotas a un baile, y Mortimer se niega a usar buenos modales. Votos: 49.
 · Título original: Mickey Mouse... (T2): 3:10 to Rocky Road / Please and Thank You
 · País: EE.UU.</desc>
   </programme>
@@ -7438,15 +7425,15 @@
   </programme>
   <programme start="20250227122000 +0100" stop="20250227124500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E17 · Construcción de un pequeño granero / Un trabajo colorido</title>
-    <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★8.0/10
-· Pupstruction tiene que construir su edificio más pequeño y delicado hasta la fecha. Pupstruction construye una casa para un camaleón, ¡que no se decide de qué color debe ser!. Votos: 2.
+    <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★10.0/10
+· Pupstruction tiene que construir su edificio más pequeño y delicado hasta la fecha. Pupstruction construye una casa para un camaleón, ¡que no se decide de qué color debe ser!. Votos: 4.
 · Título original: Pupstruction... (T1): Itty Bitty Barn Build/ A Colorful Job
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250227124500 +0100" stop="20250227125500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E3 · Promesas</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· ¡Bluey no cumple nunca sus promesas! Pero al ver lo mucho que Bingo confía en la palabra de su madre, aprende la fuerza que tienen las promesas y por qué es importante cumplirlas. Votos: 24.
+· ¡Bluey no cumple nunca sus promesas! Pero al ver lo mucho que Bingo confía en la palabra de su madre, aprende la fuerza que tienen las promesas y por qué es importante cumplirlas. Votos: 26.
 · Título original: Bluey S3 (T3): Promises
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7456,7 +7443,7 @@
   <programme start="20250227125500 +0100" stop="20250227130500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E2 · Carrera de obstáculos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Mamá prepara una carrera de obstáculos en el jardín para divertirse, pero ¡papá quiere competir! Ahora, las niñas están decididas a ganar cueste lo que cueste. Votos: 27.
+· Mamá prepara una carrera de obstáculos en el jardín para divertirse, pero ¡papá quiere competir! Ahora, las niñas están decididas a ganar cueste lo que cueste. Votos: 28.
 · Título original: Bluey S3 (T3): Obstacle Course
 · País: Australia y R.U.
 · Reparto: Bluey.
@@ -7567,7 +7554,7 @@
   <programme start="20250227164500 +0100" stop="20250227165500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E34 · Yayamóvil</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Muffin juega a ser la abuelita gruñona en un mercadillo y obliga a su tío a empujarla en un scooter para gente con problemas de movilidad. Cuando aparece una abuela gruñona de verdad y decide comprarlo, Muffin negocia. Votos: 20.
+· Muffin juega a ser la abuelita gruñona en un mercadillo y obliga a su tío a empujarla en un scooter para gente con problemas de movilidad. Cuando aparece una abuela gruñona de verdad y decide comprarlo, Muffin negocia. Votos: 22.
 · Título original: Bluey S3 (T3): Granny Mobile
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -7856,7 +7843,7 @@
   <programme start="20250228042000 +0100" stop="20250228044500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E10 · La gran carrera por el fruto / De acampada</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka y sus compañeros de clase compiten por escalar un árbol para probar el singular fruto que crece en él. Todos menos Eureka quieren volver a casa en su primera noche de acampada. Votos: 21.
+· Eureka y sus compañeros de clase compiten por escalar un árbol para probar el singular fruto que crece en él. Todos menos Eureka quieren volver a casa en su primera noche de acampada. Votos: 22.
 · Título original: Eureka! (dobles) (T1): Great Wafflefruit Race, The/ Home Away
 · País: EE.UU.</desc>
   </programme>
@@ -7897,7 +7884,7 @@
   <programme start="20250228060000 +0100" stop="20250228062500 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E9 · ¡Dientes o consecuencias! / Juegos heroicos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· El Hada Madrina necesita ayuda para conseguir un diente de Willie el Leñador. Pete el Fuerte compite en los juegos heroicos y subestima a Saiya, un héroe maya muy bajito. Votos: 39.
+· El Hada Madrina necesita ayuda para conseguir un diente de Willie el Leñador. Pete el Fuerte compite en los juegos heroicos y subestima a Saiya, un héroe maya muy bajito. Votos: 40.
 · Título original: Mickey Mouse... (T2): Tooth or Consequences! / The Heroic Games
 · País: EE.UU.</desc>
   </programme>
@@ -7999,7 +7986,7 @@
   <programme start="20250228100000 +0100" stop="20250228102500 +0100" channel="Disney Junior">
     <title lang="es">Unidad de rescate (dobles) T1 E21 · El "supershow" de seguridad / El Día del 'Trabaj-orama'</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Iggy y Rod se niegan a asistir a una presentación sobre seguridad, pero acaban metiendo a todos en un lío. Violet no quiere elegir entre sus madres para un proyecto. Votos: 15.
+· Iggy y Rod se niegan a asistir a una presentación sobre seguridad, pero acaban metiendo a todos en un lío. Violet no quiere elegir entre sus madres para un proyecto. Votos: 16.
 · Título original: Firebuds (T1): The Super Safety Show/ Job-O-Rama Day
 · País: EE.UU.</desc>
   </programme>
@@ -8016,7 +8003,7 @@
   <programme start="20250228105500 +0100" stop="20250228112000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E27 · ¿Qué tendrá Teddy? / ¿El que se lo encuentra, se lo queda?</title>
     <desc lang="es">Infantil/Preescolar | 2021 | TP | ★6.0/10
-· La pandilla se da cuenta de que Teddy actúa de un modo diferente y lo llevan al médico. Goofy encuentra la herramienta mágica de cultivar de Care-abelle y las cosas empiezan a crecer sin control. Votos: 33.
+· La pandilla se da cuenta de que Teddy actúa de un modo diferente y lo llevan al médico. Goofy encuentra la herramienta mágica de cultivar de Care-abelle y las cosas empiezan a crecer sin control. Votos: 35.
 · Título original: Mickey Mouse... (T2): There's Something About Teddy! / Finders Keepers?
 · País: EE.UU.</desc>
   </programme>
@@ -8040,7 +8027,7 @@
   <programme start="20250228122000 +0100" stop="20250228124500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E14 · El mal día de Luna / Feliz día de Maya</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Luna no quiere ir a que le corten el pelo porque nunca ha ido a la peluquería. Phinny ayuda a Bailey a construir su regalo del Día de la Madre, pero quizá no acabe el suyo a tiempo. Votos: 16.
+· Luna no quiere ir a que le corten el pelo porque nunca ha ido a la peluquería. Phinny ayuda a Bailey a construir su regalo del Día de la Madre, pero quizá no acabe el suyo a tiempo. Votos: 19.
 · Título original: Pupstruction... (T1): Luna's Bad Hair Day/ Happy Maya's Day
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -8069,7 +8056,7 @@
   <programme start="20250228131000 +0100" stop="20250228132000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T2 E21 · Escapada</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | TP | ★6.0/10
-· Mamá y papá les dicen a las niñas que las van a dejar en casa de Nana para tener un poco de tiempo a solas. Votos: 55.
+· Mamá y papá les dicen a las niñas que las van a dejar en casa de Nana para tener un poco de tiempo a solas. Votos: 59.
 · Título original: Bluey (T2): Escape
 · País: Australia</desc>
   </programme>
@@ -8165,7 +8152,7 @@
   <programme start="20250228164500 +0100" stop="20250228165500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E33 · Los comerciantes</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo se esconden bajo la casa y espían a dos misteriosos comerciantes que trabajan en el patio trasero. Votos: 22.
+· Bluey y Bingo se esconden bajo la casa y espían a dos misteriosos comerciantes que trabajan en el patio trasero. Votos: 23.
 · Título original: Bluey S3 (T3): Tradies
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -8345,7 +8332,7 @@
   <programme start="20250228221000 +0100" stop="20250228223500 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E15 · ¡Qué peste! / Día de los Muertos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· La pandilla intenta librar a Majestica de un olor apestoso causado por la Gran Calabaza podrida de Halloweenville. La pandilla celebra el Día de los Muertos en Ciudad de México. Votos: 50.
+· La pandilla intenta librar a Majestica de un olor apestoso causado por la Gran Calabaza podrida de Halloweenville. La pandilla celebra el Día de los Muertos en Ciudad de México. Votos: 52.
 · Título original: Mickey Mouse... (T2): Stink, Stank, Stunk!/ Dia De Los Muertos
 · País: EE.UU.</desc>
   </programme>
@@ -8481,7 +8468,7 @@
   <programme start="20250301030500 +0100" stop="20250301033000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E7 · ¡Día de agua! / ¡Sé bueno!</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Mortimer se une al grupo cuando salen a navegar, pero eso provoca alguna que otra sorpresa. El grupo hace un nuevo muñeco de nieve llamado Rosie, que es un poco dura con Sunny. Votos: 43.
+· Mortimer se une al grupo cuando salen a navegar, pero eso provoca alguna que otra sorpresa. El grupo hace un nuevo muñeco de nieve llamado Rosie, que es un poco dura con Sunny. Votos: 44.
 · Título original: Mickey Mouse... (T2): Seas the Day! / Play Nice!
 · País: EE.UU.
 · Dirección: Matthew O'Callaghan.
@@ -8498,14 +8485,14 @@
   <programme start="20250301035500 +0100" stop="20250301042000 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E13 · Hurorreka / Peppereka</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Una manada de bronto-hurones ladrones de verduras utiliza el nuevo sistema de riego de Eureka. Cuando Barry descubre que los nombres de las niñas se llaman "Peppereka", Pepper se deja llevar. Votos: 23.
+· Una manada de bronto-hurones ladrones de verduras utiliza el nuevo sistema de riego de Eureka. Cuando Barry descubre que los nombres de las niñas se llaman "Peppereka", Pepper se deja llevar. Votos: 26.
 · Título original: Eureka! (dobles) (T1): Ferreka/ Peppereka
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250301042000 +0100" stop="20250301044500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E2 · Lava-te las manos para comer pizza / Mascotas en la clase de Prehistoria</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka tiene varias ideas para el restaurante de su madre, pero en vez de ayudar activa un géiser sin querer. Dipply sigue a Pepper al colegio un día y otras mascotas acaban haciendo lo mismo. Votos: 20.
+· Eureka tiene varias ideas para el restaurante de su madre, pero en vez de ayudar activa un géiser sin querer. Dipply sigue a Pepper al colegio un día y otras mascotas acaban haciendo lo mismo. Votos: 22.
 · Título original: Eureka! (dobles) (T1): Everybody Lava Pizza/ Prehistoric Class Pets
 · País: EE.UU.</desc>
   </programme>
@@ -8532,14 +8519,14 @@
   <programme start="20250301051000 +0100" stop="20250301053500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E12 · Eureka o trato / La vida nómada</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka se hace un disfraz de pinchosaurio muy realista y se lo roba un pinchosaurio de verdad. A Eureka le encanta pasar tiempo con su abuela, así que inventa algo para intentar que se quede con ella. Votos: 25.
+· Eureka se hace un disfraz de pinchosaurio muy realista y se lo roba un pinchosaurio de verdad. A Eureka le encanta pasar tiempo con su abuela, así que inventa algo para intentar que se quede con ella. Votos: 26.
 · Título original: Eureka! (dobles) (T1): Eurek-Or-Treat / Nomad Like Home
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250301053500 +0100" stop="20250301060000 +0100" channel="Disney Junior">
     <title lang="es">Mickey Mouse Funhouse T2 E23 · El aterrizaje forzoso de Papá Noel</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Papá Noel se estrella en el Bosque de Funhouse y necesita ayuda para repartir regalos en Majestica, Halloweenville y la Montaña de Invierno. La pandilla lo ayuda a entregar los regalos. Votos: 45.
+· Papá Noel se estrella en el Bosque de Funhouse y necesita ayuda para repartir regalos en Majestica, Halloweenville y la Montaña de Invierno. La pandilla lo ayuda a entregar los regalos. Votos: 46.
 · Título original: Mickey Mouse... (T2): Santa's Crash Landing
 · País: EE.UU.</desc>
   </programme>
@@ -8566,7 +8553,7 @@
   <programme start="20250301065000 +0100" stop="20250301071500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E1 · Nacido para construir / La no-destrucción</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Phinny debe construir un puente para que los niños de Animalia vayan al colegio. La alcaldesa Gilmore le pide a Phinny que construya una pista de patinaje. Votos: 20.
+· Phinny debe construir un puente para que los niños de Animalia vayan al colegio. La alcaldesa Gilmore le pide a Phinny que construya una pista de patinaje. Votos: 23.
 · Título original: Pupstruction... (T1): Built to Build/ Pup De-Struction
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -8733,7 +8720,7 @@
   <programme start="20250301104500 +0100" stop="20250301111000 +0100" channel="Disney Junior">
     <title lang="es">Disney Junior Ariel T1 E2 · El campamento de magia de Úrsula / El cuaderno de Fernie</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lucía gana una insignia en el campamento de magia de Úrsula. Fernie pierde su cuaderno favorito. Votos: 21.
+· Lucía gana una insignia en el campamento de magia de Úrsula. Fernie pierde su cuaderno favorito. Votos: 25.
 · Título original: Disney Junior Ariel (T1): Ursula's Magic Camp/ Fernie's Notebook
 · País: EE.UU.</desc>
   </programme>
@@ -8778,7 +8765,7 @@
   <programme start="20250301132500 +0100" stop="20250301135000 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E3 · La montaña rusa del cumpleaños de Bailey / Perrito cansado</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Phinny construye una montaña rusa genial por el cumpleaños de su hermana. Los cachorros deben salvar la inauguración del restaurante de Animalia, pero Tank tiene demasiado sueño. Votos: 12.
+· Phinny construye una montaña rusa genial por el cumpleaños de su hermana. Los cachorros deben salvar la inauguración del restaurante de Animalia, pero Tank tiene demasiado sueño. Votos: 13.
 · Título original: Pupstruction... (T1): Bailey's Birthday Coaster/ Doggone Tired
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -8787,7 +8774,7 @@
   <programme start="20250301135000 +0100" stop="20250301142000 +0100" channel="Disney Junior">
     <title lang="es">SuperKitties T1 E2 · Susto de fuegos artificiales / Árboles de queso</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Sr. Zarpazos roba todos los fuegos artificiales de ValleKitty. Los SuperKitties deben evitar que la Rata de Laboratorio convierta ValleKitty en queso, pero Ginny tiene miedo de la sustancia pegajosa. Votos: 26.
+· Sr. Zarpazos roba todos los fuegos artificiales de ValleKitty. Los SuperKitties deben evitar que la Rata de Laboratorio convierta ValleKitty en queso, pero Ginny tiene miedo de la sustancia pegajosa. Votos: 28.
 · Título original: SuperKitties... (T1): The SuperKitties and the Fireworks Fright/ The SuperKitties and the Cheese Trees
 · País: EE.UU.
 · Dirección: Chad Van De Keere.
@@ -9030,7 +9017,7 @@
   <programme start="20250301235000 +0100" stop="20250302001500 +0100" channel="Disney Junior">
     <title lang="es">PJ Masks T1 E1 · Échale la culpa al tren, Buhíta/ Llueve sobre Gatuno</title>
     <desc lang="es">Infantil/Dibujos animados | 2015 | TP | ★6.0/10
-· Cuando el nuevo Tren Volador de la feria desaparece, Buhíta se propone recuperarlo. / Gatuno debe salvar el verano de Lunática, pero tendrá que superar su miedo al agua. Votos: 36.
+· Cuando el nuevo Tren Volador de la feria desaparece, Buhíta se propone recuperarlo. / Gatuno debe salvar el verano de Lunática, pero tendrá que superar su miedo al agua. Votos: 39.
 · Título original: PJ Masks (Dobles) (T1): Blame it on the Train, Owlette/Catboy's Cloudy Crisis
 · País: Francia
 · Dirección: Christian De Vita.
@@ -9131,7 +9118,7 @@
   <programme start="20250302042000 +0100" stop="20250302044500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E2 · Lava-te las manos para comer pizza / Mascotas en la clase de Prehistoria</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka tiene varias ideas para el restaurante de su madre, pero en vez de ayudar activa un géiser sin querer. Dipply sigue a Pepper al colegio un día y otras mascotas acaban haciendo lo mismo. Votos: 20.
+· Eureka tiene varias ideas para el restaurante de su madre, pero en vez de ayudar activa un géiser sin querer. Dipply sigue a Pepper al colegio un día y otras mascotas acaban haciendo lo mismo. Votos: 22.
 · Título original: Eureka! (dobles) (T1): Everybody Lava Pizza/ Prehistoric Class Pets
 · País: EE.UU.</desc>
   </programme>
@@ -9195,7 +9182,7 @@
   <programme start="20250302065000 +0100" stop="20250302071500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E4 · Rápidos y peludos / Luna excava mucho</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Una pelota para hámsters se descontrola y los Cachorros a la Obra intentan detenerla. Luna adora jugar con su nueva excavadora y no puede dejar de hacer cosas. Votos: 15.
+· Una pelota para hámsters se descontrola y los Cachorros a la Obra intentan detenerla. Luna adora jugar con su nueva excavadora y no puede dejar de hacer cosas. Votos: 16.
 · Título original: Pupstruction... (T1): Fast and Furriest/ Luna Digs Deep
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -9204,7 +9191,7 @@
   <programme start="20250302071500 +0100" stop="20250302072500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T1 E22 · La piscina</title>
     <desc lang="es">Infantil/Dibujos animados | 2019 | TP | ★6.0/10
-· ¡Bluey y su padre echan de menos a su madre cuando van a la piscina y ven que se olvidaron de todo!. Votos: 137.
+· ¡Bluey y su padre echan de menos a su madre cuando van a la piscina y ven que se olvidaron de todo!. Votos: 139.
 · Título original: Bluey (T1): The Pool
 · País: Australia y R.U.
 · Guion: Tim Bain, John McGeachin.
@@ -9368,7 +9355,7 @@
   <programme start="20250302111000 +0100" stop="20250302113500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E5 · Bailey y el Doctor Perrito / Perro por un Día</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Bailey se asusta cuando descubre que está teniendo su primer chequeo. Bobby Boots se cuela en la sede de la pupstrucción para obtener los planos de Phinny para un nuevo parque acuático. Votos: 23.
+· Bailey se asusta cuando descubre que está teniendo su primer chequeo. Bobby Boots se cuela en la sede de la pupstrucción para obtener los planos de Phinny para un nuevo parque acuático. Votos: 25.
 · Título original: Pupstruction... (T1): Bailey and the Doggy Doctor/ Dog for a Day
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -9406,7 +9393,7 @@
   <programme start="20250302132500 +0100" stop="20250302135000 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E6 · Aventuras en Bulldozing / Safe and Hound</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· ¡Roxy está cuidando a Bailey! El padre de Phinny decide que la tripulación de la caupstrucción necesita un "supervisor de seguridad": ¡él!. Votos: 21.
+· ¡Roxy está cuidando a Bailey! El padre de Phinny decide que la tripulación de la caupstrucción necesita un "supervisor de seguridad": ¡él!. Votos: 22.
 · Título original: Pupstruction... (T1): Adventures in Bulldozing/ Safe and Hound
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -9452,7 +9439,7 @@
   <programme start="20250302161000 +0100" stop="20250302162000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E53 · Asamblea familiar</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando acusan a papá de "aletear" la cara de Bluey mientras se levantaba de la cama, lo llevan a juicio con mamá como juez y Bluey y Bingo como testigos. Pero, ¿qué hacía Bluey allí?. Votos: 16.
+· Cuando acusan a papá de "aletear" la cara de Bluey mientras se levantaba de la cama, lo llevan a juicio con mamá como juez y Bluey y Bingo como testigos. Pero, ¿qué hacía Bluey allí?. Votos: 18.
 · Título original: Bluey S3 (T3): Family Meeting
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9460,70 +9447,70 @@
   <programme start="20250302162000 +0100" stop="20250302163000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E52 · Besito</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo quieren a papá para ellas solas hasta que descubren que tiene algunas costumbres asquerosas. Votos: 15.
+· Bluey y Bingo quieren a papá para ellas solas hasta que descubren que tiene algunas costumbres asquerosas. Votos: 17.
 · Título original: Bluey S3 (T3): Smoochy Kiss
 · País: Australia</desc>
   </programme>
   <programme start="20250302163000 +0100" stop="20250302163500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E50 · ¡Sorpresa!</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bluey y Bingo quieren que su padre juege a dos cosas distintas al mismo tiempo, así que él lo intenta. Votos: 10.
+· Bluey y Bingo quieren que su padre juege a dos cosas distintas al mismo tiempo, así que él lo intenta. Votos: 11.
 · Título original: Bluey S3 (T3): Surprise
 · País: Australia</desc>
   </programme>
   <programme start="20250302163500 +0100" stop="20250302164500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E49 · El cesto fantasma</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Papá finge ser un agente inmobiliario y vende la casa de la abuela a mamá. Pero Janet y Rita no quieren marcharse. Votos: 3.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
+· Papá finge ser un agente inmobiliario y vende la casa de la abuela a mamá. Pero Janet y Rita no quieren marcharse. Votos: 7.
 · Título original: Bluey S3 (T3): Ghostbasket
 · País: Australia</desc>
   </programme>
   <programme start="20250302164500 +0100" stop="20250302165500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E48 · Pista de agua</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bingo y Lila tienen muchas ganas de deslizarse por su pista de agua nueva, pero tienen que ir con cuidado para no aplastar a ningún bichllo. Votos: 3.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
+· Bingo y Lila tienen muchas ganas de deslizarse por su pista de agua nueva, pero tienen que ir con cuidado para no aplastar a ningún bichllo. Votos: 5.
 · Título original: Bluey S3 (T3): Slide
 · País: Australia</desc>
   </programme>
   <programme start="20250302165500 +0100" stop="20250302170500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E47 · Dragón</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey le pide a su padre que la ayude a dibujar un dragón para su cuento, pero a él no se le da muy bien dibujar. Votos: 12.
+· Bluey le pide a su padre que la ayude a dibujar un dragón para su cuento, pero a él no se le da muy bien dibujar. Votos: 16.
 · Título original: Bluey S3 (T3): Dragon
 · País: Australia</desc>
   </programme>
   <programme start="20250302170500 +0100" stop="20250302171500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E46 · La tienda de las teles</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· En la farmacia, Bluey, Bingo y sus amigos se divierten gracias a los monitores de las cámaras de seguridad. Votos: 10.
+· En la farmacia, Bluey, Bingo y sus amigos se divierten gracias a los monitores de las cámaras de seguridad. Votos: 13.
 · Título original: Bluey S3 (T3): TV Shop
 · País: Australia</desc>
   </programme>
   <programme start="20250302171500 +0100" stop="20250302172500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E45 · La gran final</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Lucky, Chuky y su padre van a casa de los Pastor para ver juntos la final de rugby. Votos: 25.
+· Lucky, Chuky y su padre van a casa de los Pastor para ver juntos la final de rugby. Votos: 26.
 · Título original: Bluey S3 (T3): The Decider
 · País: Australia</desc>
   </programme>
   <programme start="20250302172500 +0100" stop="20250302173500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E44 · Las chicas del bosque</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· En el cole, Coco quiere jugar con Indy a las "Chicas del bosque", pero Chloe quiere que juege a otra cosa. Votos: 7.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★4.0/10
+· En el cole, Coco quiere jugar con Indy a las "Chicas del bosque", pero Chloe quiere que juege a otra cosa. Votos: 9.
 · Título original: Bluey S3 (T3): Wild Girls
 · País: Australia</desc>
   </programme>
   <programme start="20250302173500 +0100" stop="20250302174500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E43 · Presentación</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando Bandido le dice a Bluey que se acabe el desayuno, ella quiere saber por qué su padre siempre le está mandando. Votos: 14.
+· Cuando Bandido le dice a Bluey que se acabe el desayuno, ella quiere saber por qué su padre siempre le está mandando. Votos: 17.
 · Título original: Bluey S3 (T3): Show &amp; Tell
 · País: Australia</desc>
   </programme>
   <programme start="20250302174500 +0100" stop="20250302175500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E42 · Relajarse</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo prefieren jugar a explorar el apartamento de las vacaciones a relajarse en la playa con su madre. Votos: 18.
+· Bluey y Bingo prefieren jugar a explorar el apartamento de las vacaciones a relajarse en la playa con su madre. Votos: 20.
 · Título original: Bluey S3 (T3): Relax
 · País: Australia</desc>
   </programme>
@@ -9537,7 +9524,7 @@
   <programme start="20250302180500 +0100" stop="20250302181500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E40 · Ejercicio</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bingo juega a ser la empleada nueva de Bluey mientras su padre entrena en el jardín. Bluey, que es la jefa, le enseña a Bingo la oficina y su padre hace más ejercicio que en toda su vida. Votos: 16.
+· Bingo juega a ser la empleada nueva de Bluey mientras su padre entrena en el jardín. Bluey, que es la jefa, le enseña a Bingo la oficina y su padre hace más ejercicio que en toda su vida. Votos: 18.
 · Título original: Bluey S3 (T3): Exercise
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9545,7 +9532,7 @@
   <programme start="20250302181500 +0100" stop="20250302182500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E39 · Marionetas</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bluey y Bingo enseñan a Unicorsio a comportarse para que su madre acepte salir con él, pero todo se tuerce cuando Unicorsio se come una garrapata. Votos: 13.
+· Bluey y Bingo enseñan a Unicorsio a comportarse para que su madre acepte salir con él, pero todo se tuerce cuando Unicorsio se come una garrapata. Votos: 15.
 · Título original: Bluey S3 (T3): Puppets
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9553,7 +9540,7 @@
   <programme start="20250302182500 +0100" stop="20250302183500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E38 · Cuentos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Indy piensa que no se le da nada bien porque el caballo de cera que ha hecho parece una vaca, pero Calipso la anima para que no se rinda, y ella intenta arreglarlo con la ayuda de Winton. Votos: 11.
+· Indy piensa que no se le da nada bien porque el caballo de cera que ha hecho parece una vaca, pero Calipso la anima para que no se rinda, y ella intenta arreglarlo con la ayuda de Winton. Votos: 13.
 · Título original: Bluey S3 (T3): Stories
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9561,7 +9548,7 @@
   <programme start="20250302183500 +0100" stop="20250302184500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E37 · Estatuas musicales</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Ha sido un día muy largo y Bluey y su familia están cada uno a lo suyo y de mal humor, así que su madre los pone a todos a jugar a las Estatuas Musicales. Votos: 12.
+· Ha sido un día muy largo y Bluey y su familia están cada uno a lo suyo y de mal humor, así que su madre los pone a todos a jugar a las Estatuas Musicales. Votos: 14.
 · Título original: Bluey S3 (T3): Musical Statues
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9569,7 +9556,7 @@
   <programme start="20250302184500 +0100" stop="20250302185500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E36 · Casita</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo construyen una casa muy especial para Kimjim, su muñeco de peluche. Votos: 7.
+· Bluey y Bingo construyen una casa muy especial para Kimjim, su muñeco de peluche. Votos: 10.
 · Título original: Bluey S3 (T3): Cubby
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9577,7 +9564,7 @@
   <programme start="20250302185500 +0100" stop="20250302190000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E35 · El espacio</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Mackenzie, Jack y Rusty juegan a ser unos astronautas que se van en misión a Marte. Sin embargo, durante el viaje, Mackenzie desaparece varias veces y nadie sabe por qué: ¡Ni siquiera él!. Votos: 17.
+· Mackenzie, Jack y Rusty juegan a ser unos astronautas que se van en misión a Marte. Sin embargo, durante el viaje, Mackenzie desaparece varias veces y nadie sabe por qué: ¡Ni siquiera él!. Votos: 19.
 · Título original: Bluey S3 (T3): Space
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9585,7 +9572,7 @@
   <programme start="20250302190000 +0100" stop="20250302191000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E34 · Yayamóvil</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Muffin juega a ser la abuelita gruñona en un mercadillo y obliga a su tío a empujarla en un scooter para gente con problemas de movilidad. Cuando aparece una abuela gruñona de verdad y decide comprarlo, Muffin negocia. Votos: 20.
+· Muffin juega a ser la abuelita gruñona en un mercadillo y obliga a su tío a empujarla en un scooter para gente con problemas de movilidad. Cuando aparece una abuela gruñona de verdad y decide comprarlo, Muffin negocia. Votos: 22.
 · Título original: Bluey S3 (T3): Granny Mobile
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9593,7 +9580,7 @@
   <programme start="20250302191000 +0100" stop="20250302192000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E33 · Los comerciantes</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo se esconden bajo la casa y espían a dos misteriosos comerciantes que trabajan en el patio trasero. Votos: 22.
+· Bluey y Bingo se esconden bajo la casa y espían a dos misteriosos comerciantes que trabajan en el patio trasero. Votos: 23.
 · Título original: Bluey S3 (T3): Tradies
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9601,7 +9588,7 @@
   <programme start="20250302192000 +0100" stop="20250302193000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E32 · Pijamas</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Brandy, la hermana de mamá, viene de visita y les trae a las niñas un pijama de regalo. ¡La efecto que causa en Bingo es sorprendente!. Votos: 17.
+· Brandy, la hermana de mamá, viene de visita y les trae a las niñas un pijama de regalo. ¡La efecto que causa en Bingo es sorprendente!. Votos: 22.
 · Título original: Bluey S3 (T3): Onesies
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -9852,14 +9839,14 @@
   <programme start="20250303035500 +0100" stop="20250303042000 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E4 · La fuerza de Pepper / Las mariposas de alas parpadeantes</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· La fuerza sin límites de Pepper amenaza con estropear el invento de Eureka. Eureka y Roxy emprenden un viaje de madre e hija para ver la eclosión de las mariposas de alas parpadeantes. Votos: 25.
+· La fuerza sin límites de Pepper amenaza con estropear el invento de Eureka. Eureka y Roxy emprenden un viaje de madre e hija para ver la eclosión de las mariposas de alas parpadeantes. Votos: 28.
 · Título original: Eureka! (dobles) (T1): Pepper Power/ Flickerwing Butterflies
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250303042000 +0100" stop="20250303044500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E5 · Un fracaso épico / Un cañón para todos</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka intenta deshacerse de unas molestas pteroaves que habitan en el taller de ruedas de su padre. Cuando los amigos de Eureka quieren adjudicarse un precioso cañón, ella ayuda repartiéndolo entre todos a partes iguales. Votos: 20.
+· Eureka intenta deshacerse de unas molestas pteroaves que habitan en el taller de ruedas de su padre. Cuando los amigos de Eureka quieren adjudicarse un precioso cañón, ella ayuda repartiéndolo entre todos a partes iguales. Votos: 22.
 · Título original: Eureka! (dobles) (T1): Epic Fail/ Yes We Canyon!
 · País: EE.UU.</desc>
   </programme>
@@ -10048,7 +10035,7 @@
   <programme start="20250303115000 +0100" stop="20250303122000 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E1 · Nacido para construir / La no-destrucción</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Phinny debe construir un puente para que los niños de Animalia vayan al colegio. La alcaldesa Gilmore le pide a Phinny que construya una pista de patinaje. Votos: 20.
+· Phinny debe construir un puente para que los niños de Animalia vayan al colegio. La alcaldesa Gilmore le pide a Phinny que construya una pista de patinaje. Votos: 23.
 · Título original: Pupstruction... (T1): Built to Build/ Pup De-Struction
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -10167,7 +10154,7 @@
   <programme start="20250303162000 +0100" stop="20250303164500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E3 · La montaña rusa del cumpleaños de Bailey / Perrito cansado</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Phinny construye una montaña rusa genial por el cumpleaños de su hermana. Los cachorros deben salvar la inauguración del restaurante de Animalia, pero Tank tiene demasiado sueño. Votos: 12.
+· Phinny construye una montaña rusa genial por el cumpleaños de su hermana. Los cachorros deben salvar la inauguración del restaurante de Animalia, pero Tank tiene demasiado sueño. Votos: 13.
 · Título original: Pupstruction... (T1): Bailey's Birthday Coaster/ Doggone Tired
 · País: EE.UU.
 · Dirección: Travis Braun.
@@ -10185,7 +10172,7 @@
   <programme start="20250303165500 +0100" stop="20250303170500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T1 E22 · La piscina</title>
     <desc lang="es">Infantil/Dibujos animados | 2019 | TP | ★6.0/10
-· ¡Bluey y su padre echan de menos a su madre cuando van a la piscina y ven que se olvidaron de todo!. Votos: 137.
+· ¡Bluey y su padre echan de menos a su madre cuando van a la piscina y ven que se olvidaron de todo!. Votos: 139.
 · Título original: Bluey (T1): The Pool
 · País: Australia y R.U.
 · Guion: Tim Bain, John McGeachin.
@@ -10201,7 +10188,7 @@
   <programme start="20250303171500 +0100" stop="20250303172500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E53 · Asamblea familiar</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando acusan a papá de "aletear" la cara de Bluey mientras se levantaba de la cama, lo llevan a juicio con mamá como juez y Bluey y Bingo como testigos. Pero, ¿qué hacía Bluey allí?. Votos: 16.
+· Cuando acusan a papá de "aletear" la cara de Bluey mientras se levantaba de la cama, lo llevan a juicio con mamá como juez y Bluey y Bingo como testigos. Pero, ¿qué hacía Bluey allí?. Votos: 18.
 · Título original: Bluey S3 (T3): Family Meeting
 · País: Australia y R.U.
 · Reparto: Bluey.</desc>
@@ -10209,14 +10196,14 @@
   <programme start="20250303172500 +0100" stop="20250303173000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E52 · Besito</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey y Bingo quieren a papá para ellas solas hasta que descubren que tiene algunas costumbres asquerosas. Votos: 15.
+· Bluey y Bingo quieren a papá para ellas solas hasta que descubren que tiene algunas costumbres asquerosas. Votos: 17.
 · Título original: Bluey S3 (T3): Smoochy Kiss
 · País: Australia</desc>
   </programme>
   <programme start="20250303173000 +0100" stop="20250303173500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E50 · ¡Sorpresa!</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bluey y Bingo quieren que su padre juege a dos cosas distintas al mismo tiempo, así que él lo intenta. Votos: 10.
+· Bluey y Bingo quieren que su padre juege a dos cosas distintas al mismo tiempo, así que él lo intenta. Votos: 11.
 · Título original: Bluey S3 (T3): Surprise
 · País: Australia</desc>
   </programme>
@@ -10265,43 +10252,43 @@
   </programme>
   <programme start="20250303193000 +0100" stop="20250303194000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E49 · El cesto fantasma</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Papá finge ser un agente inmobiliario y vende la casa de la abuela a mamá. Pero Janet y Rita no quieren marcharse. Votos: 4.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
+· Papá finge ser un agente inmobiliario y vende la casa de la abuela a mamá. Pero Janet y Rita no quieren marcharse. Votos: 7.
 · Título original: Bluey S3 (T3): Ghostbasket
 · País: Australia</desc>
   </programme>
   <programme start="20250303194000 +0100" stop="20250303195000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E48 · Pista de agua</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★8.0/10
-· Bingo y Lila tienen muchas ganas de deslizarse por su pista de agua nueva, pero tienen que ir con cuidado para no aplastar a ningún bichllo. Votos: 3.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
+· Bingo y Lila tienen muchas ganas de deslizarse por su pista de agua nueva, pero tienen que ir con cuidado para no aplastar a ningún bichllo. Votos: 5.
 · Título original: Bluey S3 (T3): Slide
 · País: Australia</desc>
   </programme>
   <programme start="20250303195000 +0100" stop="20250303195500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E47 · Dragón</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Bluey le pide a su padre que la ayude a dibujar un dragón para su cuento, pero a él no se le da muy bien dibujar. Votos: 13.
+· Bluey le pide a su padre que la ayude a dibujar un dragón para su cuento, pero a él no se le da muy bien dibujar. Votos: 16.
 · Título original: Bluey S3 (T3): Dragon
 · País: Australia</desc>
   </programme>
   <programme start="20250303195500 +0100" stop="20250303200500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E46 · La tienda de las teles</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· En la farmacia, Bluey, Bingo y sus amigos se divierten gracias a los monitores de las cámaras de seguridad. Votos: 11.
+· En la farmacia, Bluey, Bingo y sus amigos se divierten gracias a los monitores de las cámaras de seguridad. Votos: 13.
 · Título original: Bluey S3 (T3): TV Shop
 · País: Australia</desc>
   </programme>
   <programme start="20250303200500 +0100" stop="20250303201000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E45 · La gran final</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Lucky, Chuky y su padre van a casa de los Pastor para ver juntos la final de rugby. Votos: 25.
+· Lucky, Chuky y su padre van a casa de los Pastor para ver juntos la final de rugby. Votos: 26.
 · Título original: Bluey S3 (T3): The Decider
 · País: Australia</desc>
   </programme>
   <programme start="20250303201000 +0100" stop="20250303201500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T3 E44 · Las chicas del bosque</title>
-    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· En el cole, Coco quiere jugar con Indy a las "Chicas del bosque", pero Chloe quiere que juege a otra cosa. Votos: 7.
+    <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★4.0/10
+· En el cole, Coco quiere jugar con Indy a las "Chicas del bosque", pero Chloe quiere que juege a otra cosa. Votos: 9.
 · Título original: Bluey S3 (T3): Wild Girls
 · País: Australia</desc>
   </programme>
@@ -10400,7 +10387,7 @@
   <programme start="20250303232500 +0100" stop="20250303235000 +0100" channel="Disney Junior">
     <title lang="es">PJ Masks T1 E3 · Gekko y los Superninjalinos/ Buhíta y el terrible problema con el pterodáctilo</title>
     <desc lang="es">Infantil/Dibujos animados | 2015 | TP | ★6.0/10
-· Ninja Nocturno roba todo el material deportivo del Día de los Deportes. / Romeo se lleva una maqueta de un pterodáctilo de la exposición de dinosaurios y la convierte en un robot volador. Votos: 33.
+· Ninja Nocturno roba todo el material deportivo del Día de los Deportes. / Romeo se lleva una maqueta de un pterodáctilo de la exposición de dinosaurios y la convierte en un robot volador. Votos: 34.
 · Título original: PJ Masks (Dobles) (T1): Gekko and the Super Ninjalinos/Owlette's Terrible Pterodactyl Trouble
 · País: Francia
 · Dirección: Christian De Vita.
@@ -10484,7 +10471,7 @@
   <programme start="20250304035500 +0100" stop="20250304042000 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E7 · La luz al final de la cueva / Canga-ave es la clave</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Cuando nuestros amigos exploran una cueva, el normalmente intrépido Pepper reconoce que tiene miedo a la oscuridad. KB, el amigo de Eureka, no sabe si saltar con los cangadones o volar con las aves. Votos: 19.
+· Cuando nuestros amigos exploran una cueva, el normalmente intrépido Pepper reconoce que tiene miedo a la oscuridad. KB, el amigo de Eureka, no sabe si saltar con los cangadones o volar con las aves. Votos: 22.
 · Título original: Eureka! (dobles) (T1): Light at the End of the Cave/ Kanga-Bird is the Word
 · País: EE.UU.</desc>
   </programme>
@@ -10518,7 +10505,7 @@
   <programme start="20250304051000 +0100" stop="20250304053500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E9 · El proyecto Bog / Esquí para gigantes</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· Eureka y Bog forman equipo para un proyecto de clase. Cuando Murphy se siente excluido durante un día de esquí, Eureka encuentra el modo de que todos participen en la diversión. Votos: 20.
+· Eureka y Bog forman equipo para un proyecto de clase. Cuando Murphy se siente excluido durante un día de esquí, Eureka encuentra el modo de que todos participen en la diversión. Votos: 23.
 · Título original: Eureka! (dobles) (T1): Project Bog/ Really Giant Slalom
 · País: EE.UU.</desc>
   </programme>
@@ -10812,8 +10799,8 @@
 · Guion: Michael Hobert.</desc>
   </programme>
   <programme start="20250225100400 +0100" stop="20250225103000 +0100" channel="Nickelodeon">
-    <title lang="es">Equipo Danger T3 E3 · Gran Dinamita</title>
-    <desc lang="es">Series/Serie juvenil | 2022 | TP | ★6.0/10
+    <title lang="es">Equipo Danger T3 E3 · Gran Dynomite</title>
+    <desc lang="es">Series/Comedia | 2022 | ⑦ | ★6.0/10
 · Mika y Chapa tienen que demostrar que el nuevo chico de la escuela, Buddy Fudgers, es en realidad Lil' Dynomite. Votos: 28.
 · Título original: Danger Force (T3): Ep.3 Big Dynomite
 · País: EE.UU.
@@ -10836,7 +10823,7 @@
   <programme start="20250225105500 +0100" stop="20250225112000 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E4 · Susie sibilante</title>
     <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
-· Después de activar accidentalmente una bomba atómica en la Mancueva, Ray y Henry deciden sacarla de Buenavista y llevarla al desierto para salvar la ciudad. Votos: 285.
+· Después de activar accidentalmente una bomba atómica en la Mancueva, Ray y Henry deciden sacarla de Buenavista y llevarla al desierto para salvar la ciudad. Votos: 286.
 · Título original: Henry Danger (T5): Ep.4 Whistlin' Susie
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
@@ -10951,7 +10938,7 @@
   <programme start="20250225151500 +0100" stop="20250225154000 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T2 E18 · Un giro inesperado; Problemas incisivos</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2020 | ⑦ | ★6.0/10
-· Par ayuda a CJ a entrenar para una competición; Adelaide aprende sobre El Ratón. Votos: 29.
+· Par ayuda a CJ a entrenar para una competición; Adelaide aprende sobre El Ratón. Votos: 30.
 · Título original: The Casagrandes (T2): Spin Off / Tooth and Consequences
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -10977,7 +10964,7 @@
 · Guion: Sarah Nerboso, Philllip Walker.</desc>
   </programme>
   <programme start="20250225160200 +0100" stop="20250225162800 +0100" channel="Nickelodeon">
-    <title lang="es">Bob Esponja T14 E3 · Lubimardo / La caja del bobomardo</title>
+    <title lang="es">Bob Esponja T14 E3 · Lubimardo; La caja del bobomardo</title>
     <desc lang="es">Infantil/Dibujos animados | 2023 | TP | ★6.0/10
 · Calamardo y Lubina Burbujas se ven obligados a tolerarse en un viaje a Ciudad Desechos. Calamardo se adentra en la Caja de la imaginación y dependerá de las imaginaciones de Bob Esponja y Patricio para escapar. Votos: 25.
 · Título original: SpongeBob... (T14): BassWard / Squidiot Box
@@ -11000,6 +10987,7 @@
     <title lang="es">Bob Esponja Single Story T13 E46 · El Padrihuete</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | TP
 · Bob Esponja construye una piscina en su jardín y Calamardo se resiste a darse un chapuzón.
+· Título original: SpongeBob... (T13): The Goobfather
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
 · Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.</desc>
@@ -11048,7 +11036,7 @@
   <programme start="20250225183000 +0100" stop="20250225185100 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T1 E16 · Pek Dinamita</title>
     <desc lang="es">Series/Serie juvenil | 2020 | TP | ★8.0/10
-· Cuando el Equipo Danger se olvida sin querer de que había quedado con Ray para una actividad de ocio, este los sorprende con un nuevo miembro del Equipo para provocar sus celos. Votos: 37.
+· Cuando el Equipo Danger se olvida sin querer de que había quedado con Ray para una actividad de ocio, este los sorprende con un nuevo miembro del Equipo para provocar sus celos. Votos: 39.
 · Título original: Danger Force (T1): Ep.16 Lil' Dynomite
 · País: EE.UU.
 · Dirección: Mike Caron, Evelyn Belasco.
@@ -11100,7 +11088,7 @@
   <programme start="20250225203200 +0100" stop="20250225205500 +0100" channel="Nickelodeon">
     <title lang="es">Los Thundermans T3 E19 · Tía Maleducada</title>
     <desc lang="es">Series/SIN CLASIFICAR | 2015 | ⑦ | ★6.0/10
-· Max y Phoebe encuentran a su tía materna pero descubren que hace años están peleadas. Votos: 225.
+· Max y Phoebe encuentran a su tía materna pero descubren que hace años están peleadas. Votos: 227.
 · Título original: The Thundermans (T3): Aunt Misbehavin'
 · País: EE.UU.
 · Dirección: Jonathan Judge, Trevor Kirschner.
@@ -11153,7 +11141,7 @@
   <programme start="20250225223200 +0100" stop="20250225225700 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E12 · La trampa del tiempo</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Cuando los niños rompen el jarrón de papá y mamá, retroceden en el tiempo para impedir que lo lleguen a tener. Votos: 39.
+· Cuando los niños rompen el jarrón de papá y mamá, retroceden en el tiempo para impedir que lo lleguen a tener. Votos: 40.
 · Título original: The Loud House... (T6): Time Trap!
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -11218,7 +11206,7 @@
   <programme start="20250226005500 +0100" stop="20250226011700 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E16 · La visita alocada de papá y mamá; Pavimento amarillo</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Los padres de Bob Esponja lo visitan; La escuela de navegación enseña una película educativa sobre la conducción. Votos: 33.
+· Los padres de Bob Esponja lo visitan; La escuela de navegación enseña una película educativa sobre la conducción. Votos: 34.
 · Título original: Bob Esponja (T13): Ma and Pa's Big Hurrah / Yellow Pavement
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11229,7 +11217,7 @@
   <programme start="20250226011700 +0100" stop="20250226013900 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E17 · La maceta; en el desfile</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Una floristería sustituye al Cubo de Cebo; El Crustáceo Crujiente participa en el desfile de Fondo de Bikini. Votos: 28.
+· Una floristería sustituye al Cubo de Cebo; El Crustáceo Crujiente participa en el desfile de Fondo de Bikini. Votos: 31.
 · Título original: Bob Esponja (T13): The Flower Plot / SpongeBob on Parade
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11240,7 +11228,7 @@
   <programme start="20250226013900 +0100" stop="20250226020100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E18 · Entreguen a la Isla de los Monstruos; Patricio y la bicicleta</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja y Plancton tienen que intentar sobrevivir juntos; Patricio aprende a montar en bici. Votos: 33.
+· Bob Esponja y Plancton tienen que intentar sobrevivir juntos; Patricio aprende a montar en bici. Votos: 35.
 · Título original: Bob Esponja (T13): Delivery to Monster Island / Ride Patrick Ride
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11261,7 +11249,7 @@
   <programme start="20250226022900 +0100" stop="20250226025100 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T3 E7 · La maldición dorada</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2021 | ⑦ | ★6.0/10
-· La familia celebra la boda de Paco, pero deben encontrar las arras que perdió Sergio. Votos: 38.
+· La familia celebra la boda de Paco, pero deben encontrar las arras que perdió Sergio. Votos: 39.
 · Título original: The Casagrandes (T3): Losing Las Arras
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -11407,7 +11395,7 @@
   <programme start="20250226064800 +0100" stop="20250226071300 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E7 · Mala prensa; Mal de ojos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Katherine Mulligan roba las pistas del equipo de Action News; Lisa estrena gafas nuevas. Votos: 33.
+· Katherine Mulligan roba las pistas del equipo de Action News; Lisa estrena gafas nuevas. Votos: 35.
 · Título original: The Loud House... (T6): Scoop Snoop/Eye Can't
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -11450,7 +11438,7 @@
   <programme start="20250226082300 +0100" stop="20250226084800 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T11 E1 · La esponja de las cavernas; El susurrador de almejas</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | ⑦ | ★6.0/10
-· Una esponja prehistórica se descongela y provoca el caos. Las almejas atacan Fondo de Bikini. Votos: 436.
+· Una esponja prehistórica se descongela y provoca el caos. Las almejas atacan Fondo de Bikini. Votos: 437.
 · Título original: SpongeBob... (T11): Cave Dwelling Sponge / The Clam Whisperer
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11461,7 +11449,7 @@
   <programme start="20250226084800 +0100" stop="20250226091300 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E24 · Tontos en el agua; El Cacachue-padrino</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja construye una piscina; Tras añadir un nuevo artículo a su menú, el Señor Cangrejo recibe amenazas. Votos: 30.
+· Bob Esponja construye una piscina; Tras añadir un nuevo artículo a su menú, el Señor Cangrejo recibe amenazas. Votos: 32.
 · Título original: Bob Esponja (T13): Swimming Fools / The Goobfather
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11513,9 +11501,9 @@
   </programme>
   <programme start="20250226104900 +0100" stop="20250226111300 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E9 · Caballero y peligroso</title>
-    <desc lang="es">Series/SIN CLASIFICAR | 2018 | ⑦ | ★8.0/10
-· Cuando Ryker, archienemigo de los Knight Squad, aparece sembrando el caos en Buenavista, Kid Danger y Capitanman lo neutralizarán en el Burger Castillo. Pero el villano los engañará para que se alíen con él. Votos: 291.
-· Título original: Henry Danger (T5): Knight &amp; Danger
+    <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
+· Cuando Ryker, archienemigo de los Knight Squad, aparece sembrando el caos en Buenavista, Kid Danger y Capitanman lo neutralizarán en el Burger Castillo. Pero el villano los engañará para que se alíen con él. Votos: 292.
+· Título original: Henry Danger (T5): Ep.9 Knight &amp; Danger
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
 · Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
@@ -11611,7 +11599,7 @@
   <programme start="20250226142700 +0100" stop="20250226145100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E9 · ¡Qué ricura!; Patricio, cartero</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Plankton fabrica un robot para castigar a quien le llame ricura; Patricio debe repartir el correo. Votos: 39.
+· Plankton fabrica un robot para castigar a quien le llame ricura; Patricio debe repartir el correo. Votos: 40.
 · Título original: Bob Esponja (T13): Say 'Awww'!/Patrick the Mailman
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11730,7 +11718,7 @@
   <programme start="20250226183100 +0100" stop="20250226185300 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T1 E17 · Con gemelos se gana</title>
     <desc lang="es">Series/Serie juvenil | 2020 | TP | ★8.0/10
-· Los gemelos Alarido y Rayo compiten para ver quién puede capturar más criminales con sus propios métodos para combatir el crimen. Votos: 31.
+· Los gemelos Alarido y Rayo compiten para ver quién puede capturar más criminales con sus propios métodos para combatir el crimen. Votos: 32.
 · Título original: Danger Force (T1): Ep.17 Twin It to Win It
 · País: EE.UU.
 · Dirección: Mike Caron, Evelyn Belasco.
@@ -11761,7 +11749,7 @@
   <programme start="20250226194100 +0100" stop="20250226200700 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T4 E17 · Los diamantes son para Heather</title>
     <desc lang="es">Series/Serie juvenil | 2017 | TP | ★8.0/10
-· El Museo de Taburetes y Joyas de Buenavista contrata a Kid Danger y a Capitanman para proteger el valioso diamante Neal de los ladrones. Votos: 232.
+· El Museo de Taburetes y Joyas de Buenavista contrata a Kid Danger y a Capitanman para proteger el valioso diamante Neal de los ladrones. Votos: 234.
 · Título original: Henry Danger (T4): Ep.17 Diamonds Are For Heather
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
@@ -11856,7 +11844,7 @@
   <programme start="20250226232000 +0100" stop="20250226234500 +0100" channel="Nickelodeon">
     <title lang="es">Patricio es la estrella T2 E4 · La ira de Shmandor; Adiós al vecindario</title>
     <desc lang="es">Infantil/Dibujos animados | 2022 | TP | ★6.0/10
-· La ciudad en miniatura de Shmandor busca venganza. Patricio y Calamarina entrevistan a sus vecinos. Votos: 23.
+· La ciudad en miniatura de Shmandor busca venganza. Patricio y Calamarina entrevistan a sus vecinos. Votos: 25.
 · Título original: The Patrick Star... (T2): The Wrath of Shmandor / There Goes the Neighborhood
 · País: EE.UU.
 · Dirección: Sean Dempsey, Alex S. Conaway.
@@ -11898,7 +11886,7 @@
   <programme start="20250227005200 +0100" stop="20250227011600 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E21 · Bobi Dick; Plankton y los frijoles mágicos</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Calamardo se une a una tripulación para buscar una medusa blanca gigante; Plankton encuentra una habichuela mágica. Votos: 31.
+· Calamardo se une a una tripulación para buscar una medusa blanca gigante; Plankton encuentra una habichuela mágica. Votos: 32.
 · Título original: Bob Esponja (T13): Dopey Dick / Plankton and the Beanstalk
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -11931,7 +11919,7 @@
   <programme start="20250227020500 +0100" stop="20250227022900 +0100" channel="Nickelodeon">
     <title lang="es">Monster High T2 E12 · Todo sobre mi rata / Encendido</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Deuce quiere presumir de su mascota Perseus en la Muestra de Mascotas, pero, al negarse a participar, Deuce busca un sustituto destructor. Celoso de Jinafire, Heath intenta superar su activismo climático con un proyecto de ciencias mejor. Votos: 16.
+· Deuce quiere presumir de su mascota Perseus en la Muestra de Mascotas, pero, al negarse a participar, Deuce busca un sustituto destructor. Celoso de Jinafire, Heath intenta superar su activismo climático con un proyecto de ciencias mejor. Votos: 17.
 · Título original: Monster High... (T2): Oh Rats / Fired Up
 · País: EE.UU.
 · Dirección: Stephen Heneveld, Moss Lawton.
@@ -11940,7 +11928,7 @@
   <programme start="20250227022900 +0100" stop="20250227025200 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T3 E9 · Zoo peleones; Las cuentas claras</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2021 | ⑦ | ★6.0/10
-· Adelaide y Carl buscan ganar las insignias de miniguardianes del zoológico. Vito tiene una cuenta enorme en el mercado. Votos: 25.
+· Adelaide y Carl buscan ganar las insignias de miniguardianes del zoológico. Vito tiene una cuenta enorme en el mercado. Votos: 26.
 · Título original: The Casagrandes (T3): Don't Zoo That / Maxed Out
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -11960,7 +11948,7 @@
   <programme start="20250227031500 +0100" stop="20250227033700 +0100" channel="Nickelodeon">
     <title lang="es">Best y Bester (dobles) T1 E23</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante. Votos: 8.
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante. Votos: 10.
 · Título original: Best &amp; Bester... (T1): That Sinkhole Feeling / Like a Brother
 · País: R.U.
 · Dirección: Kitty Taylor.
@@ -11970,7 +11958,7 @@
   <programme start="20250227033700 +0100" stop="20250227040000 +0100" channel="Nickelodeon">
     <title lang="es">Best y Bester (dobles) T1 E24</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante. Votos: 10.
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante. Votos: 11.
 · Título original: Best &amp; Bester... (T1): Funny Money / Shaking Bad
 · País: R.U.
 · Dirección: Kitty Taylor.
@@ -11980,7 +11968,7 @@
   <programme start="20250227040000 +0100" stop="20250227042300 +0100" channel="Nickelodeon">
     <title lang="es">Best y Bester (dobles) T1 E25</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | TP | ★6.0/10
-· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante. Votos: 6.
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante. Votos: 7.
 · Título original: Best &amp; Bester... (T1): Pulling Power / Home Security
 · País: R.U.
 · Dirección: Kitty Taylor.
@@ -12000,7 +11988,7 @@
   <programme start="20250227044500 +0100" stop="20250227045500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T11 E42 · Cita televisiva</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | TP | ★6.0/10
-· La televisión emite un antiguo episodio perdido de Tritonman, pero ¿llegará Bob Esponja a tiempo para verlo??. Votos: 20.
+· La televisión emite un antiguo episodio perdido de Tritonman, pero ¿llegará Bob Esponja a tiempo para verlo??. Votos: 22.
 · Título original: SpongeBob... (T11): Appointment TV
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -12139,7 +12127,7 @@
   <programme start="20250227084800 +0100" stop="20250227091300 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E25 · Almejas mensajeras; Ataque de alergia</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Las almejas mensajeras de Bob Esponja causan un desastre para Calamardo; Bob Esponja desarrolla una alergia. Votos: 33.
+· Las almejas mensajeras de Bob Esponja causan un desastre para Calamardo; Bob Esponja desarrolla una alergia. Votos: 34.
 · Título original: Bob Esponja (T13): SquidBird / Allergy Attack!
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -12169,9 +12157,9 @@
 · Guion: Alan Yanaga.</desc>
   </programme>
   <programme start="20250227100000 +0100" stop="20250227102400 +0100" channel="Nickelodeon">
-    <title lang="es">Equipo Danger T3 E7 · ¿Dónde está Schwoz?</title>
-    <desc lang="es">Infantil/Serie infantil | 2022 | TP | ★6.0/10
-· El Equipo Danger debe rescatar a Schwoz, que ha sido secuestrado por la Célula durante la SandiFest. Con la ayuda de un conocido villano buenavistino, los chicos urden un plan para recastar a su amigo y, de paso, acabar con el diabólico colectivo. Votos: 27.
+    <title lang="es">Equipo Danger T3 E7 · Oye, ¿dónde está Schwoz?</title>
+    <desc lang="es">Infantil/Comedia | 2022 | ⑦ | ★6.0/10
+· El Equipo Danger debe rescatar a Schwoz, que ha sido secuestrado por la Célula durante la SandiFest. Con la ayuda de un conocido villano buenavistino, los chicos urden un plan para recastar a su amigo y, de paso, acabar con el diabólico colectivo. Votos: 29.
 · Título original: Danger Force (T3): Ep.7
 · País: EE.UU.
 · Dirección: Mike Caron.
@@ -12180,9 +12168,9 @@
   </programme>
   <programme start="20250227102400 +0100" stop="20250227104900 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T3 E8 · El Equipo Tontaina</title>
-    <desc lang="es">Infantil/Serie infantil | 2022 | TP | ★6.0/10
-· Para dificultar la labor del Equipo Danger, la Célula manipula a Jeff y Mitch Bilsky para que compren el Instituto de Buenavista. Cuando Mika, Miles y Chapa se embrutecen, Bose tendrá que asumir el mando y salvar a sus amigos de la "Educación Mitch". Votos: 17.
-· Título original: Danger Force (T3): Dumber Force
+    <desc lang="es">Infantil/Comedia | 2022 | ⑦ | ★6.0/10
+· Para dificultar la labor del Equipo Danger, la Célula manipula a Jeff y Mitch Bilsky para que compren el Instituto de Buenavista. Cuando Mika, Miles y Chapa se embrutecen, Bose tendrá que asumir el mando y salvar a sus amigos de la "Educación Mitch". Votos: 19.
+· Título original: Danger Force (T3): Ep.8 Dumber Force
 · País: EE.UU.
 · Dirección: Mike Caron.
 · Reparto: Cooper Barnes, Michael D. Cohen, Terrence Little Gardenhigh, Havan Flores, Dana Heath, Luca Luhan.
@@ -12257,7 +12245,7 @@
   <programme start="20250227131500 +0100" stop="20250227134000 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E1 · Un presente peligroso; Perdiendo los papeles</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Lincoln intenta encontrar el regalo que le han robado; Luan consigue un papel en una producción de Dairyland. Votos: 35.
+· Lincoln intenta encontrar el regalo que le han robado; Luan consigue un papel en una producción de Dairyland. Votos: 36.
 · Título original: The Loud House... (T6): Present Danger / Stressed for the Part
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -12299,7 +12287,7 @@
   <programme start="20250227145100 +0100" stop="20250227151500 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T3 E1 · Quiero ser como el abuelo; Los baondidos imparables</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2021 | ⑦ | ★6.0/10
-· Héctor se une al equipo de fútbol de sus sueños. Sid y Adelaide se enfrentan a bandidos que viajan en el tiempo. Votos: 26.
+· Héctor se une al equipo de fútbol de sus sueños. Sid y Adelaide se enfrentan a bandidos que viajan en el tiempo. Votos: 29.
 · Título original: The Casagrandes (T3): Bend It Like Abuelo / Bunstoppable
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -12408,7 +12396,7 @@
   </programme>
   <programme start="20250227183100 +0100" stop="20250227185300 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T1 E18 · Monsty</title>
-    <desc lang="es">Series/Comedia | 2020 | ⑦ | ★8.0/10
+    <desc lang="es">Series/Serie juvenil | 2020 | TP | ★8.0/10
 · En su afán por ganar el premio al empleado del mes del Nido del Capitán, Mika crea un monstruo que podría estropear el teletón que va a presentar el Equipo Danger. Votos: 34.
 · País: EE.UU.
 · Dirección: Mike Caron, Evelyn Belasco.
@@ -12502,7 +12490,7 @@
   <programme start="20250227220600 +0100" stop="20250227223100 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E1</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 13.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 14.
 · Título original: The loud house... (T8): Homeward Bound / Pressure Cooker
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -12511,7 +12499,7 @@
   <programme start="20250227223100 +0100" stop="20250227225600 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E16 · Para quitar el hipo; Aversiones en el mar</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Luna debe quitarse el hipo antes de actuar en un concurso. Bertrand planea fugarse de un crucero. Votos: 27.
+· Luna debe quitarse el hipo antes de actuar en un concurso. Bertrand planea fugarse de un crucero. Votos: 29.
 · Título original: The Loud House... (T6): Hiccups and Downs / The Loathe Boat
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -12572,7 +12560,7 @@
   <programme start="20250228005200 +0100" stop="20250228011600 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E26 · El regreso del circo; Arenita, ¡ayúdanos!</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· El señor Cangrejo sabotea un circo para ganarse a los clientes; Arenita ayuda a todos, menos a ella misma. Votos: 27.
+· El señor Cangrejo sabotea un circo para ganarse a los clientes; Arenita ayuda a todos, menos a ella misma. Votos: 29.
 · Título original: Bob Esponja (T13): Big Top Flop / Sandy, Help Us!
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -12618,7 +12606,7 @@
   <programme start="20250228025200 +0100" stop="20250228031500 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T3 E12 · La supervivencia del más débil. Demasiado móvil</title>
     <desc lang="es">Infantil/Serie infantil | 2021 | ⑦ | ★6.0/10
-· Arturo enseña a Bobby técnicas de supervivencia. Frida le pide a Carlota pasar tiempo de calidad juntas en un balneario. Votos: 30.
+· Arturo enseña a Bobby técnicas de supervivencia. Frida le pide a Carlota pasar tiempo de calidad juntas en un balneario. Votos: 31.
 · Título original: The Casagrandes (T3): Survival of the Unfittest/Nixed Signals
 · País: EE.UU.</desc>
   </programme>
@@ -12753,7 +12741,7 @@
   <programme start="20250228064800 +0100" stop="20250228071300 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E9 · Quien ríe el último; Temor al volante</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Luan cree que Mr. Coconuts quiere vengarse. Leni busca la forma de conseguir su carné de conducir. Votos: 27.
+· Luan cree que Mr. Coconuts quiere vengarse. Leni busca la forma de conseguir su carné de conducir. Votos: 28.
 · Título original: The Loud House... (T6): The Last Laugh/Driver's Dread
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -12807,7 +12795,7 @@
   <programme start="20250228084800 +0100" stop="20250228091300 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E26 · El regreso del circo; Arenita, ¡ayúdanos!</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· El señor Cangrejo sabotea un circo para ganarse a los clientes; Arenita ayuda a todos, menos a ella misma. Votos: 27.
+· El señor Cangrejo sabotea un circo para ganarse a los clientes; Arenita ayuda a todos, menos a ella misma. Votos: 29.
 · Título original: Bob Esponja (T13): Big Top Flop / Sandy, Help Us!
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -12838,9 +12826,9 @@
   </programme>
   <programme start="20250228100000 +0100" stop="20250228102400 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T3 E9 · No entréis ahí</title>
-    <desc lang="es">Infantil/Comedia | 2022 | ⑦ | ★8.0/10
+    <desc lang="es">Infantil/Serie infantil | 2022 | TP | ★8.0/10
 · Los chicos descubren una puerta nueva en el Nido del Capitán y están decididos a saber qué hay detrás de esta aunque Ray se lo prohiba. Sin embargo, una vez la abren, tendrán que lidiar con las peligrosas y extrañas consecuencias. Votos: 5.
-· Título original: Danger Force (T3): Ep.9 Don't Go In There
+· Título original: Danger Force (T3): Don't Go In There
 · País: EE.UU.
 · Dirección: Mike Caron.
 · Reparto: Cooper Barnes, Michael D. Cohen, Terrence Little Gardenhigh, Havan Flores, Dana Heath, Luca Luhan.
@@ -12848,9 +12836,9 @@
   </programme>
   <programme start="20250228102400 +0100" stop="20250228104900 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T3 E10 · La fiesta de cumpleaños de Bose</title>
-    <desc lang="es">Infantil/Comedia | 2022 | ⑦ | ★6.0/10
-· Cuando los chicos organizan una fiesta sorpresa de cumpleaños para Bose, su hermanastra. Votos: 19.
-· Título original: Danger Force (T3): Ep.10 Bose's Birthday Party
+    <desc lang="es">Infantil/Serie infantil | 2022 | TP | ★6.0/10
+· Cuando los chicos organizan una fiesta sorpresa de cumpleaños para Bose, su hermanastra. Votos: 20.
+· Título original: Danger Force (T3): Bose's Birthday Party
 · País: EE.UU.
 · Dirección: Mike Caron.
 · Reparto: Cooper Barnes, Michael D. Cohen, Terrence Little Gardenhigh, Havan Flores, Dana Heath, Luca Luhan.
@@ -12956,7 +12944,7 @@
   <programme start="20250228142700 +0100" stop="20250228145100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E13 · Abandonen el barco; Valhalla</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· La pandilla Crustáceo construye un barco al Señor Cangrejo; Bob Esponja descubre a alguien que vive en sus paredes. Votos: 30.
+· La pandilla Crustáceo construye un barco al Señor Cangrejo; Bob Esponja descubre a alguien que vive en sus paredes. Votos: 31.
 · Título original: Bob Esponja (T13): Abandon Twits/Wallhalla
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -12977,7 +12965,7 @@
   <programme start="20250228151500 +0100" stop="20250228154000 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T3 E5 · La panda de la banda; Batiendo récords</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2021 | ⑦ | ★6.0/10
-· El sueño de Bobby de tocar en una banda puede hacerse realidad. Sameer intenta romper un récord. Votos: 30.
+· El sueño de Bobby de tocar en una banda puede hacerse realidad. Sameer intenta romper un récord. Votos: 31.
 · Título original: The Casagrandes (T3): The Bros in the Band / For the Record
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -13005,7 +12993,7 @@
   <programme start="20250228160200 +0100" stop="20250228162600 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T14 E6 · Tanto enredado / Necromicón con churros</title>
     <desc lang="es">Infantil/Dibujos animados | 2023 | TP | ★6.0/10
-· Plankton y Karen se apuntan a lecciones de danza y enseguida se convierten en los mejores de la clase. Provisto de un libro de hechizos mágicos, Bob Esponja cocina un caso en la cocina del Krustáceo Krujiente. Votos: 21.
+· Plankton y Karen se apuntan a lecciones de danza y enseguida se convierten en los mejores de la clase. Provisto de un libro de hechizos mágicos, Bob Esponja cocina un caso en la cocina del Krustáceo Krujiente. Votos: 22.
 · Título original: SpongeBob... (T14): Tango Tangle / Necro-Nom-Nom-Nom-I-Con
 · País: EE.UU.
 · Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan, Ian Vazquez.
@@ -13074,8 +13062,8 @@
   </programme>
   <programme start="20250228183100 +0100" stop="20250228185300 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T1 E19 · El gato radioactivo</title>
-    <desc lang="es">Series/Comedia | 2020 | ⑦ | ★8.0/10
-· Celia, la madre de Bose, recoge un gato radioactivo que se le ha perdido a Schwoz a las puertas de la Academia del Equipo Danger. Por lo tanto los chicos y Capitán Man tendrán que recuperar el gato e intentar que ella no se vuelva radioactiva. Votos: 48.
+    <desc lang="es">Series/Serie juvenil | 2020 | TP | ★6.0/10
+· Celia, la madre de Bose, recoge un gato radioactivo que se le ha perdido a Schwoz a las puertas de la Academia del Equipo Danger. Por lo tanto los chicos y Capitán Man tendrán que recuperar el gato e intentar que ella no se vuelva radioactiva. Votos: 50.
 · Título original: Danger Force (T1): Ep.19 Radioactive Cat
 · País: EE.UU.
 · Dirección: Mike Caron, Evelyn Belasco.
@@ -13095,9 +13083,9 @@
   </programme>
   <programme start="20250228191700 +0100" stop="20250228194100 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E1 · Pasmados</title>
-    <desc lang="es">Series/SIN CLASIFICAR | 2018 | ⑦ | ★8.0/10
-· Durante una pelea con un nuevo villano, Kid Danger y Capitanman actúan con demasiada confianza, les rocian con flaci-gas, que los deja impotentes ante la amenaza. Schwoz les dará unos trajes que Charlotte y Jasper usarán por control remoto. Votos: 900.
-· Título original: Henry Danger (T5): Flabber Gassed
+    <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
+· Durante una pelea con un nuevo villano, Kid Danger y Capitanman actúan con demasiada confianza, les rocian con flaci-gas, que los deja impotentes ante la amenaza. Schwoz les dará unos trajes que Charlotte y Jasper usarán por control remoto. Votos: 902.
+· Título original: Henry Danger (T5): Ep.1 Flabber Gassed
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
 · Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
@@ -13159,7 +13147,7 @@
   <programme start="20250228214300 +0100" stop="20250228220600 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E2</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 10.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 11.
 · Título original: The loud house... (T8): Steeling Thunder / Be Careful What you Fish For
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -13168,7 +13156,7 @@
   <programme start="20250228220600 +0100" stop="20250228223100 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E5 · De viaje por Europa: todo un caballero</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 6.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 8.
 · Título original: The loud house... (T8): A Knight to Remember
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -13177,7 +13165,7 @@
   <programme start="20250228223100 +0100" stop="20250228225600 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E18 · Perdida en el espacio; Concurso con saña</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Lisa se lanza a sí misma y a Todd al espacio. Lola prepara a su madre para un concurso de madres e hijas. Votos: 28.
+· Lisa se lanza a sí misma y a Todd al espacio. Lola prepara a su madre para un concurso de madres e hijas. Votos: 29.
 · Título original: The Loud House... (T6): Space Jammed / Crown and Dirty
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -13228,7 +13216,7 @@
   <programme start="20250301002900 +0100" stop="20250301005200 +0100" channel="Nickelodeon">
     <title lang="es">Monster High T2 E12 · Todo sobre mi rata / Encendido</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Deuce quiere presumir de su mascota Perseus en la Muestra de Mascotas, pero, al negarse a participar, Deuce busca un sustituto destructor. Celoso de Jinafire, Heath intenta superar su activismo climático con un proyecto de ciencias mejor. Votos: 16.
+· Deuce quiere presumir de su mascota Perseus en la Muestra de Mascotas, pero, al negarse a participar, Deuce busca un sustituto destructor. Celoso de Jinafire, Heath intenta superar su activismo climático con un proyecto de ciencias mejor. Votos: 17.
 · Título original: Monster High... (T2): Oh Rats / Fired Up
 · País: EE.UU.
 · Dirección: Stephen Heneveld, Moss Lawton.
@@ -13246,14 +13234,14 @@
   <programme start="20250301011600 +0100" stop="20250301014100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T14 E6 · Tanto enredado / Necromicón con churros</title>
     <desc lang="es">Infantil/Dibujos animados | 2023 | TP | ★6.0/10
-· Plankton y Karen se apuntan a lecciones de danza y enseguida se convierten en los mejores de la clase. Provisto de un libro de hechizos mágicos, Bob Esponja cocina un caso en la cocina del Krustáceo Krujiente. Votos: 21.
+· Plankton y Karen se apuntan a lecciones de danza y enseguida se convierten en los mejores de la clase. Provisto de un libro de hechizos mágicos, Bob Esponja cocina un caso en la cocina del Krustáceo Krujiente. Votos: 22.
 · Título original: SpongeBob... (T14): Tango Tangle / Necro-Nom-Nom-Nom-I-Con
 · País: EE.UU.
 · Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan, Ian Vazquez.
 · Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
   </programme>
   <programme start="20250301014100 +0100" stop="20250301020500 +0100" channel="Nickelodeon">
-    <title lang="es">Bob Esponja T14 E7 · Cápsula de tiempo / Con ganas de bronca</title>
+    <title lang="es">Bob Esponja T14 E7 · PL-1413; Con ganas de pelear</title>
     <desc lang="es">Infantil/Dibujos animados | 2023 | TP | ★6.0/10
 · Bob es una simpática esponja de mar que vive en una piña de dos pisos en el fondo del Pacífico junto a su mejor amigo, una estrella de mar llamada Patricio. Para ganarse la vida, nuestro protagonista cocina hamburguesas en el Krusty Crab. Votos: 19.
 · Título original: SpongeBob... (T14): PL-1413 / In the Mood to Feud
@@ -13483,7 +13471,7 @@
   <programme start="20250301091200 +0100" stop="20250301093700 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T12 E21 · Una cabaña en el quelpo; Cebo irresistible</title>
     <desc lang="es">Infantil/Dibujos animados | 2018 | ⑦ | ★6.0/10
-· Las "siempre amigas" llevan a Perla a una cabaña en el bosque. El señor Cangrejo tiene un antojo sorprendente. Votos: 50.
+· Las "siempre amigas" llevan a Perla a una cabaña en el bosque. El señor Cangrejo tiene un antojo sorprendente. Votos: 51.
 · Título original: SpongeBob... (T12): A Cabin in the Kelp / The Hankering
 · País: EE.UU.
 · Dirección: Dave Cunningham, Sherm Cohen, Adam Polain, Vincent Waller.
@@ -13523,7 +13511,7 @@
   <programme start="20250301104800 +0100" stop="20250301111300 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E2</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 10.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 11.
 · Título original: The loud house... (T8): Steeling Thunder / Be Careful What you Fish For
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -13532,7 +13520,7 @@
   <programme start="20250301111300 +0100" stop="20250301113700 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E5 · De viaje por Europa: todo un caballero</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 6.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 8.
 · Título original: The loud house... (T8): A Knight to Remember
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -13541,7 +13529,7 @@
   <programme start="20250301113700 +0100" stop="20250301115900 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T2 E5 · Tío, ¿dónde está mi manbuggy?</title>
     <desc lang="es">Series/Serie juvenil | 2021 | TP | ★6.0/10
-· Después de llevarse sin permiso el preciado ManBuggy de Ray y caer este en manos de Jeff el Idiota y el Niñote, el Equipo Danger tendrá que localizar el vehículo y recuperarlo antes de que Ray se entere. Votos: 35.
+· Después de llevarse sin permiso el preciado ManBuggy de Ray y caer este en manos de Jeff el Idiota y el Niñote, el Equipo Danger tendrá que localizar el vehículo y recuperarlo antes de que Ray se entere. Votos: 38.
 · Título original: Danger Force (T2): Ep.5 Dude, Where's My Man Buggy?
 · País: EE.UU.
 · Reparto: Cooper Barnes, Michaël Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan.
@@ -13550,7 +13538,7 @@
   <programme start="20250301115900 +0100" stop="20250301122400 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T2 E6 · El musical de Mika</title>
     <desc lang="es">Series/Serie juvenil | 2021 | TP | ★6.0/10
-· Para evitar que los saquen de la SW.A.G., el Equipo Danger tendrá que montar una obra de teatro escolar muy extra curricular a la vez que impedir que Frankini secuestre al teniente de alcalde. Votos: 33.
+· Para evitar que los saquen de la SW.A.G., el Equipo Danger tendrá que montar una obra de teatro escolar muy extra curricular a la vez que impedir que Frankini secuestre al teniente de alcalde. Votos: 36.
 · Título original: Danger Force (T2): Ep.6 Mika's Musical
 · País: EE.UU.
 · Dirección: Mike Caron, Evelyn Belasco.
@@ -13737,7 +13725,7 @@
   <programme start="20250301185100 +0100" stop="20250301191500 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T2 E21 · El tío Codillo</title>
     <desc lang="es">Series/Serie juvenil | 2021 | TP | ★6.0/10
-· Cuando la hermana pequeña de Chapa acude a ella en busca de ayuda durante un apagón generalizado, el resto del Equipo Danger se extralimitará al intentar obligarla a dar energía al Nido del Capi para poder ellos ganar un concurso. Votos: 33.
+· Cuando la hermana pequeña de Chapa acude a ella en busca de ayuda durante un apagón generalizado, el resto del Equipo Danger se extralimitará al intentar obligarla a dar energía al Nido del Capi para poder ellos ganar un concurso. Votos: 34.
 · Título original: Danger Force (T2): Ep.21 Uncle Hambone
 · País: EE.UU.
 · Dirección: Mike Caron, Evelyn Belasco.
@@ -13822,7 +13810,7 @@
   <programme start="20250301220100 +0100" stop="20250301222500 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E16 · Para quitar el hipo; Aversiones en el mar</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Luna debe quitarse el hipo antes de actuar en un concurso. Bertrand planea fugarse de un crucero. Votos: 27.
+· Luna debe quitarse el hipo antes de actuar en un concurso. Bertrand planea fugarse de un crucero. Votos: 29.
 · Título original: The Loud House... (T6): Hiccups and Downs / The Loathe Boat
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -13868,7 +13856,7 @@
   <programme start="20250301233900 +0100" stop="20250302000100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E1 · Un lugar para las mascotas.; Preso del amor</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· El señor Cangrejo se da cuenta de que las mascotas consumen mucho más que sus dueños. Karen cierra el cubo de cebo. Votos: 38.
+· El señor Cangrejo se da cuenta de que las mascotas consumen mucho más que sus dueños. Karen cierra el cubo de cebo. Votos: 39.
 · Título original: Bob Esponja (T13): A Place for Pets / Lockdown for Love
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -13940,7 +13928,7 @@
   <programme start="20250302020400 +0100" stop="20250302022500 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T5 E3 · La mandamenos; Licencia para cotillear</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★8.0/10
-· Leni intenta seguir los pasos de Lori. Lincoln y Clyde investigan a los nuevos vecinos. Votos: 27.
+· Leni intenta seguir los pasos de Lori. Lincoln y Clyde investigan a los nuevos vecinos. Votos: 28.
 · Título original: The Loud House (T5): The Boss Maybe / Family Bonding
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -13988,7 +13976,7 @@
   <programme start="20250302034600 +0100" stop="20250302035700 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T13 E12 · El club marinero de resentidos con Bob Esponja</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | TP | ★6.0/10
-· Calamardo celebra una reunión secreta del grupo Detestamos a Bob Esponja en su casa. Votos: 12.
+· Calamardo celebra una reunión secreta del grupo Detestamos a Bob Esponja en su casa. Votos: 14.
 · Título original: SpongeBob... (T13): Sea-Man Sponge Haters Club
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14008,7 +13996,7 @@
   <programme start="20250302042100 +0100" stop="20250302044200 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E8 · El puesto ambulante de comida.; Chicas altaneras</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja y Calamardo regentan un camión de comida en alta mar; Pearl y Narlene se van a la gran ciudad. Votos: 27.
+· Bob Esponja y Calamardo regentan un camión de comida en alta mar; Pearl y Narlene se van a la gran ciudad. Votos: 28.
 · Título original: Bob Esponja (T13): Food PBBFT! Truck/Upturn Girls
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14019,7 +14007,7 @@
   <programme start="20250302044200 +0100" stop="20250302045300 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T11 E6 · Hay una esponja en mi sopa</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | TP | ★6.0/10
-· La nueva Cangresopa del señor Cangrejo es un éxito hasta que unos hippies amantes del calor se mudan al caldero de la sopa. Votos: 47.
+· La nueva Cangresopa del señor Cangrejo es un éxito hasta que unos hippies amantes del calor se mudan al caldero de la sopa. Votos: 49.
 · Título original: SpongeBob... (T11): There's a Sponge in my Soup
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14039,7 +14027,7 @@
   <programme start="20250302050400 +0100" stop="20250302051500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T11 E8 · El regreso de Manta Raya</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | TP | ★6.0/10
-· Cuando Manta Raya alquila la casa de Calamardo durante un fin de semana, Bob Esponja y Calamardo deben detener sus maléficos planes. Votos: 30.
+· Cuando Manta Raya alquila la casa de Calamardo durante un fin de semana, Bob Esponja y Calamardo deben detener sus maléficos planes. Votos: 31.
 · Título original: SpongeBob... (T11): Man Ray Returns
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14146,7 +14134,7 @@
   <programme start="20250302075900 +0100" stop="20250302082300 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T2 E7 · Vacas flacas; Docente dolorosa</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2020 | ⑦ | ★6.0/10
-· Ronnie Anne tiene que elegir entre sus amigos; el padre de Ronnie Anne sale con su profesora. Votos: 40.
+· Ronnie Anne tiene que elegir entre sus amigos; el padre de Ronnie Anne sale con su profesora. Votos: 41.
 · Título original: The Casagrandes (T2): An Udder Mess / Teacher's Fret
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -14156,7 +14144,7 @@
   <programme start="20250302082300 +0100" stop="20250302084800 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T2 E8 · Yo, Desayubot; El doble dinámico</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2020 | ⑦ | ★6.0/10
-· Los primos hacen que el robot de Sid haga tareas; Carl conoce a El Falcón. Votos: 34.
+· Los primos hacen que el robot de Sid haga tareas; Carl conoce a El Falcón. Votos: 36.
 · Título original: The Casagrandes (T2): I, Breakfast Bot / Dynamic Do-Over
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -14198,7 +14186,7 @@
   <programme start="20250302100000 +0100" stop="20250302102400 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E14 · Esponja salada; Karen cuida a Manchita</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja trabaja en el restaurante más exigente de la ciudad; Karen cuida a Manchita, en ausencia de Plankton. Votos: 25.
+· Bob Esponja trabaja en el restaurante más exigente de la ciudad; Karen cuida a Manchita, en ausencia de Plankton. Votos: 28.
 · Título original: Bob Esponja (T13): The Salty Sponge / Karen for Spot
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14220,8 +14208,8 @@
   </programme>
   <programme start="20250302104800 +0100" stop="20250302111300 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E6 · De viaje por Europa: a-Nonna-dando / De viaje por Europa: añoro en los Alpes</title>
-    <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★4.0/10
-· Los Loud van a Nápoles, Italia, para probar la mejor pizza del mundo, hecha por una cocinera reservada y legendaria. Cuando Lynn tiene un flechazo con un chico en los Alpes suizos, Lori y Leni le enseñarán cómo debe entrarle. Votos: 6.
+    <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
+· Los Loud van a Nápoles, Italia, para probar la mejor pizza del mundo, hecha por una cocinera reservada y legendaria. Cuando Lynn tiene un flechazo con un chico en los Alpes suizos, Lori y Leni le enseñarán cómo debe entrarle. Votos: 8.
 · Título original: The loud house... (T8): Europe Road Trip: Nonna Your Business / Europe Road Trip: Alpining Away
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -14230,7 +14218,7 @@
   <programme start="20250302111300 +0100" stop="20250302113700 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E7</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 8.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 9.
 · Título original: The loud house... (T8): A Bite in Transylvania / Greece Is the Word
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -14239,7 +14227,7 @@
   <programme start="20250302113700 +0100" stop="20250302115900 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T2 E7 · El regreso de Krampus</title>
     <desc lang="es">Series/Serie juvenil | 2021 | TP | ★6.0/10
-· El Equipo Danger ve una oportunidad de hacer dinero rápido siendo los anfitriones del popular festival de música de Buenavista, pero Krampus vuelve a la carga con intención de frustrarles los planes. Votos: 24.
+· El Equipo Danger ve una oportunidad de hacer dinero rápido siendo los anfitriones del popular festival de música de Buenavista, pero Krampus vuelve a la carga con intención de frustrarles los planes. Votos: 26.
 · Título original: Danger Force (T2): Ep.7 Krampapalooza
 · País: EE.UU.
 · Reparto: Cooper Barnes, Michaël Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan.
@@ -14280,9 +14268,9 @@
   </programme>
   <programme start="20250302131200 +0100" stop="20250302133700 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E38 · CapitanDrex</title>
-    <desc lang="es">Series/SIN CLASIFICAR | 2018 | ⑦ | ★8.0/10
+    <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
 · El antiguo ayudante de Capitanman y enemigo jurado, Drex, regresa del pasado con un ejército de trogloditas para acabar con Capitanman de una vez para siempre. Puede que Kid Danger sea el único que pueda salvar ahora a Capitanman. Votos: 235.
-· Título original: Henry Danger (T5): Captain Drex
+· Título original: Henry Danger (T5): Ep.38 Captain Drex
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
 · Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
@@ -14396,7 +14384,7 @@
   <programme start="20250302171600 +0100" stop="20250302174000 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T1 E10 · A la última; Pájaro en mano</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2019 | ⑦ | ★6.0/10
-· Ronnie Anne no está al día de las últimas tendencias; Bobby no encuentra a Sergio. Votos: 72.
+· Ronnie Anne no está al día de las últimas tendencias; Bobby no encuentra a Sergio. Votos: 73.
 · Título original: The Casagrandes (T1): Trend Game / This Bird Has Flown
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -14436,7 +14424,7 @@
   <programme start="20250302185100 +0100" stop="20250302191500 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T2 E23 · Héroes colectivos</title>
     <desc lang="es">Series/Serie juvenil | 2021 | TP | ★6.0/10
-· El Equipo Danger está arrasando en el instituto de Buenavista pero Ray echa de menos a sus ayudantes y tramará un plan para sacarlos del centro. Votos: 25.
+· El Equipo Danger está arrasando en el instituto de Buenavista pero Ray echa de menos a sus ayudantes y tramará un plan para sacarlos del centro. Votos: 26.
 · Título original: Danger Force (T2): Ep.23 Class Action Heroes
 · País: EE.UU.
 · Reparto: Cooper Barnes, Michaël Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan.
@@ -14445,7 +14433,7 @@
   <programme start="20250302191500 +0100" stop="20250302194000 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T2 E24 · El bodorrio de Trent</title>
     <desc lang="es">Series/Serie juvenil | 2021 | TP | ★6.0/10
-· Capitanman y el Equipo Danger son los anfitriones de la boda del presentador de las noticias Trent Overunder y su novia internauta Tracy426. La sospecha de que Tracy426 no es quien dice ser les llevará a entrometerse y casi estropear el gran día. Votos: 21.
+· Capitanman y el Equipo Danger son los anfitriones de la boda del presentador de las noticias Trent Overunder y su novia internauta Tracy426. La sospecha de que Tracy426 no es quien dice ser les llevará a entrometerse y casi estropear el gran día. Votos: 23.
 · Título original: Danger Force (T2): Ep.24 Wedding of the Trentury
 · País: EE.UU.
 · Reparto: Cooper Barnes, Michaël Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan.
@@ -14507,7 +14495,7 @@
   <programme start="20250302213900 +0100" stop="20250302220100 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E18 · Perdida en el espacio; Concurso con saña</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Lisa se lanza a sí misma y a Todd al espacio. Lola prepara a su madre para un concurso de madres e hijas. Votos: 28.
+· Lisa se lanza a sí misma y a Todd al espacio. Lola prepara a su madre para un concurso de madres e hijas. Votos: 29.
 · Título original: The Loud House... (T6): Space Jammed / Crown and Dirty
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -14531,7 +14519,7 @@
   <programme start="20250302222500 +0100" stop="20250302225000 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E20 · La nube Loud; Hecho el taller, hecha la trampa</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Lincoln y Lisa crean una aplicación para gestionar la agenda de la familia. Lana abre un taller. Votos: 28.
+· Lincoln y Lisa crean una aplicación para gestionar la agenda de la familia. Lana abre un taller. Votos: 29.
 · Título original: The Loud House... (T6): The Loud Cloud / You Auto Know Better
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -14543,7 +14531,7 @@
   <programme start="20250302225000 +0100" stop="20250302231500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E2 · El mayor espectáculo del mundo.; Calamardo está de baja</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· La casa de Calamardo se infesta de un circo de pulgas que llega por correo. Calamardo finge estar enfermo. Votos: 44.
+· La casa de Calamardo se infesta de un circo de pulgas que llega por correo. Calamardo finge estar enfermo. Votos: 45.
 · Título original: Bob Esponja (T13): Under the Small Top / Squidward's Sick Daze
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14565,7 +14553,7 @@
   <programme start="20250302233900 +0100" stop="20250303000100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E4 · ¡Por ahí soplan los narvales!; C.E.B.O.S</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja recibe la visita de alguien de su pasado. Plankton encuentra un aliado inesperado en las alcantarillas Votos: 38.
+· Bob Esponja recibe la visita de alguien de su pasado. Plankton encuentra un aliado inesperado en las alcantarillas Votos: 39.
 · Título original: Bob Esponja (T13): Something Narwhal This Way Comes / C.H.U.M.S.
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14576,7 +14564,7 @@
   <programme start="20250303000100 +0100" stop="20250303001400 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T9 E25 · Pícnic de empresa</title>
     <desc lang="es">Infantil/Dibujos animados | 2016 | TP | ★6.0/10
-· El Sr. Cangrejo organiza un picnic para animar a sus empleados el mismo día que Plankton organiza el suyo. Votos: 6.
+· El Sr. Cangrejo organiza un picnic para animar a sus empleados el mismo día que Plankton organiza el suyo. Votos: 7.
 · Título original: SpongeBob... (T9): Company Picnic
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.</desc>
@@ -14638,7 +14626,7 @@
   <programme start="20250303020400 +0100" stop="20250303022500 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T5 E4 · Armando la fiesta; Noticias palomiteras</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Lana planea su cumpleaños y el de Lola. Lincoln resuelve el misterio de las palomitas de maíz perdidas. Votos: 39.
+· Lana planea su cumpleaños y el de Lola. Lincoln resuelve el misterio de las palomitas de maíz perdidas. Votos: 40.
 · Título original: The Loud House (T5): Strife of the Party / Kernel of Truth
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -14687,7 +14675,7 @@
   <programme start="20250303034600 +0100" stop="20250303035700 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T13 E13 · El puesto ambulante de comida</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | TP | ★6.0/10
-· Bob Esponja y Calmarado intentan vender cangreburgers en un puesto ambulante en las profundidades más oscuras del océano. Votos: 12.
+· Bob Esponja y Calmarado intentan vender cangreburgers en un puesto ambulante en las profundidades más oscuras del océano. Votos: 14.
 · Título original: SpongeBob... (T13): Food PBBFT! Truck
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14696,7 +14684,7 @@
   <programme start="20250303035700 +0100" stop="20250303042100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E9 · ¡Qué ricura!; Patricio, cartero</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Plankton fabrica un robot para castigar a quien le llame ricura; Patricio debe repartir el correo. Votos: 39.
+· Plankton fabrica un robot para castigar a quien le llame ricura; Patricio debe repartir el correo. Votos: 40.
 · Título original: Bob Esponja (T13): Say 'Awww'!/Patrick the Mailman
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14728,7 +14716,7 @@
   <programme start="20250303045300 +0100" stop="20250303050400 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T11 E12 · Unos estudiantes muy plastas</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | TP | ★6.0/10
-· El Señor Cangrejo y Plankton tienen que asistir a clases de navegación. Por suerte, Bob Esponja está allí para ayudarles a que le cojan el tranquillo al curso. Votos: 81.
+· El Señor Cangrejo y Plankton tienen que asistir a clases de navegación. Por suerte, Bob Esponja está allí para ayudarles a que le cojan el tranquillo al curso. Votos: 82.
 · Título original: SpongeBob... (T11): Teacher's Pets
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14748,7 +14736,7 @@
   <programme start="20250303051500 +0100" stop="20250303052600 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T11 E13 · Saneamiento insano</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | TP | ★6.0/10
-· Cuando el señor Cangrejo es sancionado por ensuciar, obliga a Bob Esponja y a Calamardo que limpien Fondo de Bikini. Votos: 39.
+· Cuando el señor Cangrejo es sancionado por ensuciar, obliga a Bob Esponja y a Calamardo que limpien Fondo de Bikini. Votos: 40.
 · Título original: SpongeBob... (T11): Sanitation Insanity
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -14895,7 +14883,7 @@
   <programme start="20250303100000 +0100" stop="20250303102400 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T3 E11 · Ray perdona</title>
     <desc lang="es">Infantil/Serie infantil | 2022 | TP | ★6.0/10
-· Ray corta con Credenza y el Equipo Danger tiene solo 48 horas para enseñar a su jefe a perdonar antes de que el fin de su relación sea irremediable. Para ello, Ray tendrá que enfrentarse a su pasado y perdonar a su archi enemigo, Drex. Votos: 12.
+· Ray corta con Credenza y el Equipo Danger tiene solo 48 horas para enseñar a su jefe a perdonar antes de que el fin de su relación sea irremediable. Para ello, Ray tendrá que enfrentarse a su pasado y perdonar a su archi enemigo, Drex. Votos: 14.
 · Título original: Danger Force (T3): Ray Forgives
 · País: EE.UU.
 · Dirección: Mike Caron.
@@ -14905,7 +14893,7 @@
   <programme start="20250303102400 +0100" stop="20250303104900 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T1 E1 · El despierta</title>
     <desc lang="es">Series/Serie juvenil | 2020 | TP | ★8.0/10
-· Capitanman tiene un nuevo equipo de asistentes superhéores, el Equipo Danger; pero cuando les dice que hay "sequía de crímenes" en Buenavista, su equipo empieza a sospechar que está combatiendo el crimen sin su ayuda. Votos: 197.
+· Capitanman tiene un nuevo equipo de asistentes superhéores, el Equipo Danger; pero cuando les dice que hay "sequía de crímenes" en Buenavista, su equipo empieza a sospechar que está combatiendo el crimen sin su ayuda. Votos: 199.
 · Título original: Danger Force (T1): Ep.1 The Danger Force Awakens
 · País: EE.UU.
 · Dirección: Mike Caron.
@@ -14914,9 +14902,9 @@
   </programme>
   <programme start="20250303104900 +0100" stop="20250303111300 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E15 · Charlotte se esfuma</title>
-    <desc lang="es">Series/SIN CLASIFICAR | 2018 | ⑦ | ★8.0/10
+    <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
 · Schwoz inventa una aspiradora para ayudar a Henry a limpiar su casa. Votos: 209.
-· Título original: Henry Danger (T5): Charlotte gets ghosted
+· Título original: Henry Danger (T5): Ep.15 Charlotte gets ghosted
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
 · Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
@@ -14924,7 +14912,7 @@
   </programme>
   <programme start="20250303111300 +0100" stop="20250303113700 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E16 · Sueño con peligro</title>
-    <desc lang="es">Series/SIN CLASIFICAR | 2018 | ⑦ | ★8.0/10
+    <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
 · Después de soñar que casi besa a Kid Danger, Charlotte intentará evitar a Henry por miedo a que el sueño se haga realidad. Votos: 305.
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
@@ -14980,7 +14968,7 @@
   <programme start="20250303131500 +0100" stop="20250303134000 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E7 · Mala prensa; Mal de ojos</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Katherine Mulligan roba las pistas del equipo de Action News; Lisa estrena gafas nuevas. Votos: 33.
+· Katherine Mulligan roba las pistas del equipo de Action News; Lisa estrena gafas nuevas. Votos: 35.
 · Título original: The Loud House... (T6): Scoop Snoop/Eye Can't
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -14991,8 +14979,8 @@
   </programme>
   <programme start="20250303134000 +0100" stop="20250303140200 +0100" channel="Nickelodeon">
     <title lang="es">Max y la pandilla medieval T1 E1 · Bienvenido a Byjovia</title>
-    <desc lang="es">Series/Comedia | 2024 | ⑦ | ★8.0/10
-· Insatisfecha con su vida de trovadora, Max sueña con convertirse en caballero. Votos: 7.
+    <desc lang="es">Series/Comedia | 2024 | ⑦ | ★6.0/10
+· Insatisfecha con su vida de trovadora, Max sueña con convertirse en caballero. Votos: 9.
 · Título original: Max and the... (T1): Ep.1 Welcome to Byjovia
 · País: EE.UU.
 · Dirección: David Skelly.
@@ -15011,7 +14999,7 @@
   <programme start="20250303142700 +0100" stop="20250303145100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E14 · Esponja salada; Karen cuida a Manchita</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja trabaja en el restaurante más exigente de la ciudad; Karen cuida a Manchita, en ausencia de Plankton. Votos: 25.
+· Bob Esponja trabaja en el restaurante más exigente de la ciudad; Karen cuida a Manchita, en ausencia de Plankton. Votos: 28.
 · Título original: Bob Esponja (T13): The Salty Sponge / Karen for Spot
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -15032,7 +15020,7 @@
   <programme start="20250303151500 +0100" stop="20250303154000 +0100" channel="Nickelodeon">
     <title lang="es">Los Casagrande T3 E7 · La maldición dorada</title>
     <desc lang="es">Infantil/SIN CLASIFICAR | 2021 | ⑦ | ★6.0/10
-· La familia celebra la boda de Paco, pero deben encontrar las arras que perdió Sergio. Votos: 38.
+· La familia celebra la boda de Paco, pero deben encontrar las arras que perdió Sergio. Votos: 39.
 · Título original: The Casagrandes (T3): Losing Las Arras
 · País: EE.UU.
 · Dirección: Mike Nordstrom, Miguel Puga.
@@ -15058,7 +15046,7 @@
 · Guion: Leanna Dindal.</desc>
   </programme>
   <programme start="20250303160200 +0100" stop="20250303162600 +0100" channel="Nickelodeon">
-    <title lang="es">Bob Esponja T14 E7 · Cápsula de tiempo / Con ganas de bronca</title>
+    <title lang="es">Bob Esponja T14 E7 · PL-1413; Con ganas de pelear</title>
     <desc lang="es">Infantil/Dibujos animados | 2023 | TP | ★6.0/10
 · Bob es una simpática esponja de mar que vive en una piña de dos pisos en el fondo del Pacífico junto a su mejor amigo, una estrella de mar llamada Patricio. Para ganarse la vida, nuestro protagonista cocina hamburguesas en el Krusty Crab. Votos: 19.
 · Título original: SpongeBob... (T14): PL-1413 / In the Mood to Feud
@@ -15089,7 +15077,7 @@
   <programme start="20250303170300 +0100" stop="20250303172800 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E1</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 13.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 14.
 · Título original: The loud house... (T8): Homeward Bound / Pressure Cooker
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -15128,7 +15116,7 @@
   </programme>
   <programme start="20250303183000 +0100" stop="20250303185300 +0100" channel="Nickelodeon">
     <title lang="es">Equipo Danger T1 E20 · Miles tiene visiones</title>
-    <desc lang="es">Series/Comedia | 2020 | ⑦ | ★8.0/10
+    <desc lang="es">Series/Serie juvenil | 2020 | TP | ★8.0/10
 · Cuando Rayo empieza a tener visiones del futuro justo antes de que pasen, Capitanman culpa al principal delincuente del tiempo de Buenavista: el Agitador del Tiempo. Votos: 41.
 · Título original: Danger Force (T1): Ep.20 Miles Has Visions
 · País: EE.UU.
@@ -15140,7 +15128,7 @@
   <programme start="20250303185300 +0100" stop="20250303191700 +0100" channel="Nickelodeon">
     <title lang="es">Henry Danger T5 E4 · Susie sibilante</title>
     <desc lang="es">Series/Serie juvenil | 2018 | TP | ★8.0/10
-· Después de activar accidentalmente una bomba atómica en la Mancueva, Ray y Henry deciden sacarla de Buenavista y llevarla al desierto para salvar la ciudad. Votos: 285.
+· Después de activar accidentalmente una bomba atómica en la Mancueva, Ray y Henry deciden sacarla de Buenavista y llevarla al desierto para salvar la ciudad. Votos: 286.
 · Título original: Henry Danger (T5): Ep.4 Whistlin' Susie
 · País: EE.UU.
 · Dirección: Steve Hoefer, Adam Weissman.
@@ -15212,8 +15200,8 @@
   </programme>
   <programme start="20250303214300 +0100" stop="20250303220600 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E6 · De viaje por Europa: a-Nonna-dando / De viaje por Europa: añoro en los Alpes</title>
-    <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★4.0/10
-· Los Loud van a Nápoles, Italia, para probar la mejor pizza del mundo, hecha por una cocinera reservada y legendaria. Cuando Lynn tiene un flechazo con un chico en los Alpes suizos, Lori y Leni le enseñarán cómo debe entrarle. Votos: 6.
+    <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
+· Los Loud van a Nápoles, Italia, para probar la mejor pizza del mundo, hecha por una cocinera reservada y legendaria. Cuando Lynn tiene un flechazo con un chico en los Alpes suizos, Lori y Leni le enseñarán cómo debe entrarle. Votos: 8.
 · Título original: The loud house... (T8): Europe Road Trip: Nonna Your Business / Europe Road Trip: Alpining Away
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -15222,7 +15210,7 @@
   <programme start="20250303220600 +0100" stop="20250303223100 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E7</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 8.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 9.
 · Título original: The loud house... (T8): A Bite in Transylvania / Greece Is the Word
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -15231,7 +15219,7 @@
   <programme start="20250303223100 +0100" stop="20250303225600 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E20 · La nube Loud; Hecho el taller, hecha la trampa</title>
     <desc lang="es">Infantil/Dibujos animados | 2021 | ⑦ | ★6.0/10
-· Lincoln y Lisa crean una aplicación para gestionar la agenda de la familia. Lana abre un taller. Votos: 28.
+· Lincoln y Lisa crean una aplicación para gestionar la agenda de la familia. Lana abre un taller. Votos: 29.
 · Título original: The Loud House... (T6): The Loud Cloud / You Auto Know Better
 · País: EE.UU.
 · Dirección: Chris Savino, Kyle Marshall.
@@ -15243,7 +15231,7 @@
   <programme start="20250303225600 +0100" stop="20250303232000 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T8 E1</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 13.
+· Lincoln tiene 11 años e intenta sobrevivir a la locura que es su casa en la que vive con sus padres y sus 10 hermanas, algo peculiares. Votos: 14.
 · Título original: The loud house... (T8): Homeward Bound / Pressure Cooker
 · País: EE.UU.
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -15301,7 +15289,7 @@
   <programme start="20250304011600 +0100" stop="20250304014100 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T14 E12 · Lubina "sucia" Burbujas / Mi hermano Sheldon</title>
     <desc lang="es">Infantil/Dibujos animados | 2024 | TP | ★6.0/10
-· Lubina Burbujas y Burbuja Sucia suman sus fuerzas para convertirse en la molestia más perversa y apestosa de Fondo de Bikini. Plankton se une a la Familia Esponja para aproximarse a Bob (y a la fórmula secreta). Votos: 15.
+· Lubina Burbujas y Burbuja Sucia suman sus fuerzas para convertirse en la molestia más perversa y apestosa de Fondo de Bikini. Plankton se une a la Familia Esponja para aproximarse a Bob (y a la fórmula secreta). Votos: 16.
 · Título original: SpongeBob... (T14): The Dirty Bubble Bass / Sheldon SquarePants
 · País: EE.UU.
 · Dirección: Andrew Overtoom, Dave Cunningham, Ian Vazquez.
@@ -15310,7 +15298,7 @@
   <programme start="20250304014100 +0100" stop="20250304020500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E19 · Nueces ahumadas; Sr. Erizo y Caracol</title>
     <desc lang="es">Infantil/Dibujos animados | 2020 | ⑦ | ★6.0/10
-· El aperitivo casero de Arenita se hace muy popular; El dúo cómico favorito de Bob Esponja se pelea. Votos: 33.
+· El aperitivo casero de Arenita se hace muy popular; El dúo cómico favorito de Bob Esponja se pelea. Votos: 34.
 · Título original: Bob Esponja (T13): Hot Crossed Nuts / Sir Urchin and Snail Fail
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -15386,7 +15374,7 @@
   <programme start="20250304044500 +0100" stop="20250304045500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja Single Story T11 E17 · Achucho C. Abrazón</title>
     <desc lang="es">Infantil/Dibujos animados | 2017 | TP | ★6.0/10
-· El nuevo amigo de Bob Esponja es un hámster peludo gigante, pero hay un problema: nadie puede verlo. Votos: 54.
+· El nuevo amigo de Bob Esponja es un hámster peludo gigante, pero hay un problema: nadie puede verlo. Votos: 56.
 · Título original: SpongeBob... (T11): Cuddle E. Hugs
 · País: EE.UU.
 · Dirección: Vincent Waller, Dave Cunningham.
