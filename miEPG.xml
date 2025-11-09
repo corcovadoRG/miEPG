@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/11/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/11/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Neox">
     <display-name>Neox</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
@@ -60,7 +60,7 @@
 · Producción: Lynette Howell Taylor, Mark Williams.
 · Productora: Warner Bros, Electric City Entertainment, RatPac-Dune Entertainment, Zero Gravity Management.</desc>
   </programme>
-  <programme start="20251108174000 +0100" stop="20251108200000 +0100" channel="Neox">
+  <programme start="20251108174000 +0100" stop="20251108195900 +0100" channel="Neox">
     <title lang="es">Fallen</title>
     <desc lang="es">Cine,Thriller | 1998 | ⑫ | ★7.0/10
 · Un cruel asesino acaba de ser ajusticiado. Pero, los policías que lo atraparon investigan una nueva serie de crímenes similares.
@@ -71,7 +71,7 @@
 · Música: Tan Dun.
 · Productora: Atlas Entertainment.</desc>
   </programme>
-  <programme start="20251108200000 +0100" stop="20251108220000 +0100" channel="Neox">
+  <programme start="20251108195900 +0100" stop="20251108220000 +0100" channel="Neox">
     <title lang="es">Instinto peligroso</title>
     <desc lang="es">Cine,Acción | 2021 | ⑯ | ★6.2/10
 · Un ex asesino a sueldo (Scott Eastwood) acude al funeral de su hermano en una recóndita isla cuando un grupo de mercenarios irrumpe en busca del dinero que el fallecido les debía.
@@ -188,7 +188,14 @@
   <programme start="20251109173500 +0100" stop="20251109195000 +0100" channel="Neox">
     <title lang="es">Frequency</title>
     <desc lang="es">Cine,Ciencia ficción | 2000 | ⑦ | ★7.2/10
-· John Sullivan es un joven policía que, en plena crisis matrimonial, quiere cambiar su vida. Si tuviese oportunidad de retroceder en el tiempo, lo haría hasta 1969 para evitar la muerte de su padre, Frank, un intrépido bombero muerto en un incendio.</desc>
+· John Sullivan es un joven policía que, en plena crisis matrimonial, quiere cambiar su vida. Si tuviese oportunidad de retroceder en el tiempo, lo haría hasta 1969 para evitar la muerte de su padre, Frank, un intrépido bombero muerto en un incendio.
+· País: Estados Unidos
+· Dirección: Gregory Hoblit.
+· Reparto: Jim Caviezel, Dennis Quaid, Shawn Doyle, Elizabeth Mitchell, Andre Braugher, Noah Emmerich.
+· Guion: Toby Emmerich.
+· Música: Michael Kamen, J. Peter Robinson.
+· Producción: Gregory Hoblit, Toby Emmerich, Bill Carraro, Hawk Koch, Howard W Koch Jr.
+· Productora: New Line Cinema.</desc>
   </programme>
   <programme start="20251109195000 +0100" stop="20251109221500 +0100" channel="Neox">
     <title lang="es">Bait</title>
@@ -204,8 +211,14 @@
   </programme>
   <programme start="20251109221500 +0100" stop="20251110004500 +0100" channel="Neox">
     <title lang="es">Atrapar a un asesino</title>
-    <desc lang="es">Cine para televisión,Cine TV thriller | 1992 | ⑯
-· La película narra la historia de John Wayne Gacy. Tras el aspecto de buen amigo y vecino, que se encargaba de mantener, se escondía un asesino en serie sádico y violento que violó y mató a 36 jóvenes.</desc>
+    <desc lang="es">Cine para televisión,Cine TV thriller | 1992 | ⑯ | ★6.0/10
+· La película narra la historia de John Wayne Gacy. Tras el aspecto de buen amigo y vecino, que se encargaba de mantener, se escondía un asesino en serie sádico y violento que violó y mató a 36 jóvenes.
+· País: Estados Unidos
+· Dirección: Eric Till.
+· Reparto: Brian Dennehy, Michael Riley, Margot Kidder, Meg Foster, Martin Julien.
+· Guion: Jud Kinberg.
+· Música: Paul Zaza.
+· Productora: Creative Entertainment Group, Telestories Entertainment Inc.</desc>
   </programme>
   <programme start="20251110004500 +0100" stop="20251110023500 +0100" channel="Neox">
     <title lang="es">Doble traición</title>
@@ -318,7 +331,7 @@
   </programme>
   <programme start="20251110135400 +0100" stop="20251110142000 +0100" channel="Neox">
     <title lang="es">Los Simpson T32 E19 · Pánico en las calles de Springfield</title>
-    <desc lang="es">Series,Animación | 2020 | ⑫ | ★5.8/10
+    <desc lang="es">Series,Animación | 2020 | ⑫ | ★6.0/10
 · Lisa tiene un nuevo amigo imaginario: una cantante británica deprimida de la década de 1980. Mientras tanto, Homer se convierte en un camionero.
 · País: Estados Unidos
 · Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
@@ -408,7 +421,7 @@
   </programme>
   <programme start="20251110185700 +0100" stop="20251110192100 +0100" channel="Neox">
     <title lang="es">Fantasmas T1 E4 · La cena</title>
-    <desc lang="es">Series,Comedia | 2021 | ⑫ | ★6.0/10
+    <desc lang="es">Series,Comedia | 2021 | ⑫ | ★6.2/10
 · Sam y Jay invitan a cenar a unos vecinos cotillas para que les permitan tener su Bed &amp; Breakfast. Los fantasmas, también, quieren estar invitados.
 · País: Estados Unidos y Reino Unido
 · Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
@@ -579,7 +592,7 @@
   </programme>
   <programme start="20251111123600 +0100" stop="20251111130200 +0100" channel="Neox">
     <title lang="es">Los Simpson T32 E13 · Un fajo de sueños</title>
-    <desc lang="es">Series,Animación | 2020 | ⑫ | ★6.8/10
+    <desc lang="es">Series,Animación | 2020 | ⑫ | ★6.6/10
 · Bart se convierte en un exitoso caddie, pero a Marge le preocupa que su éxito esté arruinando su personalidad.
 · País: Estados Unidos
 · Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
@@ -606,7 +619,7 @@
   </programme>
   <programme start="20251111142000 +0100" stop="20251111144600 +0100" channel="Neox">
     <title lang="es">Los Simpson T34 E11 · Matones</title>
-    <desc lang="es">Series,Animación | 2022 | ⑫ | ★6.0/10
+    <desc lang="es">Series,Animación | 2022 | ⑫ | ★5.8/10
 · Cuando el entrenador Moe recluta a los mejores matones del mundo para que enseñen a Nelson el arte del hockey, los fans de los Simpson se enfurecen por un segundo episodio de hockey en 35 años.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
@@ -627,14 +640,14 @@
   </programme>
   <programme start="20251111153800 +0100" stop="20251111160400 +0100" channel="Neox">
     <title lang="es">Los Simpson T35 E5 · La casa-árbol del terror XXXIV</title>
-    <desc lang="es">Series,Animación | 2023 | ⑫ | ★6.2/10
+    <desc lang="es">Series,Animación | 2023 | ⑫ | ★6.0/10
 · Bart se transforma en NFT y Marge se enfrenta con toda la blockchain para rescatarlo. Lisa recurre a un asesino de su infancia para encontrar a un asesino en serie atroz.
 · País: Estados Unidos
 · Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
   </programme>
   <programme start="20251111160400 +0100" stop="20251111163000 +0100" channel="Neox">
     <title lang="es">Los Simpson T35 E6 · Marge a la plancha</title>
-    <desc lang="es">Series,Animación | 2023 | ⑫ | ★5.8/10
+    <desc lang="es">Series,Animación | 2023 | ⑫ | ★5.6/10
 · Marge se viene abajo cuando Bart y Lisa le hacen un regalo de cumpleaños penoso. Ellos tendrán que indagar en el pasado de su madre para demostrar que la conocen de verdad. Homer se convierte en alarmista del barrio.
 · País: Estados Unidos
 · Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
@@ -1331,8 +1344,10 @@
   </programme>
   <programme start="20251108211000 +0100" stop="20251108223200 +0100" channel="Mega">
     <title lang="es">Batalla de restaurantes</title>
-    <desc lang="es">Entretenimiento
-· Descubre el mejor entretenimiento en Movistar Plus+. Disfruta de talk shows en vivo, late nights y programas divertidos. ¡Únete hoy y empieza a reír!</desc>
+    <desc lang="es">Entretenimiento,Concurso | 2024 | ⑫ | ★6.4/10
+· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
+· País: España
+· Presenta: Alberto Chicote.</desc>
   </programme>
   <programme start="20251108223200 +0100" stop="20251108235500 +0100" channel="Mega">
     <title lang="es">Batalla de restaurantes T2</title>
@@ -1343,8 +1358,10 @@
   </programme>
   <programme start="20251108235500 +0100" stop="20251109011200 +0100" channel="Mega">
     <title lang="es">Pesadilla en la cocina</title>
-    <desc lang="es">Entretenimiento
-· Descubre el mejor entretenimiento en Movistar Plus+. Disfruta de talk shows en vivo, late nights y programas divertidos. ¡Únete hoy y empieza a reír!</desc>
+    <desc lang="es">Entretenimiento,Telerrealidad | 2012 | ⑫ | ★6.2/10
+· Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en un par de semanas y sacarlo adelante económicamente.
+· País: España
+· Presenta: Alberto Chicote.</desc>
   </programme>
   <programme start="20251109011200 +0100" stop="20251109023000 +0100" channel="Mega">
     <title lang="es">Pesadilla en la cocina</title>
@@ -1365,7 +1382,7 @@
   </programme>
   <programme start="20251109042000 +0100" stop="20251109051000 +0100" channel="Mega">
     <title lang="es">Imperio</title>
-    <desc lang="es">Series,Acción | 2019 | ⑯ | ★6.0/10
+    <desc lang="es">Series,Acción | 2019 | ⑯ | ★6.2/10
 · En el apogeo del Imperio Otomano, Osman se enfrenta a muchos enemigos y traidores en su búsqueda de la independencia de su pueblo.
 · País: Turquía
 · Reparto: Burak Özçivit, Özge Törer, Yigit Ucan, Cagri Sensoy, Buse Arslan.
@@ -1481,8 +1498,10 @@
   </programme>
   <programme start="20251109153000 +0100" stop="20251109165200 +0100" channel="Mega">
     <title lang="es">Pesadilla en la cocina</title>
-    <desc lang="es">Entretenimiento
-· Descubre el mejor entretenimiento en Movistar Plus+. Disfruta de talk shows en vivo, late nights y programas divertidos. ¡Únete hoy y empieza a reír!</desc>
+    <desc lang="es">Entretenimiento,Telerrealidad | 2012 | ⑫ | ★6.2/10
+· Un reconocido cocinero acude al rescate de un negocio hostelero en crisis. Alberto Chicote pone toda la carne en el asador para detectar las dificultades que están haciendo que falle, transformarlo en un par de semanas y sacarlo adelante económicamente.
+· País: España
+· Presenta: Alberto Chicote.</desc>
   </programme>
   <programme start="20251109165200 +0100" stop="20251109181500 +0100" channel="Mega">
     <title lang="es">Pesadilla en la cocina</title>
@@ -1507,13 +1526,17 @@
   </programme>
   <programme start="20251109210000 +0100" stop="20251109222200 +0100" channel="Mega">
     <title lang="es">Batalla de restaurantes</title>
-    <desc lang="es">Entretenimiento
-· Descubre el mejor entretenimiento en Movistar Plus+. Disfruta de talk shows en vivo, late nights y programas divertidos. ¡Únete hoy y empieza a reír!</desc>
+    <desc lang="es">Entretenimiento,Concurso | 2024 | ⑫ | ★6.4/10
+· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
+· País: España
+· Presenta: Alberto Chicote.</desc>
   </programme>
   <programme start="20251109222200 +0100" stop="20251109234500 +0100" channel="Mega">
     <title lang="es">Batalla de restaurantes</title>
-    <desc lang="es">Entretenimiento
-· Descubre el mejor entretenimiento en Movistar Plus+. Disfruta de talk shows en vivo, late nights y programas divertidos. ¡Únete hoy y empieza a reír!</desc>
+    <desc lang="es">Entretenimiento,Concurso | 2024 | ⑫ | ★6.4/10
+· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
+· País: España
+· Presenta: Alberto Chicote.</desc>
   </programme>
   <programme start="20251109234500 +0100" stop="20251110000000 +0100" channel="Mega">
     <title lang="es">El chiringuito: La cuenta atrás</title>
@@ -2761,7 +2784,7 @@
   </programme>
   <programme start="20251109172300 +0100" stop="20251109184700 +0100" channel="M+ Cine Español">
     <title lang="es">Todos vosotros sois capitanes</title>
-    <desc lang="es">Cine,Cine documental | 2010 | TP | ★6.0/10
+    <desc lang="es">Cine,Cine documental | 2010 | TP | ★6.2/10
 · Un joven cineasta europeo realiza una película con menores acogidos en un centro en Tánger, Marruecos. Durante el rodaje, sus heterodoxos métodos de trabajo desgastarán su relación con los niños, hasta el punto de transformar el desarrollo del proyecto.
 · País: España
 · Dirección: Oliver Laxe.
@@ -3984,7 +4007,7 @@
   </programme>
   <programme start="20251108190000 +0100" stop="20251108193000 +0100" channel="Disney Junior">
     <title lang="es">La casa de Mickey Mouse+ T1 E2 · El nuevo gallinero de Clarabelle</title>
-    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.0/10
 · Cuando el gallinero de Clarabelle queda destruido, Mickey y sus amigos lo reconstruyen con las Mickey-herramientas, con las que dan a las gallinas un hogar nuevo y mejorado.
 · País: Estados Unidos</desc>
   </programme>
@@ -4218,7 +4241,7 @@
   </programme>
   <programme start="20251109051000 +0100" stop="20251109053500 +0100" channel="Disney Junior">
     <title lang="es">¡Eureka! T1 E29 · La fiesta de la caracola / No hay dos iguales</title>
-    <desc lang="es">Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+    <desc lang="es">Infantil,Dibujos animados | 2022 | TP | ★6.2/10
 · Cuando la abuela Wanda manda a Eureka una caracola especial, Eureka crea una caja de música. Eureka fabrica a los gemelos idénticos Cypress y Spruce un "ruedasaurio" para su cumpleaños.
 · País: Estados Unidos</desc>
   </programme>
@@ -4299,7 +4322,7 @@
   </programme>
   <programme start="20251109080000 +0100" stop="20251109083000 +0100" channel="Disney Junior">
     <title lang="es">Marvel Spidey y su superequipo T3 E9 · Catástrofe / El Hombre de Arena y la tortuga</title>
-    <desc lang="es">Infantil,Dibujos animados | 2023 | TP | ★6.2/10
+    <desc lang="es">Infantil,Dibujos animados | 2023 | TP | ★6.0/10
 · El Equipo Spidey intenta evitar que el Duende Verde tome el control de los vehículos. El Equipo Spidey ayuda a las tortugas a destruir el gigantesco castillo de arena del Hombre de Arena.
 · País: Estados Unidos</desc>
   </programme>
@@ -5549,7 +5572,7 @@
   </programme>
   <programme start="20251111170000 +0100" stop="20251111173000 +0100" channel="Disney Junior">
     <title lang="es">La casa de Mickey Mouse+ T1 E2 · El nuevo gallinero de Clarabelle</title>
-    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.0/10
 · Cuando el gallinero de Clarabelle queda destruido, Mickey y sus amigos lo reconstruyen con las Mickey-herramientas, con las que dan a las gallinas un hogar nuevo y mejorado.
 · País: Estados Unidos</desc>
   </programme>
@@ -5645,7 +5668,7 @@
   </programme>
   <programme start="20251111220000 +0100" stop="20251111222500 +0100" channel="Disney Junior">
     <title lang="es">¡Cachorros a la obra! T1 E23 · Fiesta de piratas / Un parque genial</title>
-    <desc lang="es">Infantil,Dibujos animados | 2022 | TP | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Los cachorros construyen un barco pirata, pero Bobby Botas cree que la búsqueda del tesoro es real. Los cachorros quieren hacer un parque para todos los niños.
 · País: Estados Unidos</desc>
   </programme>
@@ -6056,7 +6079,7 @@
   </programme>
   <programme start="20251112151500 +0100" stop="20251112153000 +0100" channel="Disney Junior">
     <title lang="es">Iron Man y su superequipo T1 E24 · La aventura de carreras de Ironheart</title>
-    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.2/10
 · El superequipo se une para evitar que Enjambre y sus bichos arruinen una exposición de coches.
 · País: Estados Unidos</desc>
   </programme>
@@ -6733,7 +6756,7 @@
   </programme>
   <programme start="20251113194000 +0100" stop="20251113195000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T2 E12 · Geco pegajoso</title>
-    <desc lang="es">Infantil,Dibujos animados | 2020 | TP | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2020 | TP | ★6.0/10
 · ¡Bluey y Bingo no quieren salir a jugar con Judo hasta que un geco de goma pegajoso se caiga del techo!
 · País: Australia
 · Guion: Tim Bain, John McGeachin.
@@ -6810,7 +6833,7 @@
   </programme>
   <programme start="20251113223500 +0100" stop="20251113224500 +0100" channel="Disney Junior">
     <title lang="es">Bluey T2 E19 · El espectáculo</title>
-    <desc lang="es">Infantil,Dibujos animados | 2020 | TP | ★6.0/10
+    <desc lang="es">Infantil,Dibujos animados | 2020 | TP | ★6.2/10
 · Bingo se enfada cuando se le cae el desayuno en cama que había preparado para su mamá por el Día de la Madre, así que Bluey encuentra la forma de animar a su hermana.
 · País: Australia</desc>
   </programme>
@@ -6846,7 +6869,7 @@
   </programme>
   <programme start="20251113232500 +0100" stop="20251113235000 +0100" channel="Disney Junior">
     <title lang="es">PJ Masks T1 E5 · Gekko salva la Navidad/ El plan helado de Gekko</title>
-    <desc lang="es">Infantil,Dibujos animados | 2015 | TP | ★6.0/10
+    <desc lang="es">Infantil,Dibujos animados | 2015 | TP | ★6.2/10
 · Lunática está robando los regalos de Navidad para quedárselos, con su nuevo y malvado artilugio. / Romeo planea convertir la ciudad en una pista de hielo gigante.
 · País: Francia
 · Dirección: Christian De Vita.
@@ -7024,7 +7047,7 @@
   </programme>
   <programme start="20251114083000 +0100" stop="20251114090000 +0100" channel="Disney Junior">
     <title lang="es">La casa de Mickey Mouse+ T1 E2 · El nuevo gallinero de Clarabelle</title>
-    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.0/10
 · Cuando el gallinero de Clarabelle queda destruido, Mickey y sus amigos lo reconstruyen con las Mickey-herramientas, con las que dan a las gallinas un hogar nuevo y mejorado.
 · País: Estados Unidos</desc>
   </programme>
@@ -7040,7 +7063,7 @@
   </programme>
   <programme start="20251114100000 +0100" stop="20251114101000 +0100" channel="Disney Junior">
     <title lang="es">Bluey T2 E30 · Clases de natación</title>
-    <desc lang="es">Infantil,Dibujos animados | 2020 | TP | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2020 | TP | ★6.0/10
 · Mamá, papá y Bingo tienen que superar las clases de natación, pero agradar a Margaret, la estricta profesora (que es Bluey), les res resulta muy difícil.
 · País: Australia</desc>
   </programme>
@@ -7159,7 +7182,7 @@
   </programme>
   <programme start="20251114151500 +0100" stop="20251114153000 +0100" channel="Disney Junior">
     <title lang="es">Iron Man y su superequipo T1 E28 · Enjambre y los bichos van a un concierto</title>
-    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.2/10
+    <desc lang="es">Infantil,Dibujos animados | 2025 | TP | ★6.0/10
 · El superequipo debe evitar que los robogrillos de Enjambre arruinen el concierto de Howard y causen estragos en la Expo Stark.
 · País: Estados Unidos</desc>
   </programme>
@@ -7588,7 +7611,7 @@
   </programme>
   <programme start="20251108111500 +0100" stop="20251108114500 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T5 E6 · Inteligencia ciega; Grupo afín</title>
-    <desc lang="es">Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
+    <desc lang="es">Infantil,Dibujos animados | 2020 | ⑦ | ★6.2/10
 · Flip es una maravilla de la ciencia moderna. Luna tiene que decidir quién tocará en su banda.
 · País: Estados Unidos
 · Dirección: Chris Savino, Kyle Marshall.
@@ -7876,16 +7899,16 @@
 · Guion: Christopher Yost.</desc>
   </programme>
   <programme start="20251109020100 +0100" stop="20251109022300 +0100" channel="Nickelodeon">
-    <title lang="es">Historias de las Tortugas Ninja T1 E2 · Mikey hace lo que debe</title>
-    <desc lang="es">Infantil,Dibujos animados | 2024 | TP | ★6.2/10
+    <title lang="es">Historias de las Tortugas Ninja T1 E2 · Mikey Does the Right Thing</title>
+    <desc lang="es">Infantil,Dibujos animados | 2024 | ⑦ | ★6.2/10
 · Para salvar a sus hermanos, Mikey necesita la ayuda del becario de Bishop, Rod. Pero Rod quiere algo a cambio: que le conviertan en un mutante. Para salvar el día, Mikey tiene que vovlerse responsable.
 · País: Estados Unidos
 · Dirección: Kenji Ono.
 · Guion: Matthew Bass.</desc>
   </programme>
   <programme start="20251109022300 +0100" stop="20251109024500 +0100" channel="Nickelodeon">
-    <title lang="es">Historias de las Tortugas Ninja T1 E3 · Raph Thinks It Through</title>
-    <desc lang="es">Infantil,Dibujos animados | 2024 | ⑦ | ★6.0/10
+    <title lang="es">Historias de las Tortugas Ninja T1 E3 · Raph reflexiona</title>
+    <desc lang="es">Infantil,Dibujos animados | 2024 | TP | ★6.0/10
 · La fuerza de Raph no le es de gran ayuda cuando se ve atrapado en una pelea entre los Mecazoides y la famosa tribu callejera conocida como los Dragones Púrpura. Raph va a tener que usar su cabeza para salir de esta.
 · País: Estados Unidos
 · Dirección: Jennifer Bennett.
@@ -7974,7 +7997,7 @@
   </programme>
   <programme start="20251109055600 +0100" stop="20251109062800 +0100" channel="Nickelodeon">
     <title lang="es">Los padrinos mágicos: Un nuevo deseo (dobles) T1 E6 · ¡La ciencia está patas arriba! / Se ha escrito un misterio</title>
-    <desc lang="es">Series,Anime | 2024 | TP | ★5.8/10
+    <desc lang="es">Series,Anime | 2024 | TP | ★6.0/10
 · Cosmo y Wanda reescriben las leyes de la ciencia para que el proyecto de Hazel de la feria de las ciencias funcione. El casero de Hazel ha desaparecido, y ella pide un deseo para descubrir la verdad.
 · País: Estados Unidos
 · Dirección: Shawna Mills, Nico Selma.
@@ -8316,8 +8339,8 @@
 · Productora: Nickelodeon Animation Studios.</desc>
   </programme>
   <programme start="20251110000100 +0100" stop="20251110002900 +0100" channel="Nickelodeon">
-    <title lang="es">Henry Danger T3 E16 · Tienes Talento, de Buena Vista</title>
-    <desc lang="es">Series,Comedia | 2015 | ⑦ | ★6.8/10
+    <title lang="es">Henry Danger T3 E16 · Tienes talento, de buena vista</title>
+    <desc lang="es">Series,Serie juvenil | 2015 | TP | ★6.8/10
 · Ray accede a dejar a Henry pilotar su helicóptero aunque no podrá evitar comportarse como un padre nervioso. Mientras, Charlotte, Jasper y Piper encuentran en Trastos y Demás una máquina de hacer algodón dulce y se ponen a confeccionar algodón.
 · País: Estados Unidos
 · Dirección: Steve Hoefer, Adam Weissman.
@@ -8685,7 +8708,7 @@
   </programme>
   <programme start="20251110172000 +0100" stop="20251110175000 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E11 · Gatástrofe; Apremiando</title>
-    <desc lang="es">Infantil,Dibujos animados | 2021 | ⑦ | ★6.2/10
+    <desc lang="es">Infantil,Dibujos animados | 2021 | ⑦ | ★6.0/10
 · Los McBrides organizan una fiesta de cumpleaños para la yaya Gayle; a Lola le preocupa ser una estrella fracasada.
 · País: Estados Unidos
 · Dirección: Chris Savino, Kyle Marshall.
@@ -8905,7 +8928,7 @@
   </programme>
   <programme start="20251111035200 +0100" stop="20251111041500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T12 E11 · Cuidado con el hueco; El regreso de Burbuja Sucia</title>
-    <desc lang="es">Infantil,Dibujos animados | 2018 | ⑦ | ★6.2/10
+    <desc lang="es">Infantil,Dibujos animados | 2018 | ⑦ | ★6.0/10
 · Calamardo cierra el hueco de los dientes de Bob Esponja; la "Burbuja Limpia" se encarga de lavar los platos.
 · País: Estados Unidos
 · Dirección: Dave Cunningham, Sherm Cohen, Adam Polain, Vincent Waller.
@@ -9193,7 +9216,7 @@
   </programme>
   <programme start="20251111174800 +0100" stop="20251111181800 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T6 E14 · Luces, cámara, reacción nuclear; El cariño y el comer</title>
-    <desc lang="es">Infantil,Dibujos animados | 2021 | ⑦ | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2021 | ⑦ | ★6.0/10
 · Lisa construye un reactor nuclear. Leni descubre que a Miguel le gusta Gavin.
 · País: Estados Unidos
 · Dirección: Chris Savino, Kyle Marshall.
@@ -9400,7 +9423,7 @@
   </programme>
   <programme start="20251112035200 +0100" stop="20251112041500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T12 E16 · El guantazo; El descanso de Bob</title>
-    <desc lang="es">Infantil,Dibujos animados | 2018 | ⑦ | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2018 | ⑦ | ★5.6/10
 · El guante gigante del cubo de cebo de Plankton se escapa. Bob Esponja disfruta de su primer descanso en el trabajo.
 · País: Estados Unidos
 · Dirección: Dave Cunningham, Sherm Cohen, Adam Polain, Vincent Waller.
@@ -9750,8 +9773,8 @@
 · Productora: Uptown Productions, Nickelodeon Productions.</desc>
   </programme>
   <programme start="20251112205200 +0100" stop="20251112212700 +0100" channel="Nickelodeon">
-    <title lang="es">Los Thundermans T2 E9 · Feliz No Cumpleaños</title>
-    <desc lang="es">Series,Serie juvenil | 2014 | ⑦ | ★6.6/10
+    <title lang="es">Los Thundermans T2 E9 · Feliz no cumpleaños</title>
+    <desc lang="es">Series,Serie juvenil | 2014 | TP | ★6.6/10
 · Phoebe y Max al centro comercial para comprar regalos para el cumpleaños de Hank, pero termina en lucha, caos y carreras con el equipo de seguridad que hacen descarrilar un poco el plan del cumpleaños.
 · País: Estados Unidos
 · Dirección: Jonathan Judge, Trevor Kirschner.
@@ -9811,7 +9834,7 @@
   </programme>
   <programme start="20251112235000 +0100" stop="20251113001800 +0100" channel="Nickelodeon">
     <title lang="es">Una casa de locos T3 E22 · Previsibilidad; Dar palo al agua</title>
-    <desc lang="es">Infantil,Dibujos animados | 2017 | ⑦ | ★5.8/10
+    <desc lang="es">Infantil,Dibujos animados | 2017 | ⑦ | ★6.0/10
 · A Lincoln le preocupa ser predecible; el entrenador de la universidad con la que sueña Lori viene a verla a jugar.
 · País: Estados Unidos
 · Dirección: Chris Savino, Chris Marshall.
@@ -10252,7 +10275,7 @@
   </programme>
   <programme start="20251113205200 +0100" stop="20251113212700 +0100" channel="Nickelodeon">
     <title lang="es">Los Thundermans T2 E22 · El Miedo a la Capa</title>
-    <desc lang="es">Series,Serie juvenil | 2014 | TP | ★6.6/10
+    <desc lang="es">Series,Serie juvenil | 2014 | ⑦ | ★6.6/10
 · Phoebe intenta volver a la rutina de entrenamiento superhéroe, pero cuando va a una fiesta y salva la vida de alguien allí, le pide a Max que se atribuya el mérito de la salvación, y él se convierte de repente en héroe.
 · País: Estados Unidos
 · Dirección: Jonathan Judge, Trevor Kirschner.
@@ -10632,8 +10655,8 @@
 · Guion: Whitney Wetta, Jeff Sayers.</desc>
   </programme>
   <programme start="20251114150100 +0100" stop="20251114153000 +0100" channel="Nickelodeon">
-    <title lang="es">Una casa de locos T8 E10 · La espantatuada / Venta agresiva</title>
-    <desc lang="es">Infantil,Dibujos animados | 2024 | TP | ★6.4/10
+    <title lang="es">Una casa de locos T8 E10 · Ventas alocadas</title>
+    <desc lang="es">Infantil,Dibujos animados | 2024 | ⑦ | ★6.4/10
 · En honor a las 10 000 reproducciones de su vídeo, los Cabralunas se hacen tatuajes a juego. Cuando el club de ciencias de Lisa monta una colecta, le cuesta dominar el arte de la venta.
 · País: Estados Unidos
 · Dirección: Jessica Borutski, Patrick Pakula.
@@ -10911,7 +10934,7 @@
   </programme>
   <programme start="20251115041300 +0100" stop="20251115043500 +0100" channel="Nickelodeon">
     <title lang="es">Bob Esponja T13 E1 · Un lugar para las mascotas.; Preso del amor</title>
-    <desc lang="es">Infantil,Dibujos animados | 2020 | ⑦ | ★6.2/10
+    <desc lang="es">Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
 · El señor Cangrejo se da cuenta de que las mascotas consumen mucho más que sus dueños. Karen cierra el cubo de cebo.
 · País: Estados Unidos
 · Dirección: Vincent Waller, Dave Cunningham.
