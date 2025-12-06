@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/12/2025 11:39" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/12/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Neox">
     <display-name>Neox</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
@@ -20,303 +20,44 @@
     <display-name>Nickelodeon</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" />
   </channel>
-	<programme start="20251205100500 +0100" stop="20251205102000 +0100" channel="Neox">
-    <title>Hazte eco E353</title>
-    <desc>Cultural/Educativo,Programa cultural | 2025 | TP
-· Espacio de Neox en colaboración con Greenpeace dedicado a la ciencia, la ecología y las energías renovables. Un programa dedicado al planeta con reportajes de actualidad sobre temas tan interesantes como la deforestación o el reciclaje de papel.</desc>
-	</programme>
-	<programme start="20251205102000 +0100" stop="20251205104500 +0100" channel="Neox">
-    <title>Los Simpson T16 E2 · Todo vale en el horno y en la guerra</title>
-    <desc>Series,Animación | 2004 | ⑫ | ★6.2/10
-· Marge participa en un concurso de cocina, pero sus rivales se las arreglan para dejarla casi sin opciones tras sabotear su plato. Poco después, Marge contraataca saboteando los platos del resto de concursantes y consigue quedar finalista.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, 20th Century Fox Television, Film Roman Productions, Gracie Films, Universal Network Television.</desc>
-	</programme>
-	<programme start="20251205104500 +0100" stop="20251205111000 +0100" channel="Neox">
-    <title>Los Simpson T13 E17 · Homenaje a una vida</title>
-    <desc>Series,Animación | 2001 | ⑫ | ★6.0/10
-· Alguien recoge a Homer y le lleva con los ojos vendados al Springfield Friar's Club.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television.</desc>
-	</programme>
-	<programme start="20251205111000 +0100" stop="20251205113500 +0100" channel="Neox">
-    <title>Los Simpson T16 E7 · Tabernísima mamá</title>
-    <desc>Series,Animación | 2004 | ⑫ | ★6.2/10
-· Moe se ve forzado a cerrar su taberna tras una inspección de sanidad. Homer, sin consultarlo con su mujer, decide ayudarle a reformarla hipotecando su casa. Marge, obviamente disgustada, decide hacerse cargo de la supervisión de la reforma.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, 20th Century Fox Television, Film Roman Productions, Gracie Films, Universal Network Television.</desc>
-	</programme>
-	<programme start="20251205113500 +0100" stop="20251205120000 +0100" channel="Neox">
-    <title>Los Simpson T16 E17 · El chico del corazón roto</title>
-    <desc>Series,Animación | 2004 | ⑫ | ★6.0/10
-· Bart se hace adicto a la comida basura que proporcionan unas nuevas máquinas del colegio.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, 20th Century Fox Television, Film Roman Productions, Gracie Films, Universal Network Television.</desc>
-	</programme>
-	<programme start="20251205120000 +0100" stop="20251205122500 +0100" channel="Neox">
-    <title>Los Simpson T13 E22 · Papá tiene una placa nueva</title>
-    <desc>Series,Animación | 2001 | ⑫ | ★6.4/10
-· Homer decide montar su propia empresa de seguridad para restaurar el orden en Springfield.
-· País: Estados Unidos
-· Dirección: Pete Michels.
-· Guion: Dana Gould.
-· Productora: 20th Century Fox Television.</desc>
-	</programme>
-	<programme start="20251205122500 +0100" stop="20251205125000 +0100" channel="Neox">
-    <title>Los Simpson T14 E22 · Moe y el blues del bebé</title>
-    <desc>Series,Animación | 2002 | ⑫ | ★5.4/10
-· En esta ocasión, la menor de la familia, Maggie, es secuestrada por unos gángsters.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251205125000 +0100" stop="20251205131500 +0100" channel="Neox">
-    <title>Los Simpson T16 E19 · Gracias a Dios que es el día del juicio final</title>
-    <desc>Series,Animación | 2004 | ⑫ | ★6.0/10
-· Ciertas casualidades hacen que Homer crea que se acerca el fin del mundo.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, 20th Century Fox Television, Film Roman Productions, Gracie Films, Universal Network Television.</desc>
-	</programme>
-	<programme start="20251205131500 +0100" stop="20251205134000 +0100" channel="Neox">
-    <title>Los Simpson T32 E5 · El picor de las 7 cervezas</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Cuando Marge y los niños se van de vacaciones a la playa, Homer es tentado sin pretenderlo por una mujer fatal británica.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251205134000 +0100" stop="20251205140500 +0100" channel="Neox">
-    <title>Los Simpson T17 E6 · Homer a la carrera</title>
-    <desc>Series,Animación | 2005 | ⑫ | ★6.2/10
-· Tras hacerse popular por su puesto de Salamandra de Seguridad, Homer se enfrenta a Quimby en unas elecciones especiales a la alcaldía.</desc>
-	</programme>
-	<programme start="20251205140500 +0100" stop="20251205143000 +0100" channel="Neox">
-    <title>Los Simpson T32 E10 · Un verano navideño en Springfield</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.4/10
-· Un canal de cable rueda una película navideña en Springfield y Skinner se enamora.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251205143000 +0100" stop="20251205145500 +0100" channel="Neox">
-    <title>Los Simpson T17 E11 · Camino a Oj-ninguna parte</title>
-    <desc>Series,Animación | 2005 | ⑫ | ★6.4/10
-· En un intento por fastidiar al Sr. Skinner, Bart, con la inestimable ayuda de Milhouse, provoca un grave accidente en la Escuela de Springfield que obliga a su inmediata evacuación.</desc>
-	</programme>
-	<programme start="20251205145500 +0100" stop="20251205152000 +0100" channel="Neox">
-    <title>Los Simpson T32 E15 · ¿Sueñan los robots pizzeros con guitarras eléctricas?</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
-· Homer intenta reunir a los miembros de un grupo musical de su juventud, pero el productor de cine y televisión J. J. Abrams se hace con ellos antes.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251205152000 +0100" stop="20251205154500 +0100" channel="Neox">
+	<programme start="20251206133500 +0100" stop="20251206140000 +0100" channel="Neox">
     <title>Los Simpson T17 E16 · Million Dollar Abie</title>
     <desc>Series,Animación | 2005 | ⑫ | ★6.4/10
-· Después de dejar a Springfield sin equipo de fútbol profesional, el abuelo intenta acabar con su vida. Pero la experiencia lo cambia y termina convirtiéndose en torero.</desc>
-	</programme>
-	<programme start="20251205154500 +0100" stop="20251205161000 +0100" channel="Neox">
-    <title>Los Simpson T7 E4 · Bart vende su alma</title>
-    <desc>Series,Animación | 1995 | ⑫ | ★6.4/10
-· Bart hace una travesura en la iglesia que tiene como resultado un castigo para él y Milhouse. Mientras ambos conversan acerca de lo ocurrido, Bart le confiesa a Millhouse que él no cree en la existencia del alma y vende la suya a Milhouse por 5 dólares.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20251205161000 +0100" stop="20251205163500 +0100" channel="Neox">
-    <title>Los Simpson T32 E22 · El último Barfighter</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Después de que Moe rompe su regla más sagrada, una sociedad secreta de camareros busca la venganza final contra Homer y sus amigos.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251205163500 +0100" stop="20251205165800 +0100" channel="Neox">
-    <title>Big Bang T5 E15 · La contracción de la amistad</title>
-    <desc>Series,Comedia | 2011 | TP | ★7.0/10
-· Las exigencias de Sheldon hacen que Leonard reconsidere su amistad. ¿Podría ser este el final del Acuerdo de compañeros de habitación? Howard intenta elegir su apodo para la NASA pero el astronauta Mike Massimino tiene otras ideas en mente.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205165800 +0100" stop="20251205172100 +0100" channel="Neox">
-    <title>Big Bang T5 E16 · La solución a las vacaciones</title>
-    <desc>Series,Comedia | 2011 | TP | ★7.2/10
-· La universidad obliga a Sheldon a tomarse unas vacaciones y este aprovecha para ir a trabajar con Amy al laboratorio de neurobiología. Bernadette quiere que Howard firme un acuerdo prematrimonial.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205172100 +0100" stop="20251205174400 +0100" channel="Neox">
-    <title>Big Bang T5 E17 · La desinfectación de Rothman</title>
-    <desc>Series,Comedia | 2012 | TP | ★7.0/10
-· Sheldon debe competir contra su némesis, Barry Kripke, por una nueva oficina de la universidad. A su vez, Penny recibe un regalo de Amy un tanto inusual.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205174400 +0100" stop="20251205180700 +0100" channel="Neox">
-    <title>Big Bang T5 E18 · La transformación del hombre lobo</title>
-    <desc>Series,Comedia | 2012 | TP | ★7.6/10
-· Cuando el barbero de Sheldon enferma, este sufre un cambio en su rutina diaria que hace que se replantee su vida. Howard empieza a pensarse dos veces si debería ir al espacio al acabar el entrenamiento o no.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205180700 +0100" stop="20251205183000 +0100" channel="Neox">
-    <title>Big Bang T6 E3 · La observación del Bosón de Higgs</title>
-    <desc>Series,Comedia | 2012 | TP | ★7.4/10
-· La presión de estar en el espacio empieza a pasarle facture a Howard y Amy se siente amenazada cuando Sheldon contrata a Alex, una joven asistente.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205183000 +0100" stop="20251205185300 +0100" channel="Neox">
-    <title>Big Bang T6 E4 · Minimizando la reentrada</title>
-    <desc>Series,Comedia | 2012 | TP | ★7.2/10
-· Howard no recibe la bienvenida que se esperaba cuando vuelve del espacio. A su vez, la Noche de Juegos se acaba convirtiendo en una pelea de sexos.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions, CBS Television.</desc>
-	</programme>
-	<programme start="20251205185300 +0100" stop="20251205191600 +0100" channel="Neox">
-    <title>Big Bang T6 E5 · La excitación holográfica</title>
-    <desc>Series,Comedia | 2012 | TP | ★7.2/10
-· Los chicos celebran Halloween en la tienda de cómics de Stuart. Leonard y Penny encuentran una nueva chispa en su relación cuando él intenta seducirla haciendo uso de la ciencia.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205191600 +0100" stop="20251205194000 +0100" channel="Neox">
-    <title>Big Bang T6 E6 · La Aniquilación del Extracto</title>
-    <desc>Series,Comedia | 2012 | TP | ★7.2/10
-· La amistad de Sheldon con el científico Stephen Hawking empieza a peligrar por culpa del juego “Palabras con amigos”. Penny se apunta a una clase de la universidad sin decírselo a nadie.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251205194000 +0100" stop="20251205200400 +0100" channel="Neox">
-    <title>Fantasmas T2 E18 · La descendiente de Alberta</title>
-    <desc>Series,Comedia | 2022 | TP | ★6.0/10
-· Alberta está encantada de recibir la visita de una pariente en la mansión, pero no tarda en llevarse una decepción. Nigel intenta chantajear a Hetty.
-· País: Estados Unidos y Reino Unido
-· Dirección: Trent O'Donnell.
-· Reparto: Danielle Pinnock, Asher Grodman, Rose McIver, Utkarsh Ambudkar, Brandon Scott Jones, Richie Moriarty, Brandon Scoot Jones, Román Zaragoza, Shelia Carrasco, Rose Mclver.
-· Guion: John Blickstead, Trey Kollmer, Talia Bernstein.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251205200400 +0100" stop="20251205202800 +0100" channel="Neox">
-    <title>Fantasmas T2 E21 · Misterio Policial</title>
-    <desc>Series,Comedia | 2022 | TP | ★6.2/10
-· Sam, Jay y los fantasmas se ponen los trajes de detective para el último episodio del podcast. Trevor, Flor y Pete encuentran el email de un príncipe.
-· País: Estados Unidos y Reino Unido
-· Dirección: Trent O'Donnell.
-· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Danielle Pinnock, Richie Moriarty, Brandon Scott Jones, Brandon Scoot Jones, Román Zaragoza, Shelia Carrasco, Rose Mclver.
-· Guion: John Blickstead, Trey Kollmer, Talia Bernstein.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251205202800 +0100" stop="20251205205200 +0100" channel="Neox">
-    <title>Fantasmas T2 E19 · El padre fantasma de la novia</title>
-    <desc>Series,Comedia | 2022 | TP | ★6.0/10
-· Para complacer a Pete, Sam intenta convencer a Laura de que se case en el B&amp;B. Isaac y Alberta intentan resolver el misterio de la cabeza de Crash.
-· País: Estados Unidos y Reino Unido
-· Dirección: Trent O'Donnell.
-· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Danielle Pinnock, Richie Moriarty, Brandon Scott Jones, Brandon Scoot Jones, Román Zaragoza, Shelia Carrasco, Rose Mclver.
-· Guion: John Blickstead, Trey Kollmer, Talia Bernstein.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251205205200 +0100" stop="20251205211600 +0100" channel="Neox">
-    <title>Fantasmas T3 E6 · Hola, hermano</title>
-    <desc>Series,Comedia | 2024 | ⑫ | ★5.8/10
-· El hermano de Trevor, Jeremy, se registra en Woodstone tras descubrir un vacío legal en el Programa de Recompensas Woodstone.
-· País: Estados Unidos y Reino Unido
-· Dirección: Trent O'Donnell.
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty, Brandon Scoot Jones, Rose Mclver.
-· Guion: John Blickstead, Trey Kollmer.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251205211600 +0100" stop="20251205214000 +0100" channel="Neox">
-    <title>Fantasmas T3 E7 · El Polterhuésped</title>
-    <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
-· Alberta congenia con un poltergeist (Lamorne Morris) que está unido a un huésped recién llegado de Woodstone. Además, Isaac y Nigel tienen despedidas de soltero diferentes.
-· País: Estados Unidos y Reino Unido
-· Dirección: Trent O'Donnell.
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty, Brandon Scoot Jones, Rose Mclver.
-· Guion: John Blickstead, Trey Kollmer.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251205214000 +0100" stop="20251205220500 +0100" channel="Neox">
-    <title>Fantasmas T3 E8 · Los agujeros son malos</title>
-    <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
-· Cuando Sam y Jay dejan a los fantasmas solos en casa durante el fin de semana en un intento de hacer una escapada romántica, se hacen sorprendentes revalaciones sobre dos queridos espíritus de Woodstone.
-· País: Estados Unidos y Reino Unido
-· Dirección: Trent O'Donnell.
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty, Brandon Scoot Jones, Rose Mclver.
-· Guion: John Blickstead, Trey Kollmer.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251205220500 +0100" stop="20251206002000 +0100" channel="Neox">
-    <title>Kill Bill Vol. 1</title>
-    <desc>Cine,Acción | 2003 | ⑱ | ★7.4/10
-· El comando asesino de las Víboras ha dado por muerta a La Novia. Cuatro años después, ella regresa del coma con sed de venganza.
-· País: Estados Unidos y Japón
-· Dirección: Quentin Tarantino.
-· Reparto: Uma Thurman, David Carradine, Lucy Liu, Daryl Hannah, Vivica A. Fox, Michael Madsen.
-· Guion: Quentin Tarantino.
-· Música: RZA.
-· Producción: Lawrence Bender.
-· Productora: Miramax Films.</desc>
-	</programme>
-	<programme start="20251206002000 +0100" stop="20251206023000 +0100" channel="Neox">
-    <title>Kill Bill Vol. 2</title>
-    <desc>Cine,Acción | 2004 | ⑱ | ★7.6/10
-· Después de eliminar a dos de sus antiguos colegas, 'La novia' tiene aún que acabar con otros dos antes de matar a Bill.
-· País: Estados Unidos
-· Dirección: Quentin Tarantino.
-· Reparto: Uma Thurman, David Carradine, Lucy Liu, Daryl Hannah, Vivica A. Fox, Michael Madsen.
-· Guion: Quentin Tarantino.
-· Música: Robert Rodríguez.
-· Producción: Lawrence Bender.
-· Productora: Miramax Films, Super Cool ManChu, A Band Apart.</desc>
-	</programme>
-	<programme start="20251206023000 +0100" stop="20251206025500 +0100" channel="Neox">
-    <title>Pokerstars casino</title>
-    <desc>Deportes,Programa deportes | 2022 | ⑱ | ★5.6/10
-· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
-· País: España
-· Presenta: Paco González.</desc>
-	</programme>
-	<programme start="20251206025500 +0100" stop="20251206033500 +0100" channel="Neox">
-    <title>Sportium Game Show</title>
-    <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
-· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
-· País: España
-· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
-	</programme>
-	<programme start="20251206033500 +0100" stop="20251206041500 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T14 E16 · Algo maravilloso</title>
-    <desc>Series,Thriller | 2016 | ⑫ | ★6.4/10
-· Bishop está más decidida que nunca a vengar el asesinato de su novio Qasim después de que Gibbs y el equipo encuentren una nueva pista en el caso de Chen.
-· País: Estados Unidos
-· Dirección: Varios.
-· Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
-· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
-	</programme>
-	<programme start="20251206041500 +0100" stop="20251206060000 +0100" channel="Neox">
-    <title>Minutos musicales</title>
-    <desc>Música,Videoclips | 2018 | TP | ★6.0/10
-· Emisión de videoclips y piezas musicales.</desc>
-	</programme>
-	<programme start="20251206060000 +0100" stop="20251206133000 +0100" channel="Neox">
-    <title>Neox Kidz</title>
-    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
-· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
-· País: España</desc>
-	</programme>
-	<programme start="20251206133000 +0100" stop="20251206153000 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
-· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· Después de dejar a Springfield sin equipo de fútbol profesional, el abuelo intenta acabar con su vida. Pero la experiencia lo cambia y termina convirtiéndose en torero.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251206153000 +0100" stop="20251206182500 +0100" channel="Neox">
+	<programme start="20251206140000 +0100" stop="20251206142500 +0100" channel="Neox">
+    <title>Los Simpson T17 E2 · La niña que dormía demasiado poco</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.2/10
+· Lisa tiene que enfrentarse a sus peores miedos cuando trasladan un cementerio al barrio de los Simpson.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251206142500 +0100" stop="20251206145000 +0100" channel="Neox">
+    <title>Los Simpson T32 E3 · Ahora museo, ahora no</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★5.8/10
+· Lisa se queda en casa y no va a la escuela para explorar el arte occidental.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251206145000 +0100" stop="20251206151500 +0100" channel="Neox">
+    <title>Los Simpson T36 E16</title>
+    <desc>Series,Animación | 2025 | ⑫ | ★6.0/10
+· La reputación de "buena señora" de Marge está en peligro cuando un chantajista desconocido amenaza con sacar a la luz a la mujer enfadada que lleva dentro.
+· País: Estados Unidos
+· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
+	</programme>
+	<programme start="20251206151500 +0100" stop="20251206154000 +0100" channel="Neox">
+    <title>Los Simpson T36 E17</title>
+    <desc>Series,Animación | 2025 | ⑫ | ★6.0/10
+· Los Simpson se convierten en los protagonistas de un falso documental al estilo National Geographic, mostrando la vida cotidiana y el comportamiento humano desde una perspectiva salvaje y natural.
+· País: Estados Unidos
+· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
+	</programme>
+	<programme start="20251206154000 +0100" stop="20251206173000 +0100" channel="Neox">
     <title>Dog. Un viaje salvaje</title>
-    <desc>Cine,Comedia | 2022 | ⑯ | ★6.4/10
+    <desc>Cine,Comedia | 2022 | ⑫ | ★6.4/10
 · Un guardabosques del ejército y su perro se embarcan en un viaje por carretera a lo largo de la costa del Pacífico para asistir al funeral de un amigo.
 · País: Estados Unidos
 · Dirección: Reid Carolin, Channing Tatum.
@@ -324,9 +65,9 @@
 · Guion: Brett Rodriguez.
 · Productora: Metro-Goldwyn-Mayer (MGM), CAA Media Finance, FilmNation Entertainment.</desc>
 	</programme>
-	<programme start="20251206182500 +0100" stop="20251206202000 +0100" channel="Neox">
+	<programme start="20251206173000 +0100" stop="20251206194000 +0100" channel="Neox">
     <title>Los niños de Huang Shi</title>
-    <desc>Cine,Drama | 2008 | ⑯ | ★7.6/10
+    <desc>Cine,Drama | 2008 | ⑫ | ★7.6/10
 · El joven periodista inglés George Hogg llega a China en los años 30 cuando el país está siendo tomado por las tropas japonesas. Hogg se libra de la muerte gracias a un líder de la resistencia china, Jack Chen y, en su huida, se refugia en un orfanato.
 · País: Alemania, Australia, China y Estados Unidos
 · Dirección: Roger Spottiswoode.
@@ -336,9 +77,9 @@
 · Producción: Arthur Cohn, Martin Hagemann.
 · Productora: Australian Film Commission, Bluewater Pictures, Rouge Entertainment Group, Ming Productions, Zero West Filmproduktion.</desc>
 	</programme>
-	<programme start="20251206202000 +0100" stop="20251206220000 +0100" channel="Neox">
+	<programme start="20251206194000 +0100" stop="20251206214500 +0100" channel="Neox">
     <title>Fuerzas especiales</title>
-    <desc>Cine,Acción | 2011 | ⑦ | ★7.0/10
+    <desc>Cine,Acción | 2011 | ⑯ | ★7.0/10
 · Afganistán. La prestigiosa periodista Elsa Casanova es tomada como rehén por los talibanes. Ante su inminente ejecución, una unidad de las Fuerzas Especiales es enviada para su liberación.
 · País: Francia
 · Dirección: Stéphane Rybojad.
@@ -347,7 +88,7 @@
 · Música: Xavier Berthelot.
 · Productora: StudioCanal.</desc>
 	</programme>
-	<programme start="20251206220000 +0100" stop="20251207003000 +0100" channel="Neox">
+	<programme start="20251206214500 +0100" stop="20251207000000 +0100" channel="Neox">
     <title>Jack Reacher: Nunca vuelvas atrás</title>
     <desc>Cine,Acción | 2016 | ⑫ | ★7.0/10
 · Jack ayuda a un comandante del ejército incriminado por traición como parte de una conspiración.
@@ -359,7 +100,7 @@
 · Producción: Tom Cruise, Christopher McQuarrie, Don Granger.
 · Productora: Paramount Pictures, Skydance Productions, TC Productions, Skydance Media.</desc>
 	</programme>
-	<programme start="20251207003000 +0100" stop="20251207023000 +0100" channel="Neox">
+	<programme start="20251207000000 +0100" stop="20251207022000 +0100" channel="Neox">
     <title>Hunt. Caza al espía</title>
     <desc>Cine,Acción | 2022 | ⑯ | ★6.8/10
 · En la década de 1980 se produce el asesinato al presidente surcoreano Park, y el ejército asciende al poder. Corea del Sur quiere aprovechar la situación para conseguir la reunificación, por lo que envía a un espía al país vecino.
@@ -371,661 +112,668 @@
 · Producción: Lee Jung-jae.
 · Productora: Artist Studio.</desc>
 	</programme>
-	<programme start="20251207023000 +0100" stop="20251207030000 +0100" channel="Neox">
+	<programme start="20251207022000 +0100" stop="20251207024500 +0100" channel="Neox">
     <title>Pokerstars casino</title>
     <desc>Deportes,Programa deportes | 2022 | ⑱ | ★5.6/10
 · El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
 · País: España
 · Presenta: Paco González.</desc>
 	</programme>
-	<programme start="20251207030000 +0100" stop="20251207034500 +0100" channel="Neox">
+	<programme start="20251207024500 +0100" stop="20251207032500 +0100" channel="Neox">
     <title>Sportium Game Show</title>
     <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
 · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
 · País: España
 · Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
 	</programme>
-	<programme start="20251207034500 +0100" stop="20251207042500 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T1</title>
-    <desc>Series,Drama | 2003 | ⑫ | ★6.0/10
-· El agente especial Gibbs dirige un equipo que investiga crímenes relacionados con la armada.
+	<programme start="20251207032500 +0100" stop="20251207041000 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T14 E17 · Lo que está encima</title>
+    <desc>Series,Thriller | 2016 | ⑫ | ★6.4/10
+· McGee descubre su piso destrozado por un ladrón que intentaba encontrar un objeto de gran valor, escondido en algún lugar por el criminal convicto que vivía allí antes.
 · País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Pauley Perrette, Michael Weatherly.
+· Dirección: Varios.
+· Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251207042500 +0100" stop="20251207055300 +0100" channel="Neox">
+	<programme start="20251207041000 +0100" stop="20251207060000 +0100" channel="Neox">
     <title>Minutos musicales</title>
     <desc>Música,Videoclips | 2018 | TP | ★6.0/10
 · Emisión de videoclips y piezas musicales.</desc>
 	</programme>
-	<programme start="20251207055300 +0100" stop="20251207133400 +0100" channel="Neox">
+	<programme start="20251207060000 +0100" stop="20251207134500 +0100" channel="Neox">
     <title>Neox Kidz</title>
     <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
 · Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
 · País: España</desc>
 	</programme>
-	<programme start="20251207133400 +0100" stop="20251207135400 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
+	<programme start="20251207134500 +0100" stop="20251207141000 +0100" channel="Neox">
+    <title>Los Simpson T17 E1 · La hoguera de los Manaties</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.4/10
+· La cadena estrena la 17ª temporada de "Los Simpson", la peculiar familia que cautiva semanalmente en todo el mundo a más de 40 millones de espectadores. No en vano, "Los Simpson" es la serie estadounidense más vista en el mundo.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251207141000 +0100" stop="20251207143500 +0100" channel="Neox">
+    <title>Los Simpson T32 E2 · Yo, Carumbus</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.4/10
+· En una exposición del museo de la Antigua Roma, Marge y Homero discuten sobre la falta de ambición de Homer. Luego imaginan una versión romana de lo que sucedería si Homer estuviera más impulsado por su carrera.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251207143500 +0100" stop="20251207150000 +0100" channel="Neox">
+    <title>Los Simpson T32 E1 · Burns encubierto</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· Burns se hace pasar por Fred en la planta de energía nuclear y se hace amigo de Homer.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251207150000 +0100" stop="20251207152500 +0100" channel="Neox">
+    <title>Los Simpson T36 E18</title>
+    <desc>Series,Animación | 2025 | ⑫ | ★6.2/10
+· El abuelo y Moe ponen a prueba su amistad y la integridad del béisbol cuando reclutan a un bateador macedonio para jugar en Springfield.
+· País: Estados Unidos
+· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
+	</programme>
+	<programme start="20251207152500 +0100" stop="20251207170500 +0100" channel="Neox">
+    <title>Torrente 2: Misión en Marbella</title>
+    <desc>Cine,Comedia | 2001 | ⑫ | ★6.8/10
+· Tras darse un garbeo por la Costa del Sol, el casposo detective Torrente se instala en Marbella, donde se siente como en casa. Allí se dedica a defender al ciudadano, velar por el cumplimiento de la justicia y engañar al mayor número de inocentes.
+· País: España
+· Dirección: Santiago Segura.
+· Reparto: Santiago Segura, Gabino Diego, Tony Leblanc, José Luis Moreno, Inés Sastre.
+· Guion: Santiago Segura.
+· Música: Roque Baños.
+· Productora: Amiguetes Entertainment.</desc>
+	</programme>
+	<programme start="20251207170500 +0100" stop="20251207185000 +0100" channel="Neox">
+    <title>Torrente 4: Lethal Crisis</title>
+    <desc>Cine,Comedia | 2011 | ⑫ | ★6.4/10
+· Torrente, atenazado por la crisis que asuela el país y tras cometer un terrible error en una boda de alta alcurnia en la que era el encargado de seguridad, se ve obligado a aceptar un' trabajo' poco recomendable.
+· País: España
+· Dirección: Santiago Segura.
+· Reparto: Santiago Segura, Kiko Rivera, Belén Esteban, Xavier Deltell, Enrique Villén, Francisco, Yon González, Tony Leblanc, José María Rubio.
+· Guion: Santiago Segura.
+· Música: Roque Baños.
+· Productora: Canal+ España.</desc>
+	</programme>
+	<programme start="20251207185000 +0100" stop="20251207203000 +0100" channel="Neox">
+    <title>Torrente 5</title>
+    <desc>Cine,Comedia | 2014 | ⑯ | ★6.4/10
+· Torrente sale de la cárcel en 2018. La España que se encuentra no le gusta y decide convertirse en un 'fuera de la ley'. Así, busca a John Marshall, el supervisor de seguridad del principal casino hotel de Eurovegas: el mejor para planificar un golpe.
+· País: España
+· Dirección: Santiago Segura.
+· Reparto: Santiago Segura, Julián López, Carlos Areces, Florentino Fernández, Jesús Janeiro, Fernando Esteso, Angy Fernández, Alec Baldwin.
+· Guion: Santiago Segura.
+· Música: Roque Baños.
+· Producción: Santiago Segura.
+· Productora: Amiguetes Entertainment, Atresmedia Cine, Telefónica Producciones.</desc>
+	</programme>
+	<programme start="20251207203000 +0100" stop="20251207220000 +0100" channel="Neox">
+    <title>El pregón · El Pregón</title>
+    <desc>Cine,Comedia | 2016 | ⑫ | ★6.2/10
+· El alcalde de Proverzo quiere que las dos celebridades que ha dado el pueblo den el pregón de este año. El problema es que los hoy fracasados hermanos Osorio, fundadores de un famoso grupo de música electrónica de los 90, hace tiempo que no se hablan.
+· País: España
+· Dirección: Dani de la Orden.
+· Reparto: Berto Romero, Andreu Buenafuente, Belén Cuesta, Jorge Sanz, Goyo Jiménez.
+· Guion: David Serrano, Diego San José, Daniel González.
+· Producción: Andreu Buenafuente, Berto Romero, Mikel Lejarza.
+· Productora: El Terrat, Atresmedia Cine.</desc>
+	</programme>
+	<programme start="20251207220000 +0100" stop="20251207235000 +0100" channel="Neox">
+    <title>Torrente 3: El protector</title>
+    <desc>Cine,Comedia | 2005 | ⑱ | ★6.6/10
+· Una eurodiputada llega a España para cerrar una multinacional. Su guardaespaldas durante tan peligrosa misión será Torrente.
+· País: España
+· Dirección: Santiago Segura.
+· Reparto: Santiago Segura, José Mota, Javier Gutiérrez, Tony Leblanc, Carlos Latre.
+· Guion: Santiago Segura.
+· Música: Roque Baños.
+· Productora: Amiguetes Entertainment.</desc>
+	</programme>
+	<programme start="20251207235000 +0100" stop="20251208013500 +0100" channel="Neox">
+    <title>Torrente: El brazo tonto de la ley</title>
+    <desc>Cine,Comedia | 1998 | ⑱ | ★7.2/10
+· Torrente es machista, racista, alcohólico y del Atleti. Rafi es un chaval al que le gustan las películas de acción y las pistolas. Juntos, patrullarán la ciudad.
+· País: España
+· Dirección: Santiago Segura.
+· Reparto: Santiago Segura, Javier Cámara, Tony Leblanc, Neus Asensi, Chus Lampreave.
+· Guion: Santiago Segura.
+· Música: Roque Baños, Kiko Veneno.
+· Productora: Vía Digital.</desc>
+	</programme>
+	<programme start="20251208013500 +0100" stop="20251208030000 +0100" channel="Neox">
+    <title>Atrapada en la oscuridad</title>
+    <desc>Cine,Thriller | 2013 | ⑯ | ★6.6/10
+· Una exreportera gráfica, que ha perdido la vista en Irak, vive con su novio en un lujoso ático de Nueva York. Un día, cuando regresa a casa, se encuentra a su novio muerto y un sádico criminal que busca unos diamantes escondidos por su novio en el piso.
+· País: Estados Unidos
+· Dirección: Joseph Ruben, Johanna St Michaels.
+· Reparto: Michelle Monaghan, Michael Keaton, Barry Sloane, Kaniehtiio Horn, Trevor Hayes, Phillip Jarrett, Timothy Paul Coderre, Andrew W. Walker, Jasmine Chan.
+· Guion: David Loughery.
+· Música: Mark Mancina.
+· Producción: David Loughery, Michael Baker, Joseph Ruben, Robert Menzies, Jeff Sackman.
+· Productora: Demarest Films, Lionsgate Films, Kilburn Media, Lionsgate Productions.</desc>
+	</programme>
+	<programme start="20251208030000 +0100" stop="20251208032500 +0100" channel="Neox">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | ⑱ | ★5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+	</programme>
+	<programme start="20251208032500 +0100" stop="20251208040500 +0100" channel="Neox">
+    <title>Sportium Game Show</title>
+    <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+	</programme>
+	<programme start="20251208040500 +0100" stop="20251208044500 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T14 E18 · Desaparecido en combate</title>
+    <desc>Series,Thriller | 2016 | ⑫ | ★6.2/10
+· Para cumplir el último deseo de un marinero moribundo, Gibbs y el equipo de NCIS reabren un caso de homicidio que se archivó como muerte accidental. Además, el caso recuerda a Torres una época trágica de su pasado.
+· País: Estados Unidos
+· Dirección: Varios.
+· Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
+· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
+	</programme>
+	<programme start="20251208044500 +0100" stop="20251208060000 +0100" channel="Neox">
+    <title>Minutos musicales</title>
+    <desc>Música,Videoclips | 2018 | TP | ★6.0/10
+· Emisión de videoclips y piezas musicales.</desc>
+	</programme>
+	<programme start="20251208060000 +0100" stop="20251208100000 +0100" channel="Neox">
+    <title>Neox Kidz</title>
+    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
+· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
+· País: España</desc>
+	</programme>
+	<programme start="20251208100000 +0100" stop="20251208102500 +0100" channel="Neox">
+    <title>Los Simpson T32 E16 · Manger Things</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· Aprendemos un secreto del pasado de Flanders y descubrimos una habitación nunca antes vista en la casa de los Simpson.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208102500 +0100" stop="20251208105000 +0100" channel="Neox">
+    <title>Los Simpson T32 E11 · Instinto paternal bajo mínimos</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· Descubrimos la alucinante historia de los orígenes del Dependiente de Cómics mientras él y su mujer Kumiko se plantean tener un bebé.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208105000 +0100" stop="20251208111600 +0100" channel="Neox">
+    <title>Los Simpson T17 E7 · Las últimas mamás sombrero</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.2/10
+· Marge se siente sola y se une a una asociación de mujeres. Y Milhouse enseña a Lisa a hablar italiano.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208111600 +0100" stop="20251208114100 +0100" channel="Neox">
+    <title>Los Simpson T32 E6 · Noticias de podcasts</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· El Abuelo es acusado de un crimen. Mientras, Kent Brockman se cuestiona su carrera.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208114100 +0100" stop="20251208120600 +0100" channel="Neox">
+    <title>Los Simpson T17 E3 · Milhouse de arena y niebla</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.6/10
+· Cuando Kirk y Luann retoman su relación amorosa, Bart y Milhouse conspiran para poner fin al romance. Pero en lugar de eso, provocan la ruptura de Homer y Marge.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208120600 +0100" stop="20251208123200 +0100" channel="Neox">
+    <title>Los Simpson T32 E21 · El agente de A.B.U.E.L.O</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
+· Un agente secreto británico llega a Springfield en busca de un espía ruso.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208123200 +0100" stop="20251208125700 +0100" channel="Neox">
+    <title>Los Simpson T34 E1 · Habeas tortuga</title>
     <desc>Series,Animación | 2022 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+· Después de quedar en evidencia en otra reunión del pueblo, Homer busca la aceptación en un grupo de internet que investiga la desaparición de una tortuga, pero que acaba encontrando algo mucho más siniestro.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251207135400 +0100" stop="20251207142100 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
+	<programme start="20251208125700 +0100" stop="20251208132300 +0100" channel="Neox">
+    <title>Los Simpson T34 E6 · La casa-árbol del terror XXXIII</title>
+    <desc>Series,Animación | 2022 | ⑫ | ★6.4/10
+· En una trilogía de inspiración literaria, el resentimiento de Marge adquiere una forma monstruosa, Lisa intenta salvar el planeta por medio de asesinatos y Homer descubre que no es el hombre que creía que era.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208132300 +0100" stop="20251208134800 +0100" channel="Neox">
+    <title>Los Simpson T17 E18 · La historia más húmeda jamás contada</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.0/10
+· Antena 3 estrena nuevos capítulos de la decimoséptima temporada de la serie.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208134800 +0100" stop="20251208141300 +0100" channel="Neox">
+    <title>Los Simpson T34 E11 · Matones</title>
+    <desc>Series,Animación | 2022 | ⑫ | ★5.8/10
+· Cuando el entrenador Moe recluta a los mejores matones del mundo para que enseñen a Nelson el arte del hockey, los fans de los Simpson se enfurecen por un segundo episodio de hockey en 35 años.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208141300 +0100" stop="20251208143900 +0100" channel="Neox">
+    <title>Los Simpson T34 E16 · Un Kirk hostil</title>
+    <desc>Series,Animación | 2022 | ⑫ | ★5.6/10
+· Kirk emprende una cruzada para censurar y controlar el plan de estudios del colegio.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208143900 +0100" stop="20251208150400 +0100" channel="Neox">
+    <title>Los Simpson T18 E6 · Moe, no Lisa</title>
+    <desc>Series,Animación | 2006 | ⑫ | ★6.2/10
+· Moe quiere convertirse en poeta y le pide ayuda a la pequeña Lisa.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208150400 +0100" stop="20251208153000 +0100" channel="Neox">
+    <title>Los Simpson T18 E7 · Helado de Margie</title>
+    <desc>Series,Animación | 2006 | ⑫ | ★6.2/10
+· Homer es despedido de la planta nuclear y comienza a buscar empleo. Finalmente terminará trabajando para una empresa de helados.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251208153000 +0100" stop="20251208174000 +0100" channel="Neox">
+    <title>Crepúsculo</title>
+    <desc>Cine,Fantástico | 2008 | ⑫ | ★7.6/10
+· Bella Swan siempre ha sido diferente a los demás. Cuando su madre se casa por segunda vez, decide marcharse a vivir con su padre a un recóndito y lluvioso pueblo llamado Forks. Allí conoce al enigmático, inteligente e ingenioso Edward Cullen.
+· País: Estados Unidos
+· Dirección: Catherine Hardwicke.
+· Reparto: Kristen Stewart, Robert Pattinson, Ashley Greene, Peter Facinelli, Elizabeth Reaser, Nikki Reed, Jackson Rathbone, Kellan Lutz, Cam Gigandet, Edi Gathegi.
+· Guion: Melissa Rosenberg.
+· Música: Carter Burwell.
+· Producción: Wyck Godfrey, Greg Mooradian, Mark Morgan.
+· Productora: Summit Entertainment.</desc>
+	</programme>
+	<programme start="20251208174000 +0100" stop="20251208200000 +0100" channel="Neox">
+    <title>La saga Crepúsculo: Luna nueva</title>
+    <desc>Cine,Fantástico | 2009 | ⑫ | ★7.2/10
+· Bella es abandonada por su amado vampiro Edward, con el fin de protegerla. Sola y en peligro, estrecha la relación con Jacob, su amigo de la infancia. En su búsqueda, aún quedan muchos secretos sobrenaturales y sorpresas a las que tendrá que enfrentarse.
+· País: Estados Unidos
+· Dirección: Chris Weitz.
+· Reparto: Kristen Stewart, Robert Pattinson, Taylor Lautner, Nikki Reed, Dakota Fanning, Kellan Lutz, Ashley Greene, Anna Kendrick, Jackson Rathbone.
+· Guion: Melissa Rosenberg.
+· Música: Alexandre Desplat.
+· Producción: Karen Rosenfelt, Wyck Godfrey.
+· Productora: Temple Hill Entertainment, Summit Entertainment, Sunswept Entertainment, Imprint Entertainment.</desc>
+	</programme>
+	<programme start="20251208200000 +0100" stop="20251208221000 +0100" channel="Neox">
+    <title>La saga Crepúsculo: Eclipse</title>
+    <desc>Cine,Fantástico | 2010 | ⑫ | ★7.4/10
+· Mientras Seattle se ve asolada por una oleada de misteriosos asesinatos y una maliciosa vampira prosigue su búsqueda de venganza, Bella debe elegir entre su amor por Edward Cullen y su amistad con Jacob.
+· País: Estados Unidos
+· Dirección: David Slade.
+· Reparto: Kristen Stewart, Robert Pattinson, Taylor Lautner, Jackson Rathbone.
+· Guion: Melissa Rosenberg.
+· Música: Howard Shore.
+· Productora: Summit Entertainment, Temple Hill Entertainment.</desc>
+	</programme>
+	<programme start="20251208221000 +0100" stop="20251209002500 +0100" channel="Neox">
+    <title>La saga Crepúsculo: Amanecer - Parte 1</title>
+    <desc>Cine,Fantástico | 2011 | ⑫ | ★7.4/10
+· Bella Swan y Edward Cullen deciden casarse. Durante la luna de miel, Bella queda embarazada. El nacimiento de su primera hija trae consigo una imprevista y sorprendente consecuencia para Jacob Black.
+· País: Estados Unidos
+· Dirección: Bill Condon.
+· Reparto: Kristen Stewart, Robert Pattinson, Taylor Lautner, Billy Burke, Peter Facinelli, Nikki Reed.
+· Guion: Melissa Rosenberg.
+· Música: Carter Burwell.
+· Productora: TSBD Louisiana, Sunswept Entertainment, Temple Hill Entertainment.</desc>
+	</programme>
+	<programme start="20251209002500 +0100" stop="20251209023000 +0100" channel="Neox">
+    <title>La saga Crepúsculo: Amanecer - Parte 2</title>
+    <desc>Cine,Fantástico | 2012 | ⑫ | ★7.6/10
+· Bella concluye su transformación en vampiro mientras un nuevo peligro se cierne sobre la familia Cullen, ya que los Volturi creen que Renesmee, la hija de Edward y Bella, es una niña vampiro creada por algún miembro del clan, algo totalmente prohibido.
+· País: Estados Unidos
+· Dirección: Bill Condon.
+· Reparto: Kristen Stewart, Robert Pattinson, Taylor Lautner, Dakota Fanning, Maggie Grace, Mackenzie Foy, Ashley Greene.
+· Guion: Stephenie Meyer, Melissa Rosenberg.
+· Música: Carter Burwell.
+· Productora: Summit Entertainment.</desc>
+	</programme>
+	<programme start="20251209023000 +0100" stop="20251209031000 +0100" channel="Neox">
+    <title>JOKERBET: ¡Damos Juego!</title>
+    <desc>Entretenimiento,Variedades | 2025 | ⑱ | ★6.2/10
+· Programa de casino y apuestas deportivas.</desc>
+	</programme>
+	<programme start="20251209031000 +0100" stop="20251209035000 +0100" channel="Neox">
+    <title>Sportium Game Show</title>
+    <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+	</programme>
+	<programme start="20251209035000 +0100" stop="20251209043000 +0100" channel="Neox">
+    <title>La noche de casino con pause &amp; play</title>
+    <desc>Deportes,Programa deportes | 2025 | ⑱
+· El programa trae cada día toda la emoción de los juegos de casino.
+· País: España</desc>
+	</programme>
+	<programme start="20251209043000 +0100" stop="20251209051000 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T14 E19 · El muro</title>
+    <desc>Series,Thriller | 2016 | ⑫ | ★6.2/10
+· Un marine es asesinado durante el evento homenaje al Honor Flight Network, una ONG que permite a los veteranos visitar algunos de los monumentos conmemorativos de la II Guerra Mundial, como los de Vietnam y Corea.
+· País: Estados Unidos
+· Dirección: Varios.
+· Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
+· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
+	</programme>
+	<programme start="20251209051000 +0100" stop="20251209055000 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T14 E20 · Un cuenco de cerezas</title>
+    <desc>Series,Thriller | 2016 | ⑫ | ★6.4/10
+· Cuando el portátil del vicealmirante es infectado por un virus, el equipo se pone en marcha para atrapar al hacker antes de que toda la información del ordenador desaparezca.
+· País: Estados Unidos
+· Dirección: Varios.
+· Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
+· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
+	</programme>
+	<programme start="20251209055000 +0100" stop="20251209060000 +0100" channel="Neox">
+    <title>Minutos musicales</title>
+    <desc>Música,Videoclips | 2018 | TP | ★6.0/10
+· Emisión de videoclips y piezas musicales.</desc>
+	</programme>
+	<programme start="20251209060000 +0100" stop="20251209100000 +0100" channel="Neox">
+    <title>Neox Kidz</title>
+    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
+· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
+· País: España</desc>
+	</programme>
+	<programme start="20251209100000 +0100" stop="20251209102400 +0100" channel="Neox">
+    <title>Los Simpson T17 E17 · Kiss, kiss bang Bangalore</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.6/10
+· El señor Burns cierra la central nuclear y subcontrata a todos los trabajos, obligando a Homer a mudarse a la India. Y Patty y Selma, fans de MacGyver, secuestran al actor Richard Dean Anderson.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251209102400 +0100" stop="20251209104900 +0100" channel="Neox">
+    <title>Los Simpson T32 E17 · Mujeres sin cortar</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· Nos enteramos de que la esposa del jefe Wiggum es más de lo que parece. Mientras tanto, Marge participa en un robo de joyas.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251209104900 +0100" stop="20251209111400 +0100" channel="Neox">
+    <title>Los Simpson T17 E13 · La historia aparentemente interminable</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.4/10
+· Cuando los Simpson quedan atrapados en una cueva, Lisa cuenta una historia sobre un saco lleno de viejas monedas y el efecto que tuvo sobre las vidas del señor Burns, Moe y Homer.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251209111400 +0100" stop="20251209113800 +0100" channel="Neox">
+    <title>Los Simpson T32 E12 · Confesiones en el diario</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· Bart encuentra el diario de su vieja profesora y descubre un sorprendente secreto. Después, Lisa descubre una sorpresa aún más grande.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251209113800 +0100" stop="20251209120300 +0100" channel="Neox">
+    <title>Los Simpson T17 E8 · El Bob italiano</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.8/10
+· Los Simpson viajan a Italia para recoger el nuevo y carísimo deportivo del señor Burns, pero allí se encuentran con el actor secundario Bob y su familia de asesinos.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251209120300 +0100" stop="20251209122800 +0100" channel="Neox">
+    <title>Los Simpson T32 E7 · Tres sueños frustrados</title>
+    <desc>Series,Animación | 2020 | ⑫ | ★6.2/10
+· Bart se convierte en actor de voz y el Dependiente de la Tienda de Tebeos es humillado en la Comic-Con. Mientras, Lisa se prepara para una caída.
+· País: Estados Unidos
+· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251209122800 +0100" stop="20251209125200 +0100" channel="Neox">
+    <title>Los Simpson T32 E19 · Pánico en las calles de Springfield</title>
     <desc>Series,Animación | 2020 | ⑫ | ★5.8/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+· Lisa tiene un nuevo amigo imaginario: una cantante británica deprimida de la década de 1980. Mientras tanto, Homer se convierte en un camionero.
 · País: Estados Unidos
 · Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251207142100 +0100" stop="20251207144800 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2019 | TP | ★6.4/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251207144800 +0100" stop="20251207150600 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2018 | TP | ★5.8/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251207150600 +0100" stop="20251207153300 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
-· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251207153300 +0100" stop="20251207173600 +0100" channel="Neox">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251207173600 +0100" stop="20251207195000 +0100" channel="Neox">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251207195000 +0100" stop="20251207221500 +0100" channel="Neox">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251207221500 +0100" stop="20251208004500 +0100" channel="Neox">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251208004500 +0100" stop="20251208023500 +0100" channel="Neox">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251208023500 +0100" stop="20251208030200 +0100" channel="Neox">
-    <title>Pokerstars casino</title>
-    <desc>Deportes,Programa deportes | 2022 | ⑱ | ★5.6/10
-· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
-· País: España
-· Presenta: Paco González.</desc>
-	</programme>
-	<programme start="20251208030200 +0100" stop="20251208034300 +0100" channel="Neox">
-    <title>Sportium Game Show</title>
-    <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
-· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
-· País: España
-· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
-	</programme>
-	<programme start="20251208034300 +0100" stop="20251208042600 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T11</title>
-    <desc>Series,Thriller | 2013 | ⑫ | ★7.0/10
-· Undécima temporada de la serie sobre delitos relacionados con la Marina estadounidense.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
-· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
-	</programme>
-	<programme start="20251208042600 +0100" stop="20251208055500 +0100" channel="Neox">
-    <title>Minutos musicales</title>
-    <desc>Música,Videoclips | 2018 | TP | ★6.0/10
-· Emisión de videoclips y piezas musicales.</desc>
-	</programme>
-	<programme start="20251208055500 +0100" stop="20251208095900 +0100" channel="Neox">
-    <title>Neox Kidz</title>
-    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
-· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
-· País: España</desc>
-	</programme>
-	<programme start="20251208095900 +0100" stop="20251208102600 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
+	<programme start="20251209125200 +0100" stop="20251209131700 +0100" channel="Neox">
+    <title>Los Simpson T32 E22 · El último Barfighter</title>
     <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+· Después de que Moe rompe su regla más sagrada, una sociedad secreta de camareros busca la venganza final contra Homer y sus amigos.
 · País: Estados Unidos
 · Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208102600 +0100" stop="20251208105300 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251208105300 +0100" stop="20251208112000 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209131700 +0100" stop="20251209134200 +0100" channel="Neox">
+    <title>Los Simpson T34 E2 · Una Lisa sin piedad</title>
+    <desc>Series,Animación | 2022 | ⑫ | ★6.0/10
+· Lisa debe hacer de Jurado mientras Marge se obsesiona con su bicicleta estática.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208112000 +0100" stop="20251208114800 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209134200 +0100" stop="20251209140600 +0100" channel="Neox">
+    <title>Los Simpson T34 E7 · De la cerveza a la paternidad</title>
+    <desc>Series,Animación | 2022 | ⑫ | ★5.8/10
+· Homer se convierte en el padre superhéroe de Duffman y todos parten en un viaje por carretera, pero Lisa amenaza con contar la verdad de lo mal padre que es Homer.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208114800 +0100" stop="20251208121400 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2018 | TP | ★5.8/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209140600 +0100" stop="20251209143100 +0100" channel="Neox">
+    <title>Los Simpson T17 E19 · Las chicas sólo quieren sumar</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.4/10
+· Cuando despiden a Skinner por insinuar que las niñas son peores que los niños con las matemáticas, el colegio de Springfield queda dividido en dos grupos: niños y niñas.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208121400 +0100" stop="20251208124200 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251208124200 +0100" stop="20251208130200 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209143100 +0100" stop="20251209145600 +0100" channel="Neox">
+    <title>Los Simpson T17 E20 · A propósito de Margie</title>
+    <desc>Series,Animación | 2005 | ⑫ | ★6.4/10
+· Bart, Milhouse y Nelson recorren la ciudad en busca de una forma de ganar dinero rápido y empiezan a pintar las direcciones de los vecinos y cobrándoles diez dólares por el servicio no solicitado.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208130200 +0100" stop="20251208133000 +0100" channel="Neox">
-    <title>Los Simpson T15</title>
-    <desc>Series,Animación | 2003 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209145600 +0100" stop="20251209152000 +0100" channel="Neox">
+    <title>Los Simpson T34 E12 · Mi vida como Vlog</title>
+    <desc>Series,Animación | 2023 | ⑫ | ★6.0/10
+· A través de unos vídeos recomendados de YouTube, se muestra el auge y la caída del Vlog de la familia Simpson.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208133000 +0100" stop="20251208135700 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251208135700 +0100" stop="20251208142500 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251208142500 +0100" stop="20251208145300 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209152000 +0100" stop="20251209154500 +0100" channel="Neox">
+    <title>Los Simpson T34 E17 · Pin Gal</title>
+    <desc>Series,Animación | 2022 | ⑫ | ★6.0/10
+· Alguien del pasado de Marge vuelve para entrenarla para un torneo de bolos.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208145300 +0100" stop="20251208151900 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209154500 +0100" stop="20251209161000 +0100" channel="Neox">
+    <title>Los Simpson T18 E8 · La pareja ja, ja</title>
+    <desc>Series,Animación | 2006 | ⑫ | ★6.4/10
+· Bart no quiere ir al cumpleaños de Nelson, pero Marge le obliga a hacerlo. Finalmente se hacen amigos y Nelson le protege, pero hay un inconveniente y es que Bart ya no podrá ser amigo de Milhouse.
 · País: Estados Unidos
 · Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208151900 +0100" stop="20251208154600 +0100" channel="Neox">
-    <title>Los Simpson T35</title>
-    <desc>Series,Animación | 2023 | TP | ★6.2/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209161000 +0100" stop="20251209163500 +0100" channel="Neox">
+    <title>Los Simpson T18 E9 · Kill Gil: Volúmenes 1 y 2</title>
+    <desc>Series,Animación | 2006 | ⑫ | ★6.6/10
+· Gil se disfraza de Santa Claus y decide regalarle a Lisa una muñeca, pero desconoce la procedencia de ese juguete. Gil pierde su empleo y los Simpson deciden invitarle a cenar por Navidad, pero finalmente se autoinvita a vivir con ellos.
 · País: Estados Unidos
-· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20251208154600 +0100" stop="20251208160500 +0100" channel="Neox">
-    <title>Los Simpson T35</title>
-    <desc>Series,Animación | 2023 | TP | ★6.2/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251209163500 +0100" stop="20251209170000 +0100" channel="Neox">
+    <title>Big Bang T5 E21 · La excitación de Hawking</title>
+    <desc>Series,Comedia | 2011 | TP | ★7.2/10
+· Cuando Wolowitz consigue trabajar con el famosísimo científico Stephen Hawking, Sheldon está dispuesto a hacer cualquier cosa para poder conocerlo.
 · País: Estados Unidos
-· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
-	</programme>
-	<programme start="20251208160500 +0100" stop="20251208163200 +0100" channel="Neox">
-    <title>Los Simpson T35</title>
-    <desc>Series,Animación | 2023 | TP | ★6.2/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
-	</programme>
-	<programme start="20251208163200 +0100" stop="20251208165700 +0100" channel="Neox">
-    <title>Big Bang T3</title>
-    <desc>Series,Comedia | 2009 | TP | ★6.8/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
 · Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20251208165700 +0100" stop="20251208172200 +0100" channel="Neox">
-    <title>Big Bang T3</title>
-    <desc>Series,Comedia | 2009 | TP | ★6.8/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251208172200 +0100" stop="20251208174800 +0100" channel="Neox">
-    <title>Big Bang T4 · The Theory</title>
-    <desc>Series,Comedia | 2010 | TP | ★7.6/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+	<programme start="20251209170000 +0100" stop="20251209172500 +0100" channel="Neox">
+    <title>Big Bang T5 E22 · La convergencia del macho solitario</title>
+    <desc>Series,Comedia | 2011 | TP | ★7.2/10
+· Los planes de boda de Howard peligran después de la despedida de soltero que le organizan los chicos. Cuando los detalles de su historial sexual aparecen en internet, Bernadette empieza a dudar si quiere casarse.
 · País: Estados Unidos
 · Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik.
+· Productora: Warner Bros. Television, Chuck Lorre Productions, CBS Television.</desc>
+	</programme>
+	<programme start="20251209172500 +0100" stop="20251209175000 +0100" channel="Neox">
+    <title>Big Bang T6 E9 · Escalada por la plaza de aparcamiento</title>
+    <desc>Series,Comedia | 2012 | TP | ★7.0/10
+· La Universidad reasigna la plaza de parquin (que no usa) de Sheldon y se la dan a Howard. La batalla por el terreno afectará a toda la pandilla.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
 · Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20251208174800 +0100" stop="20251208181300 +0100" channel="Neox">
-    <title>Big Bang T4 · The Theory</title>
-    <desc>Series,Comedia | 2010 | TP | ★7.6/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+	<programme start="20251209175000 +0100" stop="20251209181500 +0100" channel="Neox">
+    <title>Big Bang T6 E10 · Extirpando las entrañas de un pez</title>
+    <desc>Series,Comedia | 2012 | TP | ★6.8/10
+· Sheldon cuida a Amy porque ha caído enferma. A su vez, Howard intenta hacer migas con su suegro cuando se van de pesca.
 · País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Jonathan Galecki.
+· Productora: Warner Bros. Television, Chuck Lorre Productions, CBS Television.</desc>
 	</programme>
-	<programme start="20251208181300 +0100" stop="20251208183200 +0100" channel="Neox">
-    <title>Fantasmas</title>
+	<programme start="20251209181500 +0100" stop="20251209183800 +0100" channel="Neox">
+    <title>Fantasmas T2 E22 · La heredera</title>
+    <desc>Series,Comedia | 2022 | TP | ★6.0/10
+· Cuando una mujer dice ser la heredera de la mansión, Sam y Jay contratan a un abogado. Un suceso inesperado amenaza con cambiarlo todo en Woodstone.
+· País: Estados Unidos y Reino Unido
+· Dirección: Trent O'Donnell.
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Danielle Pinnock, Richie Moriarty, Brandon Scott Jones, Brandon Scoot Jones, Román Zaragoza, Shelia Carrasco, Rose Mclver.
+· Guion: John Blickstead, Trey Kollmer, Talia Bernstein.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251209183800 +0100" stop="20251209190200 +0100" channel="Neox">
+    <title>Fantasmas T3 E5 · El socio silencioso</title>
     <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
-· Una periodista y un chef quieren convertir una mansión habitada por fantasmas en un hotel.
+· Un gran inversor se desvincula del restaurante de Sam y Jay, teniendo que recurrir al único fantasma que tiene dinero.
 · País: Estados Unidos y Reino Unido
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty.
+· Dirección: Trent O'Donnell.
+· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty, Brandon Scoot Jones, Rose Mclver.
+· Guion: John Blickstead, Trey Kollmer.
 · Productora: Monumental Television.</desc>
 	</programme>
-	<programme start="20251208183200 +0100" stop="20251208185800 +0100" channel="Neox">
-    <title>Fantasmas</title>
+	<programme start="20251209190200 +0100" stop="20251209192600 +0100" channel="Neox">
+    <title>Fantasmas T3 E9 · El agente viajero</title>
     <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
-· Una periodista y un chef quieren convertir una mansión habitada por fantasmas en un hotel.
+· Pete descubre un poder que no sabía que tenía: uno que lo acerca a su amigo Jay (y lo aleja).
 · País: Estados Unidos y Reino Unido
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty.
+· Dirección: Trent O'Donnell.
+· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty, Brandon Scoot Jones, Rose Mclver.
+· Guion: John Blickstead, Trey Kollmer.
 · Productora: Monumental Television.</desc>
 	</programme>
-	<programme start="20251208185800 +0100" stop="20251208192300 +0100" channel="Neox">
-    <title>Fantasmas T1</title>
-    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
-· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+	<programme start="20251209192600 +0100" stop="20251209195000 +0100" channel="Neox">
+    <title>Fantasmas T3 E10 · La boda de Isaac</title>
+    <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
+· Los nervios de Isaac por el día de su boda se ven exacerbados por la llegada de un invitado sorpresa en el final de la tercera temporada.
 · País: Estados Unidos y Reino Unido
-· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Dirección: Trent O'Donnell.
+· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty, Brandon Scoot Jones, Rose Mclver.
+· Guion: John Blickstead, Trey Kollmer.
 · Productora: Monumental Television.</desc>
 	</programme>
-	<programme start="20251208192300 +0100" stop="20251208194700 +0100" channel="Neox">
-    <title>Fantasmas T1</title>
-    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
-· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
-· País: Estados Unidos y Reino Unido
-· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251208194700 +0100" stop="20251208202700 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251209195000 +0100" stop="20251209203800 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E6 · Se sugiere orientación parental</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★6.2/10
+· El equipo tiene que trabajar conjuntamente con el Servicio de Guarda Costas para investigar una explosión en un barco.
 · País: Estados Unidos
+· Dirección: Mark Harmon.
+· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Varios, Michael Weatherly, Cote de Pablo.
+· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
+	</programme>
+	<programme start="20251209203800 +0100" stop="20251209212700 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E7 · Los buscadores</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★6.2/10
+· El equipo investiga el asesinato de un sargento mayor retirado. Lo que se descubre detrás de esta muerte es una organización benéfica fraudulenta que se aprovecha de la búsqueda de militares desaparecidos.
+· País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251208202700 +0100" stop="20251208211900 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251209212700 +0100" stop="20251209221600 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E8 · Semper Fortis</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★5.8/10
+· Gibbs intenta ayudar a un asistente médico del hospital de la marina que esta bajo investigación por sus métodos para salvar vidas.
 · País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251208211900 +0100" stop="20251208221300 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251209221600 +0100" stop="20251209230500 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E9 · En tierra</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★6.4/10
+· Dulles está atrapado en el aeropuerto debido al mal tiempo. DiNozzo, Bishop y Jake trabajan en un caso que implica una amenaza terrorista en los aeropuertos del noreste durante Acción de Gracias.
 · País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251208221300 +0100" stop="20251208230600 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251209230500 +0100" stop="20251209235300 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E10 · Reglas de la casa</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★6.2/10
+· El equipo investiga un apagón de Internet en toda la ciudad la semana antes de Navidad. El equipo decide consultar a tres ciber-terroristas que están encarcelados.
 · País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251208230600 +0100" stop="20251208235900 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251209235300 +0100" stop="20251210004200 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E11 · Jaque</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★6.0/10
+· El equipo de NCIS debe investigar una serie de crímenes que parecen ser imitadores de casos anteriores. Además, dos de las ex esposas de Gibbs, se presentan en la escena del crimen para discutir algo importante con él.
 · País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251208235900 +0100" stop="20251209004800 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251210004200 +0100" stop="20251210013100 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E12 · El enemigo interno</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★6.4/10
+· El equipo de NCIS esta detrás de un terrorista estadounidense que ha regresado a los EE.UU. Mientras tanto McGee y Bishop se preguntan por el raro comportamiento de DiNozzo.
 · País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251209004800 +0100" stop="20251209012700 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
+	<programme start="20251210013100 +0100" stop="20251210022000 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T12 E13 · Construimos, luchamos</title>
+    <desc>Series,Thriller | 2014 | ⑫ | ★5.8/10
+· Gibbs y el equipo investigan la muerte del primer teniente de la marina que reconoce abiertamente ser gay y que va a recibir la Medalla de Honor.
 · País: Estados Unidos
+· Dirección: Varios.
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251209012700 +0100" stop="20251209021800 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
-· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
-	</programme>
-	<programme start="20251209021800 +0100" stop="20251209025900 +0100" channel="Neox">
+	<programme start="20251210022000 +0100" stop="20251210030500 +0100" channel="Neox">
     <title>JOKERBET: ¡Damos Juego!</title>
     <desc>Entretenimiento,Variedades | 2025 | ⑱ | ★6.2/10
 · Programa de casino y apuestas deportivas.</desc>
 	</programme>
-	<programme start="20251209025900 +0100" stop="20251209034000 +0100" channel="Neox">
+	<programme start="20251210030500 +0100" stop="20251210034500 +0100" channel="Neox">
     <title>Sportium Game Show</title>
     <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
 · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
 · País: España
 · Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
 	</programme>
-	<programme start="20251209034000 +0100" stop="20251209042500 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T11</title>
-    <desc>Series,Thriller | 2013 | ⑫ | ★7.0/10
-· Undécima temporada de la serie sobre delitos relacionados con la Marina estadounidense.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
-· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
-	</programme>
-	<programme start="20251209042500 +0100" stop="20251209050500 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T11</title>
-    <desc>Series,Thriller | 2013 | ⑫ | ★7.0/10
-· Undécima temporada de la serie sobre delitos relacionados con la Marina estadounidense.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
-· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
-	</programme>
-	<programme start="20251209050500 +0100" stop="20251209055400 +0100" channel="Neox">
-    <title>Minutos musicales</title>
-    <desc>Música,Videoclips | 2018 | TP | ★6.0/10
-· Emisión de videoclips y piezas musicales.</desc>
-	</programme>
-	<programme start="20251209055400 +0100" stop="20251209095700 +0100" channel="Neox">
-    <title>Neox Kidz</title>
-    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
-· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
+	<programme start="20251210034500 +0100" stop="20251210042500 +0100" channel="Neox">
+    <title>La noche de casino con pause &amp; play</title>
+    <desc>Deportes,Programa deportes | 2025 | ⑱
+· El programa trae cada día toda la emoción de los juegos de casino.
 · País: España</desc>
 	</programme>
-	<programme start="20251209095700 +0100" stop="20251209102500 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
+	<programme start="20251210042500 +0100" stop="20251210050500 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T14 E21 · Un libro, dos tapas</title>
+    <desc>Series,Thriller | 2016 | ⑫ | ★6.4/10
+· Torres debe recuperar las notas de un caso antiguo después del asesinato de un marine, que parece estar relacionado con una banda de motoristas en la que se infiltró años atrás para una operación encubierta.
 · País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209102500 +0100" stop="20251209105100 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209105100 +0100" stop="20251209111900 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209111900 +0100" stop="20251209114600 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209114600 +0100" stop="20251209120600 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209120600 +0100" stop="20251209123300 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209123300 +0100" stop="20251209130000 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209130000 +0100" stop="20251209132600 +0100" channel="Neox">
-    <title>Los Simpson T15</title>
-    <desc>Series,Animación | 2003 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209132600 +0100" stop="20251209135300 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209135300 +0100" stop="20251209142000 +0100" channel="Neox">
-    <title>Los Simpson T32</title>
-    <desc>Series,Animación | 2020 | ⑫ | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: 20th Century Fox Television, Gracie Films, Klasky-Csupo, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209142000 +0100" stop="20251209144700 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209144700 +0100" stop="20251209151300 +0100" channel="Neox">
-    <title>Los Simpson T34</title>
-    <desc>Series,Animación | 2022 | TP | ★6.0/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20251209151300 +0100" stop="20251209154000 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2023 | TP | ★6.2/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
-	</programme>
-	<programme start="20251209154000 +0100" stop="20251209160100 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2023 | TP | ★6.2/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
-	</programme>
-	<programme start="20251209160100 +0100" stop="20251209162900 +0100" channel="Neox">
-    <title>Los Simpson</title>
-    <desc>Series,Animación | 2023 | TP | ★6.2/10
-· Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.
-· País: Estados Unidos
-· Productora: Gracie Films, Universal Network Television, Film Roman Productions, 20th Century Fox Television, Klasky-Csupo.</desc>
-	</programme>
-	<programme start="20251209162900 +0100" stop="20251209165600 +0100" channel="Neox">
-    <title>Big Bang T3</title>
-    <desc>Series,Comedia | 2009 | TP | ★6.8/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251209165600 +0100" stop="20251209172200 +0100" channel="Neox">
-    <title>Big Bang T3</title>
-    <desc>Series,Comedia | 2009 | TP | ★6.8/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251209172200 +0100" stop="20251209174900 +0100" channel="Neox">
-    <title>Big Bang T4 · The Theory</title>
-    <desc>Series,Comedia | 2010 | TP | ★7.6/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251209174900 +0100" stop="20251209181500 +0100" channel="Neox">
-    <title>Big Bang T4 · The Theory</title>
-    <desc>Series,Comedia | 2010 | TP | ★7.6/10
-· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
-· País: Estados Unidos
-· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik.
-· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
-	</programme>
-	<programme start="20251209181500 +0100" stop="20251209183500 +0100" channel="Neox">
-    <title>Fantasmas</title>
-    <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
-· Una periodista y un chef quieren convertir una mansión habitada por fantasmas en un hotel.
-· País: Estados Unidos y Reino Unido
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251209183500 +0100" stop="20251209190000 +0100" channel="Neox">
-    <title>Fantasmas</title>
-    <desc>Series,Comedia | 2024 | ⑫ | ★6.0/10
-· Una periodista y un chef quieren convertir una mansión habitada por fantasmas en un hotel.
-· País: Estados Unidos y Reino Unido
-· Reparto: Utkarsh Ambudkar, Rose McIver, Danielle Pinnock, Asher Grodman, Richie Moriarty.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251209190000 +0100" stop="20251209192600 +0100" channel="Neox">
-    <title>Fantasmas T1</title>
-    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
-· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
-· País: Estados Unidos y Reino Unido
-· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251209192600 +0100" stop="20251209195100 +0100" channel="Neox">
-    <title>Fantasmas T1</title>
-    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
-· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
-· País: Estados Unidos y Reino Unido
-· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
-· Productora: Monumental Television.</desc>
-	</programme>
-	<programme start="20251209195100 +0100" stop="20251209203200 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T13</title>
-    <desc>Series,Thriller | 2015 | ⑫ | ★6.4/10
-· La decimotercera temporada empieza con Gibbs siendo trasladado en un portaaviones.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
+· Dirección: Varios.
+· Reparto: David McCallum, Mark Harmon, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251209203200 +0100" stop="20251209212300 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
+	<programme start="20251210050500 +0100" stop="20251210054500 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T4 E4 · Fingiendo</title>
+    <desc>Series,Thriller | 2006 | ⑫ | ★6.6/10
+· Cuando la policía detiene a un conductor, otro coche choca contra su patrol y un hombre muere.
 · País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251209212300 +0100" stop="20251209221600 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
-· País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251209221600 +0100" stop="20251209231000 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
-· País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251209231000 +0100" stop="20251210000300 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
-· País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251210000300 +0100" stop="20251210005700 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
-· País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251210005700 +0100" stop="20251210013700 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
-· País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251210013700 +0100" stop="20251210023000 +0100" channel="Neox">
-    <title>Navy: Investigación Criminal T21</title>
-    <desc>Series,Thriller | 2024 | ⑫ | ★6.2/10
-· El NCIS es un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo, desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos.
-· País: Estados Unidos
-· Reparto: Mark Harmon, Sasha Alexander, Michael Weatherly, Pauley Perrette, David McCallum, Sean Murray.
-· Productora: Mark Harmon, CBS Paramount Network Television, Paramount Network Television Productions.</desc>
-	</programme>
-	<programme start="20251210023000 +0100" stop="20251210031100 +0100" channel="Neox">
-    <title>JOKERBET: ¡Damos Juego!</title>
-    <desc>Entretenimiento,Variedades | 2025 | ⑱ | ★6.2/10
-· Programa de casino y apuestas deportivas.</desc>
-	</programme>
-	<programme start="20251210031100 +0100" stop="20251210035200 +0100" channel="Neox">
-    <title>Sportium Game Show</title>
-    <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
-· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
-· País: España
-· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
-	</programme>
-	<programme start="20251210035200 +0100" stop="20251210043400 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T11</title>
-    <desc>Series,Thriller | 2013 | ⑫ | ★7.0/10
-· Undécima temporada de la serie sobre delitos relacionados con la Marina estadounidense.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
+· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Pauley Perrette, Michael Weatherly, Cote de Pablo.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
-	<programme start="20251210043400 +0100" stop="20251210051400 +0100" channel="Neox">
-    <title>Navy: Investigación criminal T11</title>
-    <desc>Series,Thriller | 2013 | ⑫ | ★7.0/10
-· Undécima temporada de la serie sobre delitos relacionados con la Marina estadounidense.
-· País: Estados Unidos
-· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
-· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
-	</programme>
-	<programme start="20251210051400 +0100" stop="20251210055700 +0100" channel="Neox">
+	<programme start="20251210054500 +0100" stop="20251210055700 +0100" channel="Neox">
     <title>Minutos musicales</title>
     <desc>Música,Videoclips | 2018 | TP | ★6.0/10
 · Emisión de videoclips y piezas musicales.</desc>
@@ -1567,6 +1315,264 @@
 · Undécima temporada de la serie sobre delitos relacionados con la Marina estadounidense.
 · País: Estados Unidos
 · Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Rocky Carroll, Pauley Perrette, Michael Weatherly, Cote de Pablo.
+· Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
+	</programme>
+	<programme start="20251212051000 +0100" stop="20251212060000 +0100" channel="Neox">
+    <title>Minutos musicales</title>
+    <desc>Música,Videoclips | 2018 | TP | ★6.0/10
+· Emisión de videoclips y piezas musicales.</desc>
+	</programme>
+	<programme start="20251212060000 +0100" stop="20251212100000 +0100" channel="Neox">
+    <title>Neox Kidz</title>
+    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
+· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
+· País: España</desc>
+	</programme>
+	<programme start="20251212100000 +0100" stop="20251212102600 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212102600 +0100" stop="20251212105300 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212105300 +0100" stop="20251212111900 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212111900 +0100" stop="20251212114500 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212114500 +0100" stop="20251212121100 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212121100 +0100" stop="20251212123800 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212123800 +0100" stop="20251212130400 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212130400 +0100" stop="20251212133100 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212133100 +0100" stop="20251212135700 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212135700 +0100" stop="20251212142300 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212142300 +0100" stop="20251212145000 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212145000 +0100" stop="20251212151600 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212151600 +0100" stop="20251212154200 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212154200 +0100" stop="20251212160900 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212160900 +0100" stop="20251212163500 +0100" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 2017 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
+	</programme>
+	<programme start="20251212163500 +0100" stop="20251212165500 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212165500 +0100" stop="20251212171600 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212171600 +0100" stop="20251212173700 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212173700 +0100" stop="20251212175700 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212175700 +0100" stop="20251212181800 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212181800 +0100" stop="20251212183900 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212183900 +0100" stop="20251212190000 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212190000 +0100" stop="20251212192000 +0100" channel="Neox">
+    <title>Big Bang T11</title>
+    <desc>Series,Comedia | 2017 | TP | ★7.0/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, Kevin Sussman.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
+	</programme>
+	<programme start="20251212192000 +0100" stop="20251212194700 +0100" channel="Neox">
+    <title>Fantasmas T1</title>
+    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
+· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+· País: Estados Unidos y Reino Unido
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251212194700 +0100" stop="20251212201400 +0100" channel="Neox">
+    <title>Fantasmas T1</title>
+    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
+· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+· País: Estados Unidos y Reino Unido
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251212201400 +0100" stop="20251212204000 +0100" channel="Neox">
+    <title>Fantasmas T1</title>
+    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
+· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+· País: Estados Unidos y Reino Unido
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251212204000 +0100" stop="20251212210700 +0100" channel="Neox">
+    <title>Fantasmas T1</title>
+    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
+· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+· País: Estados Unidos y Reino Unido
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251212210700 +0100" stop="20251212213400 +0100" channel="Neox">
+    <title>Fantasmas T1</title>
+    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
+· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+· País: Estados Unidos y Reino Unido
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251212213400 +0100" stop="20251212220000 +0100" channel="Neox">
+    <title>Fantasmas T1</title>
+    <desc>Series,Comedia | 2021 | ⑫ | ★6.2/10
+· Una periodista freelance y un chef urbanitas deciden dar un vuelco a su vida al trasladarse al campo para convertir una vieja mansión que han recibido en herencia en un hotel con encanto. El único problema es que el caserón está habitado por fantasmas.
+· País: Estados Unidos y Reino Unido
+· Reparto: Rose McIver, Utkarsh Ambudkar, Asher Grodman, Richie Moriarty.
+· Productora: Monumental Television.</desc>
+	</programme>
+	<programme start="20251212220000 +0100" stop="20251213003000 +0100" channel="Neox">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251213003000 +0100" stop="20251213023000 +0100" channel="Neox">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251213023000 +0100" stop="20251213030000 +0100" channel="Neox">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | ⑱ | ★5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+	</programme>
+	<programme start="20251213030000 +0100" stop="20251213034500 +0100" channel="Neox">
+    <title>Sportium Game Show</title>
+    <desc>Entretenimiento | 2025 | ⑱ | ★5.8/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+	</programme>
+	<programme start="20251213034500 +0100" stop="20251213042500 +0100" channel="Neox">
+    <title>Navy: Investigación criminal T1</title>
+    <desc>Series,Drama | 2003 | ⑫ | ★6.0/10
+· El agente especial Gibbs dirige un equipo que investiga crímenes relacionados con la armada.
+· País: Estados Unidos
+· Reparto: David McCallum, Mark Harmon, Sasha Alexander, Sean Murray, Pauley Perrette, Michael Weatherly.
 · Productora: Paramount Network Television Productions, CBS Paramount Network Television.</desc>
 	</programme>
 	<programme start="20251205063000 +0100" stop="20251205070000 +0100" channel="Mega">
@@ -2930,186 +2936,6 @@
 · Presenta: Glòria Serra.
 · Productora: Antena 3 Televisión.</desc>
 	</programme>
-	<programme start="20251205065200 +0100" stop="20251205070000 +0100" channel="M+ Cine Español">
-    <title>Flores para Antonio. Alba Flores celebra a su padre</title>
-    <desc>Cine,Programa de cine | 2025 | ⑦ | ★6.8/10
-· La actriz Alba Flores y sus directores Isaki Lacuesta y Elena Molina nos cuentan todos los detalles de la película documental “Flores para Antonio” que celebró su estreno en el Festival de Cine de San Sebastián.
-· País: España
-· Presenta: Cristina Teva.
-· Productora: Movistar+.</desc>
-	</programme>
-	<programme start="20251205070000 +0100" stop="20251205082900 +0100" channel="M+ Cine Español">
-    <title>Marisol, llámame Pepa</title>
-    <desc>Documentales,Biografía | 2024 | ⑦ | ★6.2/10
-· Todo el mundo sabe quién es Marisol, pero pocos conocen a Pepa Flores, una mujer que decidió apagar el foco de la fama con solo 37 años. Este documental, nominado al Goya y ganador del Forqué, nos la presenta como nunca antes.
-· País: España
-· Dirección: Blanca Torres.
-· Guion: Blanca Torres.
-· Productora: Radio Televisión Española (RTVE), Sarao Films, Tu Luz y Mi Calma.</desc>
-	</programme>
-	<programme start="20251205082900 +0100" stop="20251205094100 +0100" channel="M+ Cine Español">
-    <title>Bodas de sangre</title>
-    <desc>Cine,Drama | 1981 | TP | ★6.2/10
-· Uno de los mayores y más bellos dramas lorquianos sobre la vida, el amor, la pasión, las costumbres y los gitanos.
-· País: España y Francia
-· Dirección: Carlos Saura.
-· Reparto: Antonio Gades, Cristina Hoyos, Juan Antonio Jiménez, Carmen Villena, Pilar Cárdenas.
-· Guion: Antonio Artero, Carlos Saura, Alfredo Mañas, Antonio Gades.
-· Música: Emilio de Diego.
-· Producción: Emiliano Piedra.
-· Productora: Emiliano Piedra Producción.</desc>
-	</programme>
-	<programme start="20251205094100 +0100" stop="20251205111100 +0100" channel="M+ Cine Español">
-    <title>Sé infiel y no mires con quién</title>
-    <desc>Cine,Comedia | 1985 | ⑯ | ★6.2/10
-· Los dueños de una editorial al borde de la bancarrota consiguen un contrato con la autora española de más éxito. La noche en que uno de ellos debe cenar con la escritora, el otro tiene planeada una cita secreta... pero no es el único.
-· País: España
-· Dirección: Fernando Trueba.
-· Reparto: Carmen Maura, Ana Belén, Antonio Resines, Verónica Forqué, Guillermo Montesinos, Santiago Ramos, Chus Lampreave, Bibi Andersen, El Gran Wyoming.
-· Guion: Fernando Trueba.
-· Música: Ángel Muñoz Alonso.
-· Producción: Andrés Vicente Gómez.
-· Productora: Iberoamericana Films Producción S.A., XYZ Productions.</desc>
-	</programme>
-	<programme start="20251205111100 +0100" stop="20251205123100 +0100" channel="M+ Cine Español">
-    <title>Leo Harlem. 20 años no es nada</title>
-    <desc>Entretenimiento | 2022 | ⑫ | ★7.8/10
-· Homenaje a la carrera artística de Leo Harlem, con motivo de sus 20 años dedicados a la comedia. Un monólogo autobiográfico donde el artista comparte anécdotas de su vida, desde la infancia hasta alcanzar el éxito como cómico.
-· País: España
-· Presenta: Leo Harlem.
-· Productora: Movistar+.</desc>
-	</programme>
-	<programme start="20251205123100 +0100" stop="20251205140700 +0100" channel="M+ Cine Español">
-    <title>El amor en su lugar</title>
-    <desc>Cine,Drama | 2021 | ⑦ | ★6.8/10
-· En enero de 1942, un grupo de teatro formado por judíos representa una comedia musical en el gueto de Varsovia, donde más de 400.000 personas llevan un año confinados por los nazis.
-· País: España y Reino Unido
-· Dirección: Rodrigo Cortés.
-· Reparto: Clara Rugaard, Ferdia Walsh-Peelo, Valentina Bellè, Freya Parks, Dalit Streett Tejeda, Mark Ryder, Jack Roth.
-· Guion: Rodrigo Cortés, David Safier.
-· Música: Víctor Reyes.
-· Producción: Adrián Guerra, Núria Valls.
-· Productora: Nostromo Pictures.</desc>
-	</programme>
-	<programme start="20251205140700 +0100" stop="20251205155200 +0100" channel="M+ Cine Español">
-    <title>¿Es el enemigo? La película de Gila</title>
-    <desc>Cine,Comedia dramática | 2024 | ⑫ | ★6.8/10
-· Madrid, 1936. Miguel Gila vive tranquilo y feliz hasta que el estallido de la Guerra Civil le obliga a acudir a la lucha. Allí, sobrevive a miserias, batallas, al fusilamiento y a la cárcel gracias a su humor.
-· País: España y Portugal
-· Dirección: Alexis Morante.
-· Reparto: Oscar Lasarte, Carlos Cuevas, Natalia de Molina, Salva Reina, Adelfa Calvo, Vicente Romero, Iván Villanueva, Antonio Bachiller, Miguel Gila, Paulo Pires, Ramón Ibarra, Íñigo Aranburu, Guiomar Puerta, Asier Tartas.
-· Guion: Raúl Santos, Alexis Morante, Miguel Gila, José Alba.
-· Música: Miguel Santos.
-· Producción: Ibón Cormenzana, Ignasi Estapé, José Alba, Sandra Tapia.
-· Productora: Arcadia Motion Pictures.</desc>
-	</programme>
-	<programme start="20251205155200 +0100" stop="20251205175200 +0100" channel="M+ Cine Español">
-    <title>Las chicas de la estación</title>
-    <desc>Cine,Drama | 2024 | ⑯ | ★7.0/10
-· Jara quiere celebrar su cumpleaños junto a Álex y Miranda en el concierto de su artista preferida. Las tres necesitan dinero y apenas tienen opciones para conseguirlo. Pero conocen a una chica que hace tiempo les viene ofreciendo ganar dinero fácil.
-· País: España
-· Dirección: Juana Macías.
-· Reparto: Julieta Tobío, Salua Hadra, María Steelman, Arantxa Aranguren, La Fanny.
-· Guion: Isa Sánchez.
-· Música: Isabel Royán.
-· Productora: Feelgood Media.</desc>
-	</programme>
-	<programme start="20251205175200 +0100" stop="20251205194600 +0100" channel="M+ Cine Español">
-    <title>El 47</title>
-    <desc>Cine,Biopic | 2024 | ⑦ | ★7.0/10
-· Manolo Vital, un conductor de autobús que se adueñaba del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró.
-· País: España
-· Dirección: Marcel Barrena.
-· Reparto: Eduard Fernández, Clara Segura, Carlos Cuevas, Zoe Bonafonte, Salva Reina, Óscar de la Fuente.
-· Guion: Alberto Marini.
-· Música: Arnau Bataller.
-· Productora: The MediaPro Studio.</desc>
-	</programme>
-	<programme start="20251205194600 +0100" stop="20251205214700 +0100" channel="M+ Cine Español">
-    <title>La infiltrada</title>
-    <desc>Cine,Thriller | 2024 | ⑫ | ★6.2/10
-· Con 22 años, una agente de policía, bajo el pseudónimo de Aranzazu Berradre Marín, se infiltró en la banda terrorista ETA. Ahí comenzó la misión más difícil de su vida: convivir con dos terroristas e ir informando a sus superiores de todo.
-· País: España
-· Dirección: Arantxa Echevarría.
-· Reparto: Carolina Yuste, Luis Tosar, Diego Anido, Iñigo Gastesi, Nausicaa Bonnín.
-· Guion: Amèlia Mora, Arantxa Echevarría, María Luisa Gutiérrez.
-· Música: Fernando Velázquez.
-· Producción: María Luisa Gutiérrez, Mercedes Gamero.
-· Productora: Infiltrada LP, A.I.E., Bowfinger International Pictures.</desc>
-	</programme>
-	<programme start="20251205214700 +0100" stop="20251205220000 +0100" channel="M+ Cine Español">
-    <title>Espacio M+ T1 · La infiltrada. Vivir dentro de ETA</title>
-    <desc>Entretenimiento | 2024 | ⑦ | ★6.4/10
-· Asistimos al rodaje en Guipúzcoa de la nueva película de Arantxa Echevarría protagonizada por Luis Tosar y Carolina Yuste. Un thriller sobre el caso real de la única policía nacional infiltrada en el comando Donosti de ETA.
-· País: España
-· Productora: Movistar+.</desc>
-	</programme>
-	<programme start="20251205220000 +0100" stop="20251205233600 +0100" channel="M+ Cine Español">
-    <title>Miss Carbón</title>
-    <desc>Cine,Biopic | 2025 | ⑯ | ★6.4/10
-· Carla comienza a trabajar en la mina cuando su nombre oficial todavía era Carlos, pero tras ser aprobada la Ley sobre la identidad de género, cambió su DNI, se operó y, como mujer, logró ingresar en la mina rompiendo el sistema desde dentro.
-· País: Argentina y España
-· Dirección: Agustina Macri.
-· Reparto: Lux Pascal, Laura Grandinetti, Romina Escobar, Simone Mercado, Paco León, Miguel Angel Maciel, Lautaro Zera.
-· Guion: Erika Halvorsen, Mara Pescio.
-· Música: Maite Arroitajauregi.
-· Producción: Merry Colomer.
-· Productora: The Warning of Rivard, A.I.E., Pensa &amp; Rocca Producciones.</desc>
-	</programme>
-	<programme start="20251205233600 +0100" stop="20251206012500 +0100" channel="M+ Cine Español">
-    <title>La buena letra</title>
-    <desc>Cine,Drama | 2025 | ⑫ | ★7.2/10
-· Tras la Guerra Civil, Ana trata de salir adelante con su familia curando sus heridas a base de guisos, secretos y silencios, pero cuando Isabel, recién casada con el cuñado de Ana, llega a la familia, los cuidados de Ana valdrán de poco o nada.
-· País: España
-· Dirección: Celia Rico Clavellino.
-· Reparto: Loreto Mauleón, Enric Auquer, Roger Casamajor, Ana Rujas, Teresa Lozano.
-· Guion: Celia Rico Clavellino.
-· Música: Marina Alcantud.
-· Producción: Fernando Bovaira.
-· Productora: Mod Producciones, Arcadia Motion Pictures, Misent Producciones S.L..</desc>
-	</programme>
-	<programme start="20251206012500 +0100" stop="20251206030000 +0100" channel="M+ Cine Español">
-    <title>Tras el verano</title>
-    <desc>Cine,Drama | 2025 | ⑦ | ★6.2/10
-· Dani no es hijo de Paula; sin embargo, él la quiere como si lo fuera. Pero esta relación está a punto de romperse debido a la separación de Paula y Raúl, el padre de Dani. ¿Tendrá Paula que dejar de ver a Dani para siempre?
-· País: España
-· Dirección: Yolanda Centeno.
-· Reparto: Alexandra Jiménez, Juan Diego Botto, Álex Infantes, Ruth Gabriel.
-· Guion: Jesús Luque.
-· Música: Pablo Cervantes.
-· Producción: Marta Velasco, Tay Sánchez.
-· Productora: After the Summer, A.I.E., Áralan Films S.L, Harry Kane, S.L.</desc>
-	</programme>
-	<programme start="20251206030000 +0100" stop="20251206033300 +0100" channel="M+ Cine Español">
-    <title>El lejano Oeste de Boyero</title>
-    <desc>Cine,Programa de cine | 2025 | ⑦ | ★6.2/10
-· Guía útil para no perderse en el canal efímero que Movistar Plus+ dedica este verano al cine del Oeste, con la colaboración especial del crítico de cine Carlos Boyero, amante confeso del género.
-· País: España</desc>
-	</programme>
-	<programme start="20251206033300 +0100" stop="20251206051200 +0100" channel="M+ Cine Español">
-    <title>Menudas piezas</title>
-    <desc>Cine,Comedia | 2024 | ⑫ | ★6.4/10
-· A Candela le han sido infiel, la han despedido de su trabajo en un colegio privado y ahora no le queda más remedio que pedir ayuda a su hermana y a su padre, esos a los que lleva años mirando por encima del hombro.
-· País: España
-· Dirección: Nacho G. Velilla.
-· Reparto: Alexandra Jiménez, Luis Callejo, Francesc Orella, María Adánez, Kiko Bena, Verónica Senra, Rocío Velayos, Pablo Louazel.
-· Guion: David S. Olivas, Marta Sánchez Guillén, Nacho G. Velilla.
-· Música: Juanjo Javierre.
-· Producción: Ghislain Barrois, Álvaro Augustín.
-· Productora: Telecinco Cinema, Menudas piezas, A.I.E..</desc>
-	</programme>
-	<programme start="20251206051200 +0100" stop="20251206070000 +0100" channel="M+ Cine Español">
-    <title>Barcelona, noche de invierno</title>
-    <desc>Cine,Comedia romántica | 2015 | ⑦ | ★7.6/10
-· Tras el fenómeno de "Barcelona, noche de verano", llega esta secuela, en la que nos reencontraremos con algunos de los personajes favoritos de la primera entrega viviendo otro capítulo de sus peculiares romances durante una mágica noche de Reyes.
-· País: España
-· Dirección: Dani de la Orden.
-· Reparto: Miki Esparbé, Bárbara Santa-Cruz, Alberto San Juan, Alexandra Jiménez, Àlex Monner, Berto Romero.
-· Guion: Daniel González, Eric Navarro, Eduard Solà.
-· Música: Joan Dausà.
-· Producción: Dani de la Orden, Kike Maíllo, Andreu Buenafuente, Bernat Saumell.
-· Productora: Sábado Películas, El Terrat, Playtime Movies, Televisió de Catalunya (TV3).</desc>
-	</programme>
 	<programme start="20251206070000 +0100" stop="20251206074700 +0100" channel="M+ Cine Español">
     <title>Creadoras</title>
     <desc>Cine,Programa de cine | 2022 | TP | ★6.2/10
@@ -3169,7 +2995,7 @@
 	</programme>
 	<programme start="20251206151300 +0100" stop="20251206153100 +0100" channel="M+ Cine Español">
     <title>Viaje de negocios</title>
-    <desc>Cortometrajes,Corto drama | 2024 | ⑦ | ★6.2/10
+    <desc>Cortometrajes,Corto drama | 2024 | ⑦ | ★6.4/10
 · El regalo de papá de unas zapatillas brillantes y nuevas son la clave de un terrible secreto.
 · País: México
 · Dirección: Gerardo Coello Escalante.</desc>
@@ -3811,7 +3637,7 @@
 · Presenta: Leo Harlem.
 · Productora: Movistar+.</desc>
 	</programme>
-	<programme start="20251210070000 +0100" stop="20251210072000 +0100" channel="M+ Cine Español">
+	<programme start="20251210070000 +0100" stop="20251210071900 +0100" channel="M+ Cine Español">
     <title>Carmela</title>
     <desc>Cortometrajes,Corto animación | 2025 | ⑫ | ★6.2/10
 · Biznaga de Plata al mejor cortometraje de animación en el Festival de Málaga 2025. Tras la guerra civil española, Carmela se une a las milicias junto a miles de mujeres.
@@ -3821,7 +3647,7 @@
 · Guion: Helena Sánchez.
 · Producción: Vicente Mallols.</desc>
 	</programme>
-	<programme start="20251210072000 +0100" stop="20251210091500 +0100" channel="M+ Cine Español">
+	<programme start="20251210071900 +0100" stop="20251210091400 +0100" channel="M+ Cine Español">
     <title>Hable con ella</title>
     <desc>Cine,Melodrama | 2002 | ⑫ | ★6.2/10
 · Benigno es un enfermero que se enamora de una bailarina desconocida. Tras un accidente, ella entra en coma y acaba bajo su cuidado. Cuando una torera cae en coma, es llevada a la misma sala, y Benigno entabla amistad con su acompañante Marco.
@@ -3833,7 +3659,7 @@
 · Producción: Agustín Almodóvar.
 · Productora: El Deseo, Vía Digital, Antena 3 Televisión, Good Machine.</desc>
 	</programme>
-	<programme start="20251210091500 +0100" stop="20251210110500 +0100" channel="M+ Cine Español">
+	<programme start="20251210091400 +0100" stop="20251210110500 +0100" channel="M+ Cine Español">
     <title>Te doy mis ojos</title>
     <desc>Cine,Drama | 2003 | ⑯ | ★6.8/10
 · Historia del amor frustrado de una pareja por la violencia con la que él la tortura y la incapacidad de ella de escapar.
@@ -3866,7 +3692,7 @@
 · Música: Roque Baños.
 · Productora: Filmax Entertainment.</desc>
 	</programme>
-	<programme start="20251210150000 +0100" stop="20251210165000 +0100" channel="M+ Cine Español">
+	<programme start="20251210150000 +0100" stop="20251210164900 +0100" channel="M+ Cine Español">
     <title>Carne de neón</title>
     <desc>Cine,Thriller | 2010 | ⑱ | ★6.4/10
 · Ricky va a morir esta noche: una bala se dirige inexorable hacia su cabeza. Los pensamientos se arremolinan unos con otros, tratando de encontrar la razón por la que ese trozo de metal va a acabar con su vida.
@@ -3878,7 +3704,7 @@
 · Producción: Juan Gordon.
 · Productora: Film i Väst, Morena Films S.L, Mandarin Films.</desc>
 	</programme>
-	<programme start="20251210165000 +0100" stop="20251210183000 +0100" channel="M+ Cine Español">
+	<programme start="20251210164900 +0100" stop="20251210182900 +0100" channel="M+ Cine Español">
     <title>Menudas piezas</title>
     <desc>Cine,Comedia | 2024 | ⑫ | ★6.4/10
 · A Candela le han sido infiel, la han despedido de su trabajo en un colegio privado y ahora no le queda más remedio que pedir ayuda a su hermana y a su padre, esos a los que lleva años mirando por encima del hombro.
@@ -3890,7 +3716,7 @@
 · Producción: Ghislain Barrois, Álvaro Augustín.
 · Productora: Telecinco Cinema, Menudas piezas, A.I.E..</desc>
 	</programme>
-	<programme start="20251210183000 +0100" stop="20251210201000 +0100" channel="M+ Cine Español">
+	<programme start="20251210182900 +0100" stop="20251210200800 +0100" channel="M+ Cine Español">
     <title>Marsella</title>
     <desc>Cine,Drama | 2014 | ⑫ | ★6.8/10
 · A consecuencia de sus problemas con el alcohol y las drogas, la justicia le retiró a Sara la custodia de su hija cuando ésta tenía cuatro años. Ahora, cinco años después, un juez decide devolver la niña a Sara, que ha logrado rehacer su vida.
@@ -3902,7 +3728,7 @@
 · Producción: Gerardo Herrero, Marta Esteban.
 · Productora: Messidor Films S.L, Tornasol Films.</desc>
 	</programme>
-	<programme start="20251210201000 +0100" stop="20251210220000 +0100" channel="M+ Cine Español">
+	<programme start="20251210200800 +0100" stop="20251210220000 +0100" channel="M+ Cine Español">
     <title>Wolfgang</title>
     <desc>Cine,Drama | 2025 | ⑦ | ★7.0/10
 · Wolfgang tiene 10 años, un extraordinario cociente intelectual, un trastorno del espectro autista y una vida que acaba de ponerse patas arriba: su madre ha muerto y su última voluntad ha sido que Wolfgang vaya a vivir con su padre, al que no conoce.
@@ -3914,7 +3740,7 @@
 · Producción: Marta Sánchez de Miguel, Gerard Verdaguer.
 · Productora: Nostromo Pictures, Lo vi Films.</desc>
 	</programme>
-	<programme start="20251210220000 +0100" stop="20251211001000 +0100" channel="M+ Cine Español">
+	<programme start="20251210220000 +0100" stop="20251211000700 +0100" channel="M+ Cine Español">
     <title>Modelo 77</title>
     <desc>Cine,Thriller | 2022 | ⑯ | ★6.6/10
 · Barcelona 1977. Manuel es un joven contable encarcelado por desfalco y pendiente de un juicio con una pena desmesurada, junto a su compañero de celda se unirá a COPEL, un colectivo de presos que cambió la historia del sistema penitenciario español.
@@ -3926,14 +3752,14 @@
 · Producción: Domingo Corral, Jose Antonio Félez, Gervasio Iglesias.
 · Productora: Movistar+, Atípica Films, Movistar Plus+.</desc>
 	</programme>
-	<programme start="20251211001000 +0100" stop="20251211002000 +0100" channel="M+ Cine Español">
+	<programme start="20251211000700 +0100" stop="20251211001700 +0100" channel="M+ Cine Español">
     <title>Espacio M+ T2 · Marco. El buen impostor</title>
     <desc>Entretenimiento | 2024 | ⑦ | ★6.0/10
 · A todos nos sonará Enric Marco, el español que durante años se hizo pasar por un superviviente del holocausto, dando charlas y entrevistas. Esta película cuenta su historia con un descomunal Eduard Fernández en la piel del impostor de buen corazón.
 · País: España
 · Productora: Movistar+.</desc>
 	</programme>
-	<programme start="20251211002000 +0100" stop="20251211021000 +0100" channel="M+ Cine Español">
+	<programme start="20251211001700 +0100" stop="20251211020800 +0100" channel="M+ Cine Español">
     <title>El 47</title>
     <desc>Cine,Biopic | 2024 | ⑦ | ★7.0/10
 · Manolo Vital, un conductor de autobús que se adueñaba del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró.
@@ -3944,7 +3770,7 @@
 · Música: Arnau Bataller.
 · Productora: The MediaPro Studio.</desc>
 	</programme>
-	<programme start="20251211021000 +0100" stop="20251211040000 +0100" channel="M+ Cine Español">
+	<programme start="20251211020800 +0100" stop="20251211040100 +0100" channel="M+ Cine Español">
     <title>Segundo premio</title>
     <desc>Cine,Drama | 2024 | ⑯ | ★6.2/10
 · En plena efervescencia artística, es el momento de sacar un tercer disco, sin embargo, Los Planetas están en su peor momento. May acaba de abandonar el grupo, los problemas con las drogas son imparables y el control sobre sus vidas se ha perdido.
@@ -3956,7 +3782,7 @@
 · Producción: Cristóbal García, Marta Velasco.
 · Productora: Toxicosmos, A.I.E., La Terraza Films, S.L..</desc>
 	</programme>
-	<programme start="20251211040000 +0100" stop="20251211055000 +0100" channel="M+ Cine Español">
+	<programme start="20251211040100 +0100" stop="20251211055100 +0100" channel="M+ Cine Español">
     <title>Yuli</title>
     <desc>Cine,Drama | 2018 | ⑦ | ★7.6/10
 · Carlos es un niño que vive en un barrio marginal de La Habana junto a su familia. Debido a su talento natural para desarrollar e interpretar coreografías, el joven ingresa -obligado por su padre- en una escuela de danza.
@@ -3968,14 +3794,14 @@
 · Producción: Andrea Calderwood.
 · Productora: Morena Films S.L.</desc>
 	</programme>
-	<programme start="20251211055000 +0100" stop="20251211060500 +0100" channel="M+ Cine Español">
+	<programme start="20251211055100 +0100" stop="20251211060700 +0100" channel="M+ Cine Español">
     <title>Javier Bardem. El buen actor</title>
     <desc>Cine,Programa de cine | 2022 | TP | ★6.0/10
 · Aprovechando la llegada de "El buen patrón" a M+ (bajo demanda), repasamos junto al propio Javier Bardem su carrera cinematográfica desde sus primeras apariciones como una joven promesa, hasta su consolidación, la conquista de Hollywood.
 · País: España
 · Productora: Movistar+.</desc>
 	</programme>
-	<programme start="20251211060500 +0100" stop="20251211064500 +0100" channel="M+ Cine Español">
+	<programme start="20251211060700 +0100" stop="20251211064500 +0100" channel="M+ Cine Español">
     <title>San Diego Comic-Con Málaga: Los héroes nos visitan</title>
     <desc>Entretenimiento | 2025 | TP | ★6.0/10
 · Por primera vez en Europa, la San Diego Comic Con se celebra en Málaga. Actores, ilustradores, fans y cosplayers se dan cita en un evento único que rinde homenaje al cine fantástico, los cómics, los videojuegos y la cultura pop.
@@ -4136,6 +3962,162 @@
 · Producción: Luke Eve, María Albiñana.
 · Productora: More Sauce Productions, EOC Producciones Cinematográficas.</desc>
 	</programme>
+	<programme start="20251212053000 +0100" stop="20251212072000 +0100" channel="M+ Cine Español">
+    <title>Barcelona, noche de invierno</title>
+    <desc>Cine,Comedia romántica | 2015 | ⑦ | ★7.6/10
+· Tras el fenómeno de "Barcelona, noche de verano", llega esta secuela, en la que nos reencontraremos con algunos de los personajes favoritos de la primera entrega viviendo otro capítulo de sus peculiares romances durante una mágica noche de Reyes.
+· País: España
+· Dirección: Dani de la Orden.
+· Reparto: Miki Esparbé, Bárbara Santa-Cruz, Alberto San Juan, Alexandra Jiménez, Àlex Monner, Berto Romero.
+· Guion: Daniel González, Eric Navarro, Eduard Solà.
+· Música: Joan Dausà.
+· Producción: Dani de la Orden, Kike Maíllo, Andreu Buenafuente, Bernat Saumell.
+· Productora: Sábado Películas, El Terrat, Playtime Movies, Televisió de Catalunya (TV3).</desc>
+	</programme>
+	<programme start="20251212072000 +0100" stop="20251212090000 +0100" channel="M+ Cine Español">
+    <title>¿Qué he hecho yo para merecer esto?</title>
+    <desc>Cine,Comedia dramática | 1984 | ⑫ | ★6.4/10
+· Gloria trabaja de asistenta, además de cuidar de su casa y de su familia. Los cuarenta metros cuadrados de vivienda los comparte con su marido taxista, su suegra, dos hijos macarras y un lagarto. No es una mujer feliz.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Carmen Maura, Verónica Forqué, Chus Lampreave, Kiti Mánver, Ángel de Andrés López, Gonzalo Suárez, Luis Hostalot.
+· Guion: Pedro Almodóvar.
+· Música: Bernardo Bonezzi.
+· Producción: Herve Hachuel.
+· Productora: Kaktus Producciones Cinematograficas S.A., Tesauro.</desc>
+	</programme>
+	<programme start="20251212090000 +0100" stop="20251212104000 +0100" channel="M+ Cine Español">
+    <title>Alegre ma non troppo</title>
+    <desc>Cine,Comedia | 1994 | ⑯ | ★6.0/10
+· Un joven veinteañero homosexual tiene tres deseos en la vida: ser músico, agradar a su madre y encontrar al chico de su vida. Tras una crisis sentimental motivada por la ruptura con su novio, intenta ingresar como trompa en la Joven Orquesta Nacional.
+· País: España
+· Dirección: Fernando Colomo.
+· Reparto: Penélope Cruz, Pere Ponce, Óscar Ladoire, Rosa Maria Sardà, Jordi Mollà, Nathalie Seseña.
+· Guion: Fernando Colomo, Joaquim Oristrell.
+· Música: Aleksandr Borodin, Edmon Colomer.
+· Producción: Fernando Colomo.
+· Productora: Fernando Colomo Producciones Cinematográficas, S.L., Antena 3 Televisión.</desc>
+	</programme>
+	<programme start="20251212104000 +0100" stop="20251212123000 +0100" channel="M+ Cine Español">
+    <title>Sobreviviré</title>
+    <desc>Cine,Drama | 1999 | ⑯ | ★6.8/10
+· Marga trabaja en publicidad, tiene un novio que la quiere y está embarazada. Su vida está llena de planes, que se ven truncados cuando su novio fallece y ella pierde su trabajo. Es entonces cuando Iñaki, un joven escultor homosexual, entra en su vida.
+· País: España
+· Dirección: Alfonso Albacete, David Menkes.
+· Reparto: Emma Suárez, Juan Diego Botto, Rosana Pastor, Mirta Ibarra, Manuel Manquiña, Maite Blasco, Àlex Brendemühl, Adrià Collado.
+· Guion: Alfonso Albacete, David Menkes, Lucía Etxebarría.
+· Música: Paco Ortega.
+· Productora: Antena 3 Televisión, Aurum Producciones S.A., El Paso Producciones Cinematográficas S.L..</desc>
+	</programme>
+	<programme start="20251212123000 +0100" stop="20251212141000 +0100" channel="M+ Cine Español">
+    <title>Muy lejos</title>
+    <desc>Cine,Drama | 2025 | ⑫ | ★7.0/10
+· Sergio viaja a Utrecht para asistir a un partido de fútbol. Antes de coger el vuelo de regreso, sufre un ataque de ansiedad y decide quedarse en Holanda. Incapaz de dar una explicación a los suyos, corta el contacto y comienza una nueva vida.
+· País: España y Países Bajos
+· Dirección: Gerard Oms.
+· Reparto: Mario Casas, David Verdaguer, Ilyass El Ouahdani, Jetty Mathurin, Hanneke van der Paardt, Raúl Prieto, Nausicaa Bonnín, Albert Baró, Achraf Koutet, Daniel Medrán.
+· Guion: Gerard Oms.
+· Música: Sílvia Pérez Cruz.
+· Producción: Carles Torras, Sergio Adrià.
+· Productora: Zabriskie Films, Revolver Amsterdam, Radio Televisión Española (RTVE), Crea SGR, 3Cat.</desc>
+	</programme>
+	<programme start="20251212141000 +0100" stop="20251212160000 +0100" channel="M+ Cine Español">
+    <title>Carmen y Lola</title>
+    <desc>Cine,Drama | 2018 | ⑫ | ★8.0/10
+· Carmen y Lola son dos jóvenes gitanas. Carmen está a punto de casarse; a Lola, una chica independiente que sólo quiere estudiar, su padre le insiste en que encuentre un buen marido gitano. Un día, las dos chicas coinciden vendiendo en un mercadillo.
+· País: España
+· Dirección: Arantxa Echevarría.
+· Reparto: Zaira Morales, Rosy Rodríguez, Moreno Borja, Rafaela León, Carolina Yuste, Lucas Heredia, Jacqueline Jiménez.
+· Guion: Arantxa Echevarría.
+· Música: Nina Aranda.
+· Producción: Arantxa Echevarría, Pilar Sánchez Díaz.
+· Productora: Tvtec servicios audiovisuales.</desc>
+	</programme>
+	<programme start="20251212160000 +0100" stop="20251212163500 +0100" channel="M+ Cine Español">
+    <title>Extraña forma de vida</title>
+    <desc>Cine,Oeste | 2023 | ⑫ | ★6.2/10
+· Hace veinticinco años, el 'sheriff' Jake y el vaquero Silva vivieron unos días cargados de deseo y sensualidad. Sin embargo, el motivo de este encuentro no es solo revivir su pasado.
+· País: España
+· Dirección: Pedro Almodóvar.
+· Reparto: Pedro Pascal, Ethan Hawke, Manu Ríos.
+· Guion: Pedro Almodóvar.
+· Música: Alberto Iglesias.
+· Productora: El Deseo.</desc>
+	</programme>
+	<programme start="20251212163500 +0100" stop="20251212184500 +0100" channel="M+ Cine Español">
+    <title>Campeonex</title>
+    <desc>Cine,Comedia | 2023 | TP | ★6.6/10
+· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
+· País: España
+· Dirección: Javier Fesser.
+· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser.
+· Guion: David Marqués, Javier Fesser, Athenea Mata.
+· Música: Rafael Arnau.
+· Producción: Javier Fesser, Álvaro Longoria, Luis Manso.
+· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L.</desc>
+	</programme>
+	<programme start="20251212184500 +0100" stop="20251212202000 +0100" channel="M+ Cine Español">
+    <title>Manolito Gafotas</title>
+    <desc>Cine,Comedia | 1999 | TP | ★7.6/10
+· A Manolo García Moreno, de Carabanchel Alto, Madrid, todo el mundo lo conoce como Manolito Gafotas. Manolito espera con ilusión la llegada de su padre, camionero, ya que espera poder empezar a conocer el que será su medio de ganarse la vida en el futuro.
+· País: España
+· Dirección: Miguel Albaladejo.
+· Reparto: David Sánchez del Rey, Adriana Ozores, Roberto Álvarez, Antonio Gamero, Fedra Lorente, Alejandro Martínez.
+· Guion: Elvira Lindo, Miguel Albaladejo.
+· Música: Lucio Godoy.
+· Producción: Julio Fernández, Miguel Ángel González.
+· Productora: Filmax.</desc>
+	</programme>
+	<programme start="20251212202000 +0100" stop="20251212220000 +0100" channel="M+ Cine Español">
+    <title>Semos peligrosos (usease Makinavaja 2)</title>
+    <desc>Cine,Comedia | 1993 | ⑱ | ★6.6/10
+· Maki acaba de salir de prisión y al poco tiempo de estar en la calle, va al encuentro de Popeye, su fiel amigo, ahora convertido en banquero.
+· País: España
+· Dirección: Carlos Suárez.
+· Reparto: Andrés Pajares, Jesús Bonilla, Mario Pardo, Pedro Reyes.
+· Guion: Carlos Suárez.
+· Música: Suburbano.
+· Productora: Dos Ocho Cine S.L.</desc>
+	</programme>
+	<programme start="20251212220000 +0100" stop="20251212234500 +0100" channel="M+ Cine Español">
+    <title>Los 2 lados de la cama · Los dos lados de la cama</title>
+    <desc>Cine,Comedia | 2005 | ⑫ | ★6.2/10
+· Dos amigos se sorprenden cuando sus novias revelan que están enamoradas la una de la otra.
+· País: España
+· Dirección: Emilio Martínez-Lázaro.
+· Reparto: Ernesto Alterio, Willy Toledo, Alberto San Juan, María Esteve, Pilar Castro, Lucía Jiménez, Guillermo Toledo, Secun de la Rosa, Juana Acosta, Verónica Sánchez, Luis Bermejo, Diego París, Maite Pastor, Roberto Álamo.
+· Guion: David Serrano.
+· Música: Roque Baños.
+· Producción: Tomás Cimadevilla.
+· Productora: Impala, Estudios Picasso, Telecinco, Canal+, Telespan 2000 S.L.</desc>
+	</programme>
+	<programme start="20251212234500 +0100" stop="20251213003500 +0100" channel="M+ Cine Español">
+    <title>Creadoras</title>
+    <desc>Cine,Programa de cine | 2022 | TP | ★6.2/10
+· Cine y series hecho por mujeres vive un gran momento. Dice la leyenda que hay un talismán, pero al hablar con Carla Simón, Arantxa Echevarría, Leticia Dolera, Natalia de Molina o Anna R. Costa, la cosa no parece que vaya de talismanes. Ahí lo dejamos.
+· País: España</desc>
+	</programme>
+	<programme start="20251213003500 +0100" stop="20251213023500 +0100" channel="M+ Cine Español">
+    <title>Soy Nevenka</title>
+    <desc>Cine,Drama | 2024 | ⑫ | ★6.8/10
+· Año 2000, Nevenka Fernández, de 24 años, concejala del Ayuntamiento de Ponferrada, sufre una persecución despiadada, en lo sentimental y en lo profesional, por parte del alcalde, Ismael Álvarez, acostumbrado a hacer su voluntad en cualquier ámbito.
+· País: España
+· Dirección: Icíar Bollaín.
+· Reparto: Mireia Oriol, Urko Olazabal, Lucía Veiga.
+· Guion: Isa Campo, Icíar Bollaín.
+· Productora: Feelgood Media.</desc>
+	</programme>
+	<programme start="20251213023500 +0100" stop="20251213042000 +0100" channel="M+ Cine Español">
+    <title>Blancanieves</title>
+    <desc>Cine,Drama | 2012 | TP | ★6.2/10
+· Blancanieves es Carmen, una bella joven con una infancia atormentada por su terrible madrastra, Encarna. Huyendo de su pasado, Carmen emprende un apasionante viaje acompañada por sus nuevos amigos: una 'troupe' de enanos toreros.
+· País: España y Francia
+· Dirección: Pablo Berger.
+· Reparto: Macarena García, Maribel Verdú, Daniel Giménez Cacho, Ángela Molina, Pere Ponce, Inma Cuesta, Josep Maria Pou, Sofía Oria.
+· Guion: Pablo Berger.
+· Música: Alfonso de Vilallonga.
+· Productora: Arcadia Motion Pictures, Noodles Production, Nix Films.</desc>
+	</programme>
 	<programme start="20251205062500 +0100" stop="20251205065000 +0100" channel="Disney Junior">
     <title>La Guardia del León T1 E10 · La búsqueda de Utamu</title>
     <desc>Infantil,Dibujos animados | 2016 | TP | ★6.2/10
@@ -4147,7 +4129,7 @@
 	</programme>
 	<programme start="20251205065000 +0100" stop="20251205071500 +0100" channel="Disney Junior">
     <title>SuperKitties T1 E5 · Toma balón / Zsa-Zsa zoom</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
 · Ginny sufre una herida y Sparks, Buddy y Bitsy tienen que aprender a trabajar en equipo sin ella. Los SuperKitties ayudan a Peanut a recuperar el juguete de Nadia que Zsa-Zsa le ha robado.
 · País: Estados Unidos
 · Dirección: Chad Van De Keere.
@@ -4263,7 +4245,7 @@
 	</programme>
 	<programme start="20251205104500 +0100" stop="20251205111500 +0100" channel="Disney Junior">
     <title>Disney Junior Ariel T1 E19 · El Día de Aventuras de Padres e Hijas / Cuevas Marinas del Arcoíris</title>
-    <desc>Infantil,Serie infantil | 2024 | TP | ★6.2/10
+    <desc>Infantil,Serie infantil | 2024 | TP | ★6.0/10
 · Ariel y Tritón pasan juntos el Día de Aventuras de Padres e Hijas. Ariel explora las Cuevas Marinas del Arcoíris.
 · País: Estados Unidos</desc>
 	</programme>
@@ -5174,7 +5156,7 @@
 	</programme>
 	<programme start="20251206214500 +0100" stop="20251206221000 +0100" channel="Disney Junior">
     <title>¡Cachorros a la obra! T2 E10 · Cachorros guardacostas / La gran construcción del bebé</title>
-    <desc>Infantil,Dibujos animados | 2023 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2023 | TP | ★6.0/10
 · Un barco encalla y los cachorros deben construirle a la guardia costera de Animalia un barco de rescate más grande. Los cachorros deben construir un hogar más grande para una cachorra.
 · País: Estados Unidos</desc>
 	</programme>
@@ -7493,7 +7475,7 @@
 	</programme>
 	<programme start="20251210211500 +0100" stop="20251210214500 +0100" channel="Disney Junior">
     <title>SuperKitties T1 E5 · Toma balón / Zsa-Zsa zoom</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
 · Ginny sufre una herida y Sparks, Buddy y Bitsy tienen que aprender a trabajar en equipo sin ella. Los SuperKitties ayudan a Peanut a recuperar el juguete de Nadia que Zsa-Zsa le ha robado.
 · País: Estados Unidos
 · Dirección: Chad Van De Keere.
@@ -7738,7 +7720,7 @@
 	</programme>
 	<programme start="20251211080000 +0100" stop="20251211080500 +0100" channel="Disney Junior">
     <title>Bluey T2 E11 · Peluqueras</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.2/10
 · ¡Las peluqueras Bluey y Bingo descubren que su cliente Bert el Guapo tiene piojos!
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -7816,7 +7798,7 @@
 	</programme>
 	<programme start="20251211103000 +0100" stop="20251211103500 +0100" channel="Disney Junior">
     <title>Bluey T2 E11 · Peluqueras</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.2/10
 · ¡Las peluqueras Bluey y Bingo descubren que su cliente Bert el Guapo tiene piojos!
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -7898,7 +7880,7 @@
 	</programme>
 	<programme start="20251211131500 +0100" stop="20251211132500 +0100" channel="Disney Junior">
     <title>Bluey T2 E11 · Peluqueras</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.2/10
 · ¡Las peluqueras Bluey y Bingo descubren que su cliente Bert el Guapo tiene piojos!
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -7993,7 +7975,7 @@
 	</programme>
 	<programme start="20251211163500 +0100" stop="20251211164500 +0100" channel="Disney Junior">
     <title>Bluey T2 E11 · Peluqueras</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.2/10
 · ¡Las peluqueras Bluey y Bingo descubren que su cliente Bert el Guapo tiene piojos!
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -8084,7 +8066,7 @@
 	</programme>
 	<programme start="20251211201000 +0100" stop="20251211202000 +0100" channel="Disney Junior">
     <title>Bluey T2 E11 · Peluqueras</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.2/10
 · ¡Las peluqueras Bluey y Bingo descubren que su cliente Bert el Guapo tiene piojos!
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -9261,7 +9243,7 @@
 	</programme>
 	<programme start="20251207054400 +0100" stop="20251207055600 +0100" channel="Nickelodeon">
     <title>Los Wylde Pak T2 E8 · Dubu</title>
-    <desc>Infantil,Dibujos animados | 2023 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2023 | TP | ★7.0/10
 · Halmoni se enamora de un perro, lo secuestra y se da a la fuga.
 · País: Estados Unidos</desc>
 	</programme>
@@ -9934,7 +9916,7 @@
 	</programme>
 	<programme start="20251208155600 +0100" stop="20251208162600 +0100" channel="Nickelodeon">
     <title>Bob Esponja T13 E1 · Un lugar para las mascotas.; Preso del amor</title>
-    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.2/10
+    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
 · El señor Cangrejo se da cuenta de que las mascotas consumen mucho más que sus dueños. Karen cierra el cubo de cebo.
 · País: Estados Unidos
 · Dirección: Vincent Waller, Dave Cunningham.
@@ -10011,7 +9993,7 @@
 	</programme>
 	<programme start="20251208195500 +0100" stop="20251208202400 +0100" channel="Nickelodeon">
     <title>Equipo Danger T3 E5 · Miles Vende Su Alma</title>
-    <desc>Series,Serie juvenil | 2022 | ⑦ | ★6.2/10
+    <desc>Series,Serie juvenil | 2022 | ⑦ | ★6.0/10
 · Miles vende su alma a un diablo afable para ayudar a Mika a derrotar a su rival en un enfrentamiento.
 · País: Estados Unidos
 · Dirección: Mike Caron.
@@ -10164,7 +10146,9 @@
 	<programme start="20251209024400 +0100" stop="20251209030900 +0100" channel="Nickelodeon">
     <title>Max y Ruby T1 E6 · La medalla al merito de Ruby / La manzana de Max / ¡Tranquilo Max!</title>
     <desc>Infantil,Preescolar | 2002 | TP | ★6.6/10
-· Max y Ruby son dos hermanos conejos de 3 y 7 años a los que les gusta vivir nuevas aventuras con sus juegos.</desc>
+· Max y Ruby son dos hermanos conejos de 3 y 7 años a los que les gusta vivir nuevas aventuras con sus juegos.
+· País: Canadá
+· Dirección: Jamie Whitney, Mauro Casalese.</desc>
 	</programme>
 	<programme start="20251209030900 +0100" stop="20251209033100 +0100" channel="Nickelodeon">
     <title>Superliga Bunny T2 E2 · Los tíos guais del espacio exterior / Leyenda del Salsa-Squatch</title>
@@ -10716,13 +10700,13 @@
 · Dirección: Simon Pike, Jacinth Tan Yi Ting.</desc>
 	</programme>
 	<programme start="20251210042100 +0100" stop="20251210042800 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E1 · Sharks, Dogs and Sharkdogs</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.6/10
+    <title>Tibucán T3 E1 · Tiburones, canes y tibucanes</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.4/10
 · Tibucán, en honor a su nombre, es mitad tiburón, mitad perro, y su comida favorita son los palitos de pescado. Tibucán, que es muy bueno, va acompañado de Max, un niño que vive con él aventuras, a veces, caóticas.
 · Dirección: S' Cephas.</desc>
 	</programme>
 	<programme start="20251210042800 +0100" stop="20251210043500 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E2 · Sharkdoggy Day</title>
+    <title>Tibucán T3 E2 · El Día de</title>
     <desc>Infantil,Dibujos animados | 2022 | TP
 · Max planea un día divertido para Tibucán, pero este se distrae cuando encuentra un mapa que podría llevarlo a encontrar más tibucanes.
 · Dirección: S' Cephas.</desc>
@@ -11192,7 +11176,7 @@
 	</programme>
 	<programme start="20251211024200 +0100" stop="20251211030300 +0100" channel="Nickelodeon">
     <title>Max y la pandilla medieval T3 E2 · Un caballero inquieto. Segunda parte</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.6/10
 · Cuando los gnomos de Tresk son secuestrados por un misterioso villano, Max y los Centauros se ofrecen a rescatarlos, pero sus planes se complican al descubrir que no todos comparten su entusiasmo por la misión.
 · País: Estados Unidos
 · Dirección: David Skelly, Kirk Thatcher.
@@ -11225,19 +11209,19 @@
 · Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
 	</programme>
 	<programme start="20251211041400 +0100" stop="20251211042100 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E3 · Fins That Go Bump in the Night</title>
+    <title>Tibucán T3 E3 · Cosas que asustan</title>
     <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Cuando Max y sus amigos creen que un monstruo quiere aguarles la fiesta de pijamas, Max ofrece al valiente Tibucán para investigar.
 · Dirección: S' Cephas.</desc>
 	</programme>
 	<programme start="20251211042100 +0100" stop="20251211042800 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E4 · Gnome is Where the Art is</title>
+    <title>Tibucán T3 E4 · Gnomos con arte</title>
     <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Tibucán está desesperado por ayudar al Sr. Heubel con su proyecto de arte, pero no hay manera.
 · Dirección: S' Cephas.</desc>
 	</programme>
 	<programme start="20251211042800 +0100" stop="20251211043500 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E5 · News Hounds</title>
+    <title>Tibucán T3 E5 · Cazadores de noticias</title>
     <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Cuando Tibucán y Max borran el último reportaje de mamá, deciden volver a grabarlo ellos mismos.
 · Dirección: S' Cephas.</desc>
@@ -11693,14 +11677,14 @@
 	</programme>
 	<programme start="20251212020000 +0100" stop="20251212022000 +0100" channel="Nickelodeon">
     <title>Sonic Prime T1 E9 · Evita el vacío</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Shadow le tiende una emboscada a Sonic en el Vacío del Nuevoverso para reprocharle a su rival la destrucción de Green Hill.
 · País: Canadá
 · Dirección: Erik Wiese.</desc>
 	</programme>
 	<programme start="20251212022000 +0100" stop="20251212024200 +0100" channel="Nickelodeon">
     <title>Max y la pandilla medieval T2 E3 · Una Millie totalmente malévola</title>
-    <desc>Infantil,Dibujos animados | 2024 | TP
+    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.0/10
 · Max recupera su energía para encontrar al rey Conrad y salvar Byjovia, pero la misión de los Centauros se ve interrumpida por un niño atrapado en una torre. Mientras tanto, Millie lidia con las consecuencias de haber utilizado la magia oscura.
 · País: Estados Unidos
 · Dirección: David Skelly, Kirk Thatcher.
@@ -11708,7 +11692,7 @@
 	</programme>
 	<programme start="20251212024200 +0100" stop="20251212030300 +0100" channel="Nickelodeon">
     <title>Max y la pandilla medieval T2 E4 · Fendras y Enemigas</title>
-    <desc>Infantil,Dibujos animados | 2024 | TP
+    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.0/10
 · Max y los Centauros continuan su misión y Mumblín reaparece con noticias sorprendentes. El mago les revela la verdad sobre la desaparición del rey Conrad. Descubren que la mayor amenaza para Byjovia está incluso más cerca de lo que imaginaban.
 · País: Estados Unidos
 · Dirección: John Stevenson, David Skelly.
@@ -11750,20 +11734,20 @@
 · Dirección: Simon Pike.</desc>
 	</programme>
 	<programme start="20251212041400 +0100" stop="20251212042100 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E6 · Sharkdog VS Sharkdog</title>
+    <title>Tibucán T3 E6 · contra</title>
     <desc>Infantil,Dibujos animados | 2022 | TP
 · Cuando Tibucán se cansa de que Mia lo estruje, le compra un juguete de Tibucán, pero se pone celoso de la atención que le presta.
 · Dirección: S' Cephas.</desc>
 	</programme>
 	<programme start="20251212042100 +0100" stop="20251212042800 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E7 · All Mapped Out</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP
+    <title>Tibucán T3 E7 · El mapa de la isla</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Max descubre parte del mapa de la isla secreta, por lo que intentan descubrir el resto.
 · Dirección: S' Cephas.</desc>
 	</programme>
 	<programme start="20251212042800 +0100" stop="20251212043500 +0100" channel="Nickelodeon">
-    <title>Tibucán T3 E8 · Sharkdog on Ice</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP
+    <title>Tibucán T3 E8 · sobre hielo</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Cuando Olly descubre que tiene que patinar sobre hielo en el baile del colegio, le pide ayuda a Tibucán.
 · Dirección: S' Cephas.</desc>
 	</programme>
