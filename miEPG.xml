@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/02/2026 11:45" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/02/2026 12:02" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Neox">
     <display-name>Neox</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
@@ -152,7 +152,7 @@
 · Producción: David Gale, Martha Griffin, Gregory Goodman.
 · Productora: Paramount Pictures, Lakeshore Entertainment, MTV Films.</desc>
 	</programme>
-	<programme start="20260208184000 +0100" stop="20260208201000 +0100" channel="Neox">
+	<programme start="20260208184000 +0100" stop="20260208201400 +0100" channel="Neox">
     <title>Dredd</title>
     <desc>Cine,Ciencia ficción | 2012 | ⑯ | ★7.0/10
 · En un futuro cercano, Norteamérica es un páramo asolado por la radiación con una única y gran megalópolis que se extiende a lo largo de su costa este: Mega City Uno. Esta gran y violenta urbe cuenta con más de 400 millones de personas.
@@ -164,7 +164,7 @@
 · Producción: Alex Garland, Andrew MacDonald.
 · Productora: DNA Films, IM Global, Peach Trees.</desc>
 	</programme>
-	<programme start="20260208201000 +0100" stop="20260208220500 +0100" channel="Neox">
+	<programme start="20260208201400 +0100" stop="20260208220500 +0100" channel="Neox">
     <title>Ninja 2: la sombra de la muerte</title>
     <desc>Cine,Acción | 2013 | ⑯ | ★6.2/10
 · Casey Bowen, maestro de artes marciales, con la ayuda de su amigo Nakabara, no descansará hasta encontrar a los responsables de la muerte de su mujer.
@@ -1556,7 +1556,7 @@
 	</programme>
 	<programme start="20260208100000 +0100" stop="20260208110000 +0100" channel="Mega">
     <title>Frontón</title>
-    <desc>Deportes,Programa deportes | ★5.8/10
+    <desc>Deportes,Programa deportes | ★6.0/10
 · Espacio deportivo que emite distintos partidos de pelota vasca, juego que consistente en impulsar una pelota contra una pared frontal por medio de la mano, desnuda o con la ayuda de un instrumento(palo o cesta).
 · País: España</desc>
 	</programme>
@@ -1801,7 +1801,7 @@
 	</programme>
 	<programme start="20260209191500 +0100" stop="20260209194000 +0100" channel="Mega">
     <title>La casa de empeños</title>
-    <desc>Documentales,Historia | 2016 | ⑦ | ★6.6/10
+    <desc>Documentales,Historia | 2016 | ⑦ | ★6.4/10
 · Un tren en miniatura que perteneció a Johnny Cash entra resoplando en la tienda.
 · País: Estados Unidos
 · Dirección: Liz Niles.
@@ -1809,7 +1809,7 @@
 	</programme>
 	<programme start="20260209194000 +0100" stop="20260209200500 +0100" channel="Mega">
     <title>La casa de empeños</title>
-    <desc>Documentales,Historia | 2016 | ⑦ | ★6.6/10
+    <desc>Documentales,Historia | 2016 | ⑦ | ★6.4/10
 · Un tren en miniatura que perteneció a Johnny Cash entra resoplando en la tienda.
 · País: Estados Unidos
 · Dirección: Liz Niles.
@@ -1817,7 +1817,7 @@
 	</programme>
 	<programme start="20260209200500 +0100" stop="20260209203000 +0100" channel="Mega">
     <title>La casa de empeños</title>
-    <desc>Documentales,Historia | 2016 | ⑦ | ★6.6/10
+    <desc>Documentales,Historia | 2016 | ⑦ | ★6.4/10
 · Un tren en miniatura que perteneció a Johnny Cash entra resoplando en la tienda.
 · País: Estados Unidos
 · Dirección: Liz Niles.
@@ -1825,7 +1825,7 @@
 	</programme>
 	<programme start="20260209203000 +0100" stop="20260209205500 +0100" channel="Mega">
     <title>La casa de empeños</title>
-    <desc>Documentales,Historia | 2016 | ⑦ | ★6.6/10
+    <desc>Documentales,Historia | 2016 | ⑦ | ★6.4/10
 · Un tren en miniatura que perteneció a Johnny Cash entra resoplando en la tienda.
 · País: Estados Unidos
 · Dirección: Liz Niles.
@@ -4379,7 +4379,7 @@
 	</programme>
 	<programme start="20260208165500 +0100" stop="20260208170500 +0100" channel="Disney Junior">
     <title>Bluey T2 E50 · Pascua</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★5.8/10
 · Bingo está segura de que el Conejito de Pascua se ha olvidado de ellas.
 · País: Australia</desc>
 	</programme>
@@ -6145,7 +6145,7 @@
 	</programme>
 	<programme start="20260211123500 +0100" stop="20260211124000 +0100" channel="Disney Junior">
     <title>Bluey T2 E50 · Pascua</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2020 | TP | ★5.8/10
 · Bingo está segura de que el Conejito de Pascua se ha olvidado de ellas.
 · País: Australia</desc>
 	</programme>
@@ -6941,7 +6941,7 @@
 	</programme>
 	<programme start="20260212194000 +0100" stop="20260212195000 +0100" channel="Disney Junior">
     <title>Bluey T1 E19 · La garra</title>
-    <desc>Infantil,Dibujos animados | 2019 | TP | ★6.2/10
+    <desc>Infantil,Dibujos animados | 2019 | TP | ★6.0/10
 · Como Bluey y Bingo son incapaces de coger un regalo con la garra de la máquina, sus padres crean su propia versión en casa. Sin embargo, su padre no les va a dejar ganar fácilmente.
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -7442,7 +7442,7 @@
 	</programme>
 	<programme start="20260213151000 +0100" stop="20260213152500 +0100" channel="Disney Junior">
     <title>Iron Man y su superequipo T1 E30 · El Hombre Absorbente brilla</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.6/10
 · El Hombre Absorbente roba una gema que desvía los rayos del superequipo, obligándolos a encontrar una nueva forma de detenerlo.
 · País: Estados Unidos</desc>
 	</programme>
@@ -7542,7 +7542,7 @@
 	</programme>
 	<programme start="20260213185000 +0100" stop="20260213190000 +0100" channel="Disney Junior">
     <title>Iron Man y su superequipo T1 E30 · El Hombre Absorbente brilla</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.6/10
 · El Hombre Absorbente roba una gema que desvía los rayos del superequipo, obligándolos a encontrar una nueva forma de detenerlo.
 · País: Estados Unidos</desc>
 	</programme>
@@ -7614,7 +7614,7 @@
 	</programme>
 	<programme start="20260213210500 +0100" stop="20260213211500 +0100" channel="Disney Junior">
     <title>Iron Man y su superequipo T1 E30 · El Hombre Absorbente brilla</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.6/10
 · El Hombre Absorbente roba una gema que desvía los rayos del superequipo, obligándolos a encontrar una nueva forma de detenerlo.
 · País: Estados Unidos</desc>
 	</programme>
@@ -7814,7 +7814,7 @@
 	</programme>
 	<programme start="20260214071500 +0100" stop="20260214072000 +0100" channel="Disney Junior">
     <title>Bluey T1 E19 · La garra</title>
-    <desc>Infantil,Dibujos animados | 2019 | TP | ★6.2/10
+    <desc>Infantil,Dibujos animados | 2019 | TP | ★6.0/10
 · Como Bluey y Bingo son incapaces de coger un regalo con la garra de la máquina, sus padres crean su propia versión en casa. Sin embargo, su padre no les va a dejar ganar fácilmente.
 · País: Australia y Reino Unido
 · Guion: Tim Bain, John McGeachin.
@@ -8737,7 +8737,7 @@
 	</programme>
 	<programme start="20260209011700 +0100" stop="20260209014000 +0100" channel="Nickelodeon">
     <title>Los Thunderman: Infiltrados T2 E10 · Fiesta criminal</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★5.6/10
+    <desc>Series,Serie juvenil | 2025 | TP | ★5.8/10
 · Tras cancelar la fiesta de cumpleaños de Chloe, Max y Phoebe se pelean.
 · País: Estados Unidos
 · Dirección: Trevor Kirschner, Siobhan Devine.
@@ -8843,7 +8843,7 @@
 	</programme>
 	<programme start="20260209054500 +0100" stop="20260209055700 +0100" channel="Nickelodeon">
     <title>Los Wylde Pak T1 E6 · El Boba Get</title>
-    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.2/10
 · La tienda de té de burbujas favorita de Lil va a cerrar. Al intentar salvarla, al final se ven obligados a salvar Canyon Valley entero.
 · País: Estados Unidos
 · Dirección: Kyle Marshall, Paul Watling.</desc>
@@ -9071,7 +9071,7 @@
 	</programme>
 	<programme start="20260209163000 +0100" stop="20260209164100 +0100" channel="Nickelodeon">
     <title>Bob Esponja Single Story T16 E7</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
 · Bob vive en el fondo del océano Pacífico, en la ciudad submarina de Fondo de Bikini. La casa de Bob es una piña, donde vive con su mascota, el caracol Gary. Bob Esponja adora su trabajo como cocinero en el restaurante El Crustáceo Crujiente y posee la ha.
 · País: Estados Unidos
 · Dirección: Sherm Cohen, Dave Cunningham, Michelle Bryan, Eric Bryan.
@@ -9616,7 +9616,7 @@
 	</programme>
 	<programme start="20260210163800 +0100" stop="20260210165100 +0100" channel="Nickelodeon">
     <title>Bob Esponja Single Story T16 E7</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
 · Bob vive en el fondo del océano Pacífico, en la ciudad submarina de Fondo de Bikini. La casa de Bob es una piña, donde vive con su mascota, el caracol Gary. Bob Esponja adora su trabajo como cocinero en el restaurante El Crustáceo Crujiente y posee la ha.
 · País: Estados Unidos
 · Dirección: Sherm Cohen, Dave Cunningham, Michelle Bryan, Eric Bryan.
@@ -10138,7 +10138,7 @@
 	</programme>
 	<programme start="20260211162700 +0100" stop="20260211163800 +0100" channel="Nickelodeon">
     <title>Bob Esponja Single Story T16 E11</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★4.6/10
 · Bob vive en el fondo del océano Pacífico, en la ciudad submarina de Fondo de Bikini. La casa de Bob es una piña, donde vive con su mascota, el caracol Gary. Bob Esponja adora su trabajo como cocinero en el restaurante El Crustáceo Crujiente y posee la ha.
 · País: Estados Unidos
 · Dirección: Dave Cunningham, Michelle Bryan, Ian Vazquez, Eric Bryan.
@@ -10420,7 +10420,7 @@
 	</programme>
 	<programme start="20260212044500 +0100" stop="20260212050000 +0100" channel="Nickelodeon">
     <title>Bob Esponja Single Story T15 E27</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★2.0/10
 · Bob es una simpática esponja de mar que vive en una piña de dos pisos en el fondo del Pacífico junto a su mejor amigo, una estrella de mar llamada Patricio. Para ganarse la vida, nuestro protagonista cocina hamburguesas en el Krusty Crab.
 · País: Estados Unidos
 · Dirección: Dave Cunningham, Michelle Bryan, Ian Vazquez, Eric Bryan.
@@ -11473,7 +11473,7 @@
 	</programme>
 	<programme start="20260214044500 +0100" stop="20260214050000 +0100" channel="Nickelodeon">
     <title>Bob Esponja Single Story T16 E9</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★10.0/10
 · Bob vive en el fondo del océano Pacífico, en la ciudad submarina de Fondo de Bikini. La casa de Bob es una piña, donde vive con su mascota, el caracol Gary. Bob Esponja adora su trabajo como cocinero en el restaurante El Crustáceo Crujiente y posee la ha.
 · País: Estados Unidos
 · Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez.
