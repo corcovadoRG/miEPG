@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/02/2026 11:53" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 21/02/2026 11:44" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Neox">
     <display-name>Neox</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
@@ -5708,7 +5708,7 @@
 	</programme>
 	<programme start="20260222121000 +0100" stop="20260222123500 +0100" channel="Disney Junior">
     <title>Iron Man y su superequipo T1 E7 · Una Navidad del superequipo / Frío como el hielo</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.2/10
 · Cuando Ultrón roba todos los regalos, el superequipo debe salvar la Navidad. Aña y Tony se dirigen al Festival de Invierno, pero el Hombre Absorbente congela todo el evento.
 · País: Estados Unidos</desc>
 	</programme>
@@ -6793,7 +6793,7 @@
 · Productora: Walt Disney Television Animation, Mercury Filmworks.</desc>
 	</programme>
 	<programme start="20260224065000 +0100" stop="20260224071500 +0100" channel="Disney Junior">
-    <title>SuperKitties T1 E6 · El problema con la gastroneta de galletas / Láser saltarín</title>
+    <title>SuperKitties T1 E6 · Problema alimentario / Láser saltarín</title>
     <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · Los SuperKitties deben evitar que Sr. Zarpazos convierta todos los alimentos de los animales en comida para perros. Buddy rompe sin querer el kit SuperKitty de Sparks y no se lo cuenta.
 · País: Estados Unidos
@@ -7857,7 +7857,7 @@
 	</programme>
 	<programme start="20260225205000 +0100" stop="20260225211500 +0100" channel="Disney Junior">
     <title>Iron Man y su superequipo T1 E5 · Truco o trato del superequipo/Saltando al otoño</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.2/10
 · Amadeus se disfraza de robot en Halloween, pero tiene problemas pidiendo chuches. Enjambre roba todas las calabazas y el equipo debe recuperarlas.
 · País: Estados Unidos</desc>
 	</programme>
@@ -8414,7 +8414,7 @@
 	</programme>
 	<programme start="20260226183500 +0100" stop="20260226190000 +0100" channel="Disney Junior">
     <title>Iron Man y su superequipo T1 E5 · Truco o trato del superequipo/Saltando al otoño</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.2/10
 · Amadeus se disfraza de robot en Halloween, pero tiene problemas pidiendo chuches. Enjambre roba todas las calabazas y el equipo debe recuperarlas.
 · País: Estados Unidos</desc>
 	</programme>
@@ -8918,7 +8918,7 @@
 	</programme>
 	<programme start="20260220183000 +0100" stop="20260220184100 +0100" channel="Nickelodeon">
     <title>Los Wylde Pak T2 E15 · Chuseok de verano</title>
-    <desc>Infantil,Dibujos animados | 2026 | TP | ★6.8/10
+    <desc>Infantil,Dibujos animados | 2026 | TP | ★6.4/10
 · Para evitar ir al dentista, Lily insiste en celebrar el Chuseok de otoño en verano.
 · País: Estados Unidos
 · Dirección: Ari Castleton, Bert Youn, Bosook Coburn.
@@ -8976,7 +8976,7 @@
 	</programme>
 	<programme start="20260220205900 +0100" stop="20260220212800 +0100" channel="Nickelodeon">
     <title>iCarly T2 E20 · Todos queremos la taquilla 239</title>
-    <desc>Series,SIN CLASIFICAR | 2007 | TP | ★6.4/10
+    <desc>Series,Serie juvenil | 2007 | TP | ★6.4/10
 · Sam y Freddie deben compartir la mejor taquilla del colegio después de que ambos ganen un concurso para conseguirla.
 · País: Estados Unidos
 · Dirección: Steve Hoefer, Adam Weissman, David Kendall.
@@ -10437,7 +10437,7 @@
 	</programme>
 	<programme start="20260223184000 +0100" stop="20260223185800 +0100" channel="Nickelodeon">
     <title>Los Wylde Pak T2 E15 · Chuseok de verano</title>
-    <desc>Infantil,Dibujos animados | 2026 | TP | ★6.8/10
+    <desc>Infantil,Dibujos animados | 2026 | TP | ★6.4/10
 · Para evitar ir al dentista, Lily insiste en celebrar el Chuseok de otoño en verano.
 · País: Estados Unidos
 · Dirección: Ari Castleton, Bert Youn, Bosook Coburn.
@@ -10485,7 +10485,7 @@
 	</programme>
 	<programme start="20260223210200 +0100" stop="20260223213000 +0100" channel="Nickelodeon">
     <title>iCarly T2 E23 · Premios</title>
-    <desc>Series,SIN CLASIFICAR | 2009 | TP | ★6.4/10
+    <desc>Series,Serie juvenil | 2009 | TP | ★6.4/10
 · Carly, Sam y Freddie presentan los Premios iCarly a los mejores contenidos generados por los usuarios.
 · País: Estados Unidos
 · Dirección: Steve Hoefer, Adam Weissman.
@@ -11021,7 +11021,7 @@
 	</programme>
 	<programme start="20260224210200 +0100" stop="20260224213000 +0100" channel="Nickelodeon">
     <title>iCarly T2 E24 · Gemelas</title>
-    <desc>Series,SIN CLASIFICAR | 2007 | TP | ★6.4/10
+    <desc>Series,Serie juvenil | 2007 | TP | ★6.4/10
 · Freddie intenta demostrar que Melanie, la hermana gemela de Sam, es Sam disfrazada.
 · País: Estados Unidos
 · Dirección: Steve Hoefer, Adam Weissman, Russ Reinsel.
@@ -11197,7 +11197,7 @@
 	</programme>
 	<programme start="20260225044500 +0100" stop="20260225050000 +0100" channel="Nickelodeon">
     <title>Bob Esponja Single Story T16 E4</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.6/10
 · Bob vive en el fondo del océano Pacífico, en la ciudad submarina de Fondo de Bikini. La casa de Bob es una piña, donde vive con su mascota, el caracol Gary. Bob Esponja adora su trabajo como cocinero en el restaurante El Crustáceo Crujiente y posee la ha.
 · País: Estados Unidos
 · Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez, Adam Paloian.
@@ -11441,7 +11441,7 @@
 	</programme>
 	<programme start="20260225154300 +0100" stop="20260225161000 +0100" channel="Nickelodeon">
     <title>Patricio es la estrella T2 E2 · Superestrellas; Museo visto y no visto</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★5.8/10
 · En un universo alternativo, la familia Estrella forma un equipo de superhéroes. Cecil trabaja en un museo de arte.
 · País: Estados Unidos
 · Dirección: Sean Dempsey, Alex S. Conaway.
@@ -11557,7 +11557,7 @@
 	</programme>
 	<programme start="20260225210200 +0100" stop="20260225213000 +0100" channel="Nickelodeon">
     <title>iCarly T2 E26 · se enfrenta a Dingo</title>
-    <desc>Series,SIN CLASIFICAR | 2007 | TP | ★6.2/10
+    <desc>Series,Serie juvenil | 2007 | TP | ★6.2/10
 · El equipo de iCarly se enfrenta a los guionistas de Dingo Studio por robarles las ideas de su programa.
 · País: Estados Unidos
 · Dirección: Steve Hoefer, Adam Weissman, David Kendall.
@@ -12088,7 +12088,7 @@
 	</programme>
 	<programme start="20260226210200 +0100" stop="20260226213000 +0100" channel="Nickelodeon">
     <title>iCarly T2 E27 · Carly descubre que se besaron</title>
-    <desc>Series,SIN CLASIFICAR | 2009 | TP | ★6.2/10
+    <desc>Series,Serie juvenil | 2009 | TP | ★6.2/10
 · Sam revela que ella y Freddie se besaron en secreto. Spencer organiza una clase de arte para convictos.
 · País: Estados Unidos
 · Dirección: Steve Hoefer, Adam Weissman, Steve Holland.
