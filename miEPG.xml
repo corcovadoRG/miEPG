@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/08/2026 12:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 03/08/2026 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Neox">
     <display-name>Neox</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
@@ -16,205 +16,6 @@
     <display-name>Nickelodeon</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" />
   </channel>
-	<programme start="20260802110500 +0200" stop="20260802113000 +0200" channel="Neox">
-    <title>Friends T7 E15 · El del nuevo cerebro de Joey</title>
-    <desc>Series,Comedia | 2001 | TP | ★6.4/10
-· El personaje de Joey en un culebrón matinal se vuelve más importante cosa que molesta a la diva del programa. Phoebe y Rachel discuten por quién debería devolverle el teléfono al guaperas que ha perdido el móvil.
-· País: Estados Unidos
-· Dirección: Kevin S. Bright.
-· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Susan Sarandon, Elliott Gould.
-· Música: Michael Skloff.
-· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
-	</programme>
-	<programme start="20260802113000 +0200" stop="20260802115500 +0200" channel="Neox">
-    <title>Friends T7 E16 · El de la verdad sobre Londres</title>
-    <desc>Series,Comedia | 2001 | TP | ★6.8/10
-· Chandler descubre con quién quería acostarse Mónica la noche que se convirtieron en amantes. Ross está enfadado después de que Rachel le enseñe a Ben a hacer bromas pesadas.
-· País: Estados Unidos
-· Dirección: David Schwimmer.
-· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Elliott Gould.
-· Música: Michael Skloff.
-· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
-	</programme>
-	<programme start="20260802115500 +0200" stop="20260802122000 +0200" channel="Neox">
-    <title>Friends T7 E17 · El del vestido de novia barato</title>
-    <desc>Series,Comedia | 2001 | TP | ★6.4/10
-· Mónica se pelea con otra compradora por un vestido de novia. Ross y Joey compiten por la misma mujer.
-· País: Estados Unidos
-· Dirección: Kevin S. Bright.
-· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Elliott Gould.
-· Música: Michael Skloff.
-· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
-	</programme>
-	<programme start="20260802122000 +0200" stop="20260802124500 +0200" channel="Neox">
-    <title>Friends T7 E18 · El del Premio de Joey</title>
-    <desc>Series,Comedia | 2001 | TP | ★6.0/10
-· Joey reacciona de manera exagerada en una entrega de premios. Un alumno le dice a Ross que está enamorado de él. Mónica se enfrenta a sus dudas y miedos.
-· País: Estados Unidos
-· Dirección: Gary Halvorson.
-· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Elliott Gould.
-· Música: Michael Skloff.
-· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
-	</programme>
-	<programme start="20260802124500 +0200" stop="20260802131000 +0200" channel="Neox">
-    <title>Friends T7 E19 · El de la prima de Ross y Mónica</title>
-    <desc>Series,Comedia | 2001 | TP | ★6.4/10
-· La preciosa prima de Mónica crea problemas con Chandler y Ross sin pretenderlo. Rachel y Phoebe planean a toda prisa una despedida de soltera para Mónica.
-· País: Estados Unidos
-· Dirección: Gary Halvorson.
-· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Winona Ryder, Elliott Gould.
-· Música: Michael Skloff.
-· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
-	</programme>
-	<programme start="20260802131000 +0200" stop="20260802133500 +0200" channel="Neox">
-    <title>Friends T7 E20 · El del gran beso de Rachel</title>
-    <desc>Series,Comedia | 2001 | TP | ★6.2/10
-· Rachel revela un secreto excitante sobre ella y una antigua compañera de universidad. Ross y Chandler compiten con sus esmóquines de boda.
-· País: Estados Unidos
-· Dirección: Gary Halvorson.
-· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Elliott Gould.
-· Música: Michael Skloff.
-· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
-	</programme>
-	<programme start="20260802133500 +0200" stop="20260802140100 +0200" channel="Neox">
-    <title>Los Simpson T25 E18 · Días de futuro</title>
-    <desc>Series,Animación | 2014 | ⑫ | ★5.8/10
-· Ambientado en el futuro, los protagonistas muestran distintas versiones del amor a través de sus historias.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20260802140100 +0200" stop="20260802142700 +0200" channel="Neox">
-    <title>Los Simpson T24 E22 · Engaños en un tren</title>
-    <desc>Series,Animación | 2013 | ⑫ | ★5.8/10
-· Mientras trata de obtener inspiración para hacer una cupcake como regalo de aniversario para Homer, Marge se inscribe sin darse cuenta en un sitio de citas para personas casadas que quieren relaciones maritales adicionales.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20260802142700 +0200" stop="20260802145300 +0200" channel="Neox">
-    <title>Los Simpson T24 E21 · La saga de Carl</title>
-    <desc>Series,Animación | 2013 | ⑫ | ★6.2/10
-· Homer, Moe, Lenny y Carl ganan $200,000 en la Lotería de Springfield. Pero cuando Carl se fuga a Islandia, los chicos le siguen recuperar el dinero.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20260802145300 +0200" stop="20260802152000 +0200" channel="Neox">
-    <title>Los Simpson T24 E19 · Licor de riesgo</title>
-    <desc>Series,Animación | 2013 | ⑫ | ★6.0/10
-· Moe gana confianza y un nuevo traje cuando un capitalista quiere invertir en su whisky casero. Abe se lesiona mientras cuida a Bart y se instala en el sótano.
-· País: Estados Unidos
-· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
-	</programme>
-	<programme start="20260802152000 +0200" stop="20260802171500 +0200" channel="Neox">
-    <title>La casa del reloj en la pared</title>
-    <desc>Cine,Aventuras | 2018 | ⑦ | ★6.4/10
-· La historia cuenta el mágico y escalofriante relato de Lewis, un niño de 10 años quien al quedar huérfano, se muda a la vieja y rechinante casa de su tío, la cual tiene un misterioso reloj con el que Lewis despierta a magos y brujas de un mundo secreto.
-· País: Canadá, Estados Unidos e India
-· Dirección: Eli Roth.
-· Reparto: Jack Black, Cate Blanchett, Owen Vaccaro, Kyle MacLachlan, Renée Elise Goldsberry, Lorenza Izzo.
-· Guion: Eric Kripke.
-· Música: Nathan Barr.
-· Productora: Amblin Entertainment, Mythology Entertainment, DreamWorks.</desc>
-	</programme>
-	<programme start="20260802171500 +0200" stop="20260802184500 +0200" channel="Neox">
-    <title>Los viajes de Gulliver</title>
-    <desc>Cine,Aventuras | 2010 | TP | ★6.6/10
-· Lemuel Gulliver, encargado del correo en un periódico de Nueva York, consigue que le encarguen un artículo sobre el Triángulo de las Bermudas. Durante el viaje se ve atrapado por el Triángulo y termina en la playa de una tierra inexplorada: Lilliput.
-· País: Estados Unidos
-· Dirección: Rob Letterman.
-· Reparto: Jack Black, Jason Segel, Emily Blunt, Amanda Peet, Billy Connolly, Chris O'Dowd.
-· Guion: Joe Stillman, Nicholas Stoller.
-· Música: Henry Jackman.
-· Producción: John Davis, Gregory Goodman.
-· Productora: Twentieth Century Fox, Davis Entertainment.</desc>
-	</programme>
-	<programme start="20260802184500 +0200" stop="20260802201500 +0200" channel="Neox">
-    <title>Érase una vez...</title>
-    <desc>Cine,Fantástico | 2020 | TP | ★6.2/10
-· Antes de que Alicia viajase al País de las Maravillas y Peter al de Nunca Jamás, ambos eran hermanos y vivían junto a sus padres y su hermano mayor. Cuando éste fallece, sus padres caen en una profunda depresión.
-· País: Estados Unidos y Reino Unido
-· Dirección: Brenda Chapman.
-· Reparto: Angelina Jolie, David Oyelowo, Nana Agyeman-Bediako, Anna Chancellor, Michael Caine, Jonathan Garcia.
-· Guion: Marissa Kate Goodhill.
-· Música: John Debney.
-· Productora: Endurance Media, Simon Fawcett, Waylen Lin, Alex Lebovici, Jane Hooks, David Haring.</desc>
-	</programme>
-	<programme start="20260802201500 +0200" stop="20260802220000 +0200" channel="Neox">
-    <title>La sombra del faraón</title>
-    <desc>Cine,Terror | 1998 | ⑫ | ★6.0/10
-· Siglos atrás, bajo las arenas del antiguo Egipto, un malvado príncipe fue enterrado y su tumba eternamente maldita para que ningún mortal volviera a sufrir su maléfico poder. Cientos de años después, se rompe la maldición.
-· País: Estados Unidos y Reino Unido
-· Dirección: Russell Mulcahy.
-· Reparto: Jason Scott Lee, Lysette Anthony, Christopher Lee, Michael Lerner, Sean Pertwee, Honor Blackman, Louise Lombard.
-· Guion: Russell Mulcahy, John Esposito, Keith L. Williams.
-· Música: Stefano Mainetti.
-· Producción: Silvio Muraglia, Tom Reeve, Daniel Sladek, Romain Schroeder, Jeffrey White, Sterling Belafant.
-· Productora: Daniel Sladeck, Lauren Films, The Carousel Picture Company, 7th Voyage, Cine Grande Corporation, K.N.B. EFX Group, Inc, The Pharaohs Company, Ltd.</desc>
-	</programme>
-	<programme start="20260802220000 +0200" stop="20260802235500 +0200" channel="Neox">
-    <title>Ejecutor</title>
-    <desc>Cine,Acción | 1986 | ⑱ | ★6.2/10
-· Tras el asesinato de varios hijos de agentes federales por causas desconocidas, se elige a un especialista para que investigue.
-· País: Estados Unidos
-· Dirección: John Irvin.
-· Reparto: Arnold Schwarzenegger, Sam Wanamaker, Robert Davi, Darren McGavin, Steven Hill, Ed Lauter, Kathryn Harrold, Paul Shenar, Joe Regalbuto, Mordecai Lawner.
-· Guion: Sergio Donati, Gary DeVore, Gary M. DeVore, Norman Wexler.
-· Música: Chris Boardman, Tom Bähler.
-· Producción: Martha Schumacher.
-· Productora: De Laurentiis Entertaimnent, De Laurentiis Entertainment Group (DEG), Famous Films N.V, International Film Corporation.</desc>
-	</programme>
-	<programme start="20260802235500 +0200" stop="20260803012000 +0200" channel="Neox">
-    <title>Atrapada en la oscuridad</title>
-    <desc>Cine,Thriller | 2013 | ⑯ | ★6.6/10
-· Una exreportera gráfica, que ha perdido la vista en Irak, vive con su novio en un lujoso ático de Nueva York. Un día, cuando regresa a casa, se encuentra a su novio muerto y un sádico criminal que busca unos diamantes escondidos por su novio en el piso.
-· País: Estados Unidos
-· Dirección: Joseph Ruben, Johanna St Michaels.
-· Reparto: Michelle Monaghan, Michael Keaton, Barry Sloane, Kaniehtiio Horn, Trevor Hayes, Phillip Jarrett, Timothy Paul Coderre, Andrew W. Walker, Jasmine Chan.
-· Guion: David Loughery.
-· Música: Mark Mancina.
-· Producción: David Loughery, Michael Baker, Joseph Ruben, Robert Menzies, Jeff Sackman.
-· Productora: Demarest Films, Lionsgate Films, Kilburn Media, Lionsgate Productions.</desc>
-	</programme>
-	<programme start="20260803012000 +0200" stop="20260803030000 +0200" channel="Neox">
-    <title>Rescate suicida</title>
-    <desc>Cine,Acción | 2016 | ⑫ | ★6.8/10
-· Un joven piloto de la Fuerza Aérea Militar rusa es despedido, por lo que decide trabajar en una aerolínea civil. Durante un vuelo, reciben una señal S.O.S. para rescatar a los supervivientes de una erupción volcánica en una isla.
-· País: Camboya y Rusia
-· Dirección: Nikolay Lebedev.
-· Reparto: Vladimir Mashkov, Agne Grudyte, Sergey Shakurov, Danila Kozlovsky, Sergey Romanovich, Sergey Gazarov, Elena Yakovleva, Sergey Kempo, Yang Ge.
-· Guion: Tikhon Kornev.
-· Productora: Three T Productions, Vserossiyskaya GosudarstvennayaTelevizionnaya i Radioveshchatelnaya Kompaniya (VGTRK).</desc>
-	</programme>
-	<programme start="20260803030000 +0200" stop="20260803032500 +0200" channel="Neox">
-    <title>Campeonato Europeo de Póquer</title>
-    <desc>Ocio y Aficiones,Juegos | 2017 | ⑱ | ★6.2/10
-· Emisión de las partidas más emocionantes del Campeonato Europeo de Póquer que enfrenta a los jugadores más selectos y expertos del panorama internacional de este deporte.
-· País: Francia</desc>
-	</programme>
-	<programme start="20260803032500 +0200" stop="20260803040000 +0200" channel="Neox">
-    <title>Sportium Game Show</title>
-    <desc>Entretenimiento | 2026 | ⑱ | ★6.0/10
-· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
-· País: España
-· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
-	</programme>
-	<programme start="20260803040000 +0200" stop="20260803044000 +0200" channel="Neox">
-    <title>Espacios musicales</title>
-    <desc>Música,Videoclips | 2017 | TP | ★6.0/10
-· Emisión de videoclips y piezas musicales.
-· País: España</desc>
-	</programme>
-	<programme start="20260803044000 +0200" stop="20260803060000 +0200" channel="Neox">
-    <title>Atresmúsica</title>
-    <desc>Música,Videoclips | 2017 | TP | ★6.0/10
-· Rocío Santos es la cara de este programa que se mueve al ritmo de la información musical. Además, este espacio repasa la agenda de los mejores espectáculos en directo, de las giras más destacadas y de los últimos lanzamientos.
-· País: España</desc>
-	</programme>
-	<programme start="20260803060000 +0200" stop="20260803110500 +0200" channel="Neox">
-    <title>Neox Kidz</title>
-    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
-· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
-· País: España</desc>
-	</programme>
 	<programme start="20260803110500 +0200" stop="20260803113200 +0200" channel="Neox">
     <title>Friends T7 E18 · El del Premio de Joey</title>
     <desc>Series,Comedia | 2001 | TP | ★6.0/10
@@ -349,7 +150,7 @@
 	</programme>
 	<programme start="20260803171500 +0200" stop="20260803173700 +0200" channel="Neox">
     <title>Big Bang T10 E21 · La agitación de la separación</title>
-    <desc>Series,Comedia | 2016 | ⑫ | ★6.4/10
+    <desc>Series,Comedia | 2016 | ⑫ | ★6.2/10
 · A Howard y a Bernadette les cuesta dejar a Halley en la guardería.
 · País: Estados Unidos
 · Dirección: Mark Cendrowski.
@@ -436,7 +237,7 @@
 	<programme start="20260803205300 +0200" stop="20260803211500 +0200" channel="Neox">
     <title>Big Bang T12 E11 · La dispersión del paintball</title>
     <desc>Series,Comedia | 2018 | TP | ★6.2/10
-· Penny y Leonard organizan una partida de paintball, que acaba en caos cuando Sheldon se pone celoso de Amy. Además, Raj ve a Anu con su exnovio y Stuart no quiere mudarse con Denise.
+· Penny y Leonard organizan una sesión de paintball que acaba siendo un caos. Sheldon tiene celos de Amy, Raj pilla a Anu con su exnovio y Stuart no quiere mudarse con Denise.
 · País: Estados Unidos
 · Reparto: Johnny Galecki, Jim Parsons, Kaley Cuoco, Melissa Rauch, Mayim Bialik, Simon Helberg, Kunal Nayyar, Kevin Sussman.
 · Productora: Chuck Lorre Productions, Warner Bros. Television.</desc>
@@ -1782,255 +1583,256 @@
 · Rocío Santos es la cara de este programa que se mueve al ritmo de la información musical. Además, este espacio repasa la agenda de los mejores espectáculos en directo, de las giras más destacadas y de los últimos lanzamientos.
 · País: España</desc>
 	</programme>
-	<programme start="20260802064000 +0200" stop="20260802072000 +0200" channel="Mega">
-    <title>Vidas anónimas</title>
-    <desc>Documentales,Antropología | 2007 | ⑯ | ★6.0/10
-· Serie documental en la que los protagonistas son personas anónimas.
-· País: España
-· Dirección: Ana Muñoz.</desc>
+	<programme start="20260809045500 +0200" stop="20260809060000 +0200" channel="Neox">
+    <title>Espacios musicales</title>
+    <desc>Música,Videoclips | 2017 | TP | ★6.0/10
+· Emisión de videoclips y piezas musicales.
+· País: España</desc>
 	</programme>
-	<programme start="20260802072000 +0200" stop="20260802074400 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809060000 +0200" stop="20260809102500 +0200" channel="Neox">
+    <title>Neox Kidz</title>
+    <desc>Infantil,Programa infantil | 2023 | TP | ★6.2/10
+· Programa infantil y juvenil que estrena las mejores series nacionales e internacionales.
+· País: España</desc>
 	</programme>
-	<programme start="20260802074400 +0200" stop="20260802080900 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260802080900 +0200" stop="20260802083400 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260802083400 +0200" stop="20260802085900 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260802085900 +0200" stop="20260802092300 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260802092300 +0200" stop="20260802094800 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+	<programme start="20260809102500 +0200" stop="20260809110000 +0200" channel="Neox">
+    <title>Friends T3</title>
+    <desc>Series,Comedia | 1996 | TP | ★6.4/10
+· Friends es una sofisticada comedia centrada en las vidas de un grupo de amigos en Nueva York.
 · País: Estados Unidos
-· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
-· Productora: Cinema Vehicle Services, Original Productions.</desc>
+· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Matt LeBlanc, Lisa Kudrow, Matthew Perry.
+· Música: Michael Skloff.
+· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
 	</programme>
-	<programme start="20260802094800 +0200" stop="20260802101300 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+	<programme start="20260809110000 +0200" stop="20260809113600 +0200" channel="Neox">
+    <title>Friends T3</title>
+    <desc>Series,Comedia | 1996 | TP | ★6.4/10
+· Friends es una sofisticada comedia centrada en las vidas de un grupo de amigos en Nueva York.
 · País: Estados Unidos
-· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
-· Productora: Cinema Vehicle Services, Original Productions.</desc>
+· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Matt LeBlanc, Lisa Kudrow, Matthew Perry.
+· Música: Michael Skloff.
+· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
 	</programme>
-	<programme start="20260802101300 +0200" stop="20260802103800 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+	<programme start="20260809113600 +0200" stop="20260809121200 +0200" channel="Neox">
+    <title>Friends T3</title>
+    <desc>Series,Comedia | 1996 | TP | ★6.4/10
+· Friends es una sofisticada comedia centrada en las vidas de un grupo de amigos en Nueva York.
 · País: Estados Unidos
-· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
-· Productora: Cinema Vehicle Services, Original Productions.</desc>
+· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Matt LeBlanc, Lisa Kudrow, Matthew Perry.
+· Música: Michael Skloff.
+· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
 	</programme>
-	<programme start="20260802103800 +0200" stop="20260802110200 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+	<programme start="20260809121200 +0200" stop="20260809124800 +0200" channel="Neox">
+    <title>Friends T3</title>
+    <desc>Series,Comedia | 1996 | TP | ★6.4/10
+· Friends es una sofisticada comedia centrada en las vidas de un grupo de amigos en Nueva York.
 · País: Estados Unidos
-· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
-· Productora: Cinema Vehicle Services, Original Productions.</desc>
+· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Matt LeBlanc, Lisa Kudrow, Matthew Perry.
+· Música: Michael Skloff.
+· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
 	</programme>
-	<programme start="20260802110200 +0200" stop="20260802112700 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+	<programme start="20260809124800 +0200" stop="20260809132400 +0200" channel="Neox">
+    <title>Friends T3</title>
+    <desc>Series,Comedia | 1996 | TP | ★6.4/10
+· Friends es una sofisticada comedia centrada en las vidas de un grupo de amigos en Nueva York.
 · País: Estados Unidos
-· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
-· Productora: Cinema Vehicle Services, Original Productions.</desc>
+· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Matt LeBlanc, Lisa Kudrow, Matthew Perry.
+· Música: Michael Skloff.
+· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
 	</programme>
-	<programme start="20260802112700 +0200" stop="20260802115200 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+	<programme start="20260809132400 +0200" stop="20260809140000 +0200" channel="Neox">
+    <title>Friends T3</title>
+    <desc>Series,Comedia | 1996 | TP | ★6.4/10
+· Friends es una sofisticada comedia centrada en las vidas de un grupo de amigos en Nueva York.
 · País: Estados Unidos
-· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
-· Productora: Cinema Vehicle Services, Original Productions.</desc>
+· Reparto: Jennifer Aniston, David Schwimmer, Courteney Cox, Matt LeBlanc, Lisa Kudrow, Matthew Perry.
+· Música: Michael Skloff.
+· Productora: Warner Bros. Television, Bright/Kauffman/Crane Productions.</desc>
 	</programme>
-	<programme start="20260802115200 +0200" stop="20260802121700 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809140000 +0200" stop="20260809142500 +0200" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 1989 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20260802121700 +0200" stop="20260802124100 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809142500 +0200" stop="20260809145000 +0200" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 1989 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20260802124100 +0200" stop="20260802130600 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809145000 +0200" stop="20260809151500 +0200" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 1989 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20260802130600 +0200" stop="20260802133100 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809151500 +0200" stop="20260809154000 +0200" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 1989 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20260802133100 +0200" stop="20260802135600 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809154000 +0200" stop="20260809160500 +0200" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 1989 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20260802135600 +0200" stop="20260802142100 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809160500 +0200" stop="20260809163000 +0200" channel="Neox">
+    <title>Los Simpson</title>
+    <desc>Series,Animación | 1989 | ⑫ | ★6.4/10
+· Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield.
+· País: Estados Unidos
+· Productora: Klasky-Csupo, Gracie Films, 20th Century Fox Television, Universal Network Television, Film Roman Productions.</desc>
 	</programme>
-	<programme start="20260802142100 +0200" stop="20260802144500 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809163000 +0200" stop="20260809165300 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802144500 +0200" stop="20260802151000 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2013 | ⑦ | ★6.2/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809165300 +0200" stop="20260809171700 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802151000 +0200" stop="20260802153500 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809171700 +0200" stop="20260809174100 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802153500 +0200" stop="20260802160000 +0200" channel="Mega">
-    <title>¿Quién da más?</title>
-    <desc>Entretenimiento,Telerrealidad | 2015 | ⑦ | ★6.0/10
-· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
-· País: Estados Unidos</desc>
+	<programme start="20260809174100 +0200" stop="20260809180500 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802160000 +0200" stop="20260802172000 +0200" channel="Mega">
-    <title>Servicio Secreto by Chicote</title>
-    <desc>Series,Drama | 2025 | ⑫ | ★6.4/10
-· Con métodos de vigilancia de alta tecnología y un informante secreto, Alberto Chicote se infiltra en restaurantes con dificultades y los rescata. Cada caso presenta un desafío único, pero todos comparten un denominador común: la urgencia.
-· País: España
-· Presenta: Alberto Chicote.
-· Productora: Atresmedia, Warner Bros.</desc>
+	<programme start="20260809180500 +0200" stop="20260809182900 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802172000 +0200" stop="20260802180500 +0200" channel="Mega">
-    <title>Pesadilla en la cocina</title>
-    <desc>Entretenimiento,Telerrealidad | 2004 | ⑫ | ★6.4/10
-· Programa en el que un reconocido chef acude al rescate de un negocio hostelero en crisis.
-· País: Estados Unidos y Reino Unido
-· Presenta: Gordon Ramsay.
-· Productora: Granada Entertainment USA, A. Smith &amp; Co. Productions, Granada Televisión, Optomen Television.</desc>
+	<programme start="20260809182900 +0200" stop="20260809185300 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802180500 +0200" stop="20260802185000 +0200" channel="Mega">
-    <title>Pesadilla en la cocina</title>
-    <desc>Entretenimiento,Telerrealidad | 2004 | ⑫ | ★6.4/10
-· Programa en el que un reconocido chef acude al rescate de un negocio hostelero en crisis.
-· País: Estados Unidos y Reino Unido
-· Presenta: Gordon Ramsay.
-· Productora: Granada Entertainment USA, A. Smith &amp; Co. Productions, Granada Televisión, Optomen Television.</desc>
+	<programme start="20260809185300 +0200" stop="20260809191700 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802185000 +0200" stop="20260802193500 +0200" channel="Mega">
-    <title>Pesadilla en la cocina</title>
-    <desc>Entretenimiento,Telerrealidad | 2004 | ⑫ | ★6.4/10
-· Programa en el que un reconocido chef acude al rescate de un negocio hostelero en crisis.
-· País: Estados Unidos y Reino Unido
-· Presenta: Gordon Ramsay.
-· Productora: Granada Entertainment USA, A. Smith &amp; Co. Productions, Granada Televisión, Optomen Television.</desc>
+	<programme start="20260809191700 +0200" stop="20260809194100 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802193500 +0200" stop="20260802202000 +0200" channel="Mega">
-    <title>Pesadilla en la cocina</title>
-    <desc>Entretenimiento,Telerrealidad | 2004 | ⑫ | ★6.4/10
-· Programa en el que un reconocido chef acude al rescate de un negocio hostelero en crisis.
-· País: Estados Unidos y Reino Unido
-· Presenta: Gordon Ramsay.
-· Productora: Granada Entertainment USA, A. Smith &amp; Co. Productions, Granada Televisión, Optomen Television.</desc>
+	<programme start="20260809194100 +0200" stop="20260809200500 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802202000 +0200" stop="20260802214100 +0200" channel="Mega">
-    <title>Batalla de restaurantes</title>
-    <desc>Entretenimiento,Concurso | 2025 | ⑫ | ★6.4/10
-· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
-· País: España
-· Presenta: Alberto Chicote.</desc>
+	<programme start="20260809200500 +0200" stop="20260809202900 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802214100 +0200" stop="20260802230300 +0200" channel="Mega">
-    <title>Batalla de restaurantes</title>
-    <desc>Entretenimiento,Concurso | 2024 | ⑫ | ★6.4/10
-· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
-· País: España
-· Presenta: Alberto Chicote.</desc>
+	<programme start="20260809202900 +0200" stop="20260809205300 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260802230300 +0200" stop="20260803002500 +0200" channel="Mega">
-    <title>Batalla de restaurantes</title>
-    <desc>Entretenimiento,Concurso | 2024 | ⑫ | ★6.4/10
-· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
-· País: España
-· Presenta: Alberto Chicote.</desc>
+	<programme start="20260809205300 +0200" stop="20260809211700 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260803002500 +0200" stop="20260803013200 +0200" channel="Mega">
-    <title>Pesadilla en la cocina</title>
-    <desc>Entretenimiento,Telerrealidad | 2016 | ⑫ | ★6.6/10
-· El cocinero Alberto Chicote rescata restaurantes españoles en crisis.
-· País: España
-· Presenta: Alberto Chicote.</desc>
+	<programme start="20260809211700 +0200" stop="20260809214100 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260803013200 +0200" stop="20260803024000 +0200" channel="Mega">
-    <title>Pesadilla en la cocina</title>
-    <desc>Entretenimiento,Telerrealidad | 2019 | ⑫ | ★7.0/10
-· El cocinero Alberto Chicote rescata restaurantes españoles en crisis.
-· País: España
-· Presenta: Alberto Chicote.</desc>
+	<programme start="20260809214100 +0200" stop="20260809220500 +0200" channel="Neox">
+    <title>Big Bang T1</title>
+    <desc>Series,Comedia | 2007 | TP | ★7.8/10
+· Leonard y Sheldon son dos físicos brillantes, de esos superdotados que comprenden el funcionamiento del universo.
+· País: Estados Unidos
+· Reparto: Jim Parsons, Johnny Galecki, Kaley Cuoco, Simon Helberg, Kunal Nayyar.
+· Productora: Warner Bros. Television, Chuck Lorre Productions.</desc>
 	</programme>
-	<programme start="20260803024000 +0200" stop="20260803032000 +0200" channel="Mega">
+	<programme start="20260809220500 +0200" stop="20260810002000 +0200" channel="Neox">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260810002000 +0200" stop="20260810020000 +0200" channel="Neox">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260810020000 +0200" stop="20260810033000 +0200" channel="Neox">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260810033000 +0200" stop="20260810040000 +0200" channel="Neox">
+    <title>Campeonato Europeo de Póquer</title>
+    <desc>Ocio y Aficiones,Juegos | 2017 | ⑱ | ★6.2/10
+· Emisión de las partidas más emocionantes del Campeonato Europeo de Póquer que enfrenta a los jugadores más selectos y expertos del panorama internacional de este deporte.
+· País: Francia</desc>
+	</programme>
+	<programme start="20260810040000 +0200" stop="20260810044000 +0200" channel="Neox">
     <title>Sportium Game Show</title>
-    <desc>Entretenimiento | 2025 | ⑱ | ★6.0/10
+    <desc>Entretenimiento | 2026 | ⑱ | ★6.0/10
 · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
 · País: España
 · Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
 	</programme>
-	<programme start="20260803032000 +0200" stop="20260803034000 +0200" channel="Mega">
-    <title>Pazy: Que te recuerden como has vivido</title>
-    <desc>Entretenimiento | 2024 | TP | ★5.8/10
-· Pazy: Que te recuerden como has vivido.
+	<programme start="20260810044000 +0200" stop="20260810045500 +0200" channel="Neox">
+    <title>Atresmúsica</title>
+    <desc>Música,Videoclips | 2017 | TP | ★6.0/10
+· Rocío Santos es la cara de este programa que se mueve al ritmo de la información musical. Además, este espacio repasa la agenda de los mejores espectáculos en directo, de las giras más destacadas y de los últimos lanzamientos.
 · País: España</desc>
-	</programme>
-	<programme start="20260803034000 +0200" stop="20260803045000 +0200" channel="Mega">
-    <title>Venta Prime</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | ★6.2/10
-· Espacio de televenta.</desc>
-	</programme>
-	<programme start="20260803045000 +0200" stop="20260803060000 +0200" channel="Mega">
-    <title>Top Mecanic</title>
-    <desc>Deportes,Programa deportes | 2025 | ⑦ | ★6.0/10
-· Mecánicos expertos, individualmente o en pareja, tienen que restaurar un coche destrozado en menos de cinco días.</desc>
-	</programme>
-	<programme start="20260803060000 +0200" stop="20260803062500 +0200" channel="Mega">
-    <title>Vidas anónimas</title>
-    <desc>Documentales,Antropología | 2007 | ⑯ | ★6.0/10
-· Serie documental en la que los protagonistas son personas anónimas.
-· País: España
-· Dirección: Ana Muñoz.</desc>
 	</programme>
 	<programme start="20260803062500 +0200" stop="20260803065000 +0200" channel="Mega">
     <title>Vidas anónimas</title>
@@ -2153,28 +1955,28 @@
 	</programme>
 	<programme start="20260803155600 +0200" stop="20260803165700 +0200" channel="Mega">
     <title>Aislados Australia</title>
-    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.4/10
+    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.2/10
 · Sigue a diez valientes australianos que son abandonados en el despiadado desierto de Tasmania, completamente aislados del mundo.
 · País: Australia
 · Productora: Special Broadcasting Service (SBS), ITV Studios.</desc>
 	</programme>
 	<programme start="20260803165700 +0200" stop="20260803175800 +0200" channel="Mega">
     <title>Aislados Australia</title>
-    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.4/10
+    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.2/10
 · Sigue a diez valientes australianos que son abandonados en el despiadado desierto de Tasmania, completamente aislados del mundo.
 · País: Australia
 · Productora: Special Broadcasting Service (SBS), ITV Studios.</desc>
 	</programme>
 	<programme start="20260803175800 +0200" stop="20260803185900 +0200" channel="Mega">
     <title>Aislados Australia</title>
-    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.4/10
+    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.2/10
 · Sigue a diez valientes australianos que son abandonados en el despiadado desierto de Tasmania, completamente aislados del mundo.
 · País: Australia
 · Productora: Special Broadcasting Service (SBS), ITV Studios.</desc>
 	</programme>
 	<programme start="20260803185900 +0200" stop="20260803200000 +0200" channel="Mega">
     <title>Aislados Australia</title>
-    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.4/10
+    <desc>Entretenimiento,Telerrealidad | 2025 | ⑯ | ★6.2/10
 · Sigue a diez valientes australianos que son abandonados en el despiadado desierto de Tasmania, completamente aislados del mundo.
 · País: Australia
 · Productora: Special Broadcasting Service (SBS), ITV Studios.</desc>
@@ -2385,38 +2187,34 @@
 	</programme>
 	<programme start="20260804201000 +0200" stop="20260804210300 +0200" channel="Mega">
     <title>Forjado a fuego</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | ⑫ | ★6.4/10
-· Espacio que convierte la artesanía, la leyenda y la emoción de la creación de armas en una batalla de ingenio a contrarreloj. En cada emisión, cuatro competidores tratarán de demostrar que pueden construir cualquier arma mejor que los demás.
+    <desc>Entretenimiento,Telerrealidad | 2015 | ⑫ | ★6.2/10
+· Los mejores fabricantes de armas compiten construyendo desde hachas vikingas hasta espadas de samurái o dagas indias. La serie presentará todas las semanas nuevas armas y concursantes, así como asombrosas pruebas a las que van a someter sus creaciones.
 · País: Estados Unidos
-· Presenta: Wil Willis.
-· Reparto: David Lain Baker, Doug Marcaida, Alfonso Trinidad.
+· Dirección: Jodi Flynn, Alfonso Trinidad.
 · Productora: Outpost Entertainment.</desc>
 	</programme>
 	<programme start="20260804210300 +0200" stop="20260804215700 +0200" channel="Mega">
     <title>Forjado a fuego</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | ⑫ | ★6.4/10
-· Espacio que convierte la artesanía, la leyenda y la emoción de la creación de armas en una batalla de ingenio a contrarreloj. En cada emisión, cuatro competidores tratarán de demostrar que pueden construir cualquier arma mejor que los demás.
+    <desc>Entretenimiento,Telerrealidad | 2015 | ⑫ | ★6.2/10
+· Los mejores fabricantes de armas compiten construyendo desde hachas vikingas hasta espadas de samurái o dagas indias. La serie presentará todas las semanas nuevas armas y concursantes, así como asombrosas pruebas a las que van a someter sus creaciones.
 · País: Estados Unidos
-· Presenta: Wil Willis.
-· Reparto: David Lain Baker, Doug Marcaida, Alfonso Trinidad.
+· Dirección: Jodi Flynn, Alfonso Trinidad.
 · Productora: Outpost Entertainment.</desc>
 	</programme>
 	<programme start="20260804215700 +0200" stop="20260804225100 +0200" channel="Mega">
     <title>Forjado a fuego</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | ⑫ | ★6.4/10
-· Espacio que convierte la artesanía, la leyenda y la emoción de la creación de armas en una batalla de ingenio a contrarreloj. En cada emisión, cuatro competidores tratarán de demostrar que pueden construir cualquier arma mejor que los demás.
+    <desc>Entretenimiento,Telerrealidad | 2015 | ⑫ | ★6.2/10
+· Los mejores fabricantes de armas compiten construyendo desde hachas vikingas hasta espadas de samurái o dagas indias. La serie presentará todas las semanas nuevas armas y concursantes, así como asombrosas pruebas a las que van a someter sus creaciones.
 · País: Estados Unidos
-· Presenta: Wil Willis.
-· Reparto: David Lain Baker, Doug Marcaida, Alfonso Trinidad.
+· Dirección: Jodi Flynn, Alfonso Trinidad.
 · Productora: Outpost Entertainment.</desc>
 	</programme>
 	<programme start="20260804225100 +0200" stop="20260804234500 +0200" channel="Mega">
     <title>Forjado a fuego</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | ⑫ | ★6.4/10
-· Espacio que convierte la artesanía, la leyenda y la emoción de la creación de armas en una batalla de ingenio a contrarreloj. En cada emisión, cuatro competidores tratarán de demostrar que pueden construir cualquier arma mejor que los demás.
+    <desc>Entretenimiento,Telerrealidad | 2015 | ⑫ | ★6.2/10
+· Los mejores fabricantes de armas compiten construyendo desde hachas vikingas hasta espadas de samurái o dagas indias. La serie presentará todas las semanas nuevas armas y concursantes, así como asombrosas pruebas a las que van a someter sus creaciones.
 · País: Estados Unidos
-· Presenta: Wil Willis.
-· Reparto: David Lain Baker, Doug Marcaida, Alfonso Trinidad.
+· Dirección: Jodi Flynn, Alfonso Trinidad.
 · Productora: Outpost Entertainment.</desc>
 	</programme>
 	<programme start="20260804234500 +0200" stop="20260805024500 +0200" channel="Mega">
@@ -3069,172 +2867,79 @@
     <desc>Ocio y Aficiones,Televenta | 2024 | TP | ★6.2/10
 · Espacio de televenta.</desc>
 	</programme>
-	<programme start="20260802064600 +0200" stop="20260802080000 +0200" channel="M+ Cine Español">
-    <title>Landa</title>
-    <desc>Documentales,Biografía | 2025 | ⑫ | ★6.4/10
-· Alfredo Landa es, probablemente, uno de los actores más populares de la historia del cine español. Este documental lo retrata en toda su complejidad, mostrando todas sus aristas.
+	<programme start="20260809041500 +0200" stop="20260809060000 +0200" channel="Mega">
+    <title>Top Mecanic</title>
+    <desc>Deportes,Programa deportes | 2025 | ⑦ | ★6.0/10
+· Mecánicos expertos, individualmente o en pareja, tienen que restaurar un coche destrozado en menos de cinco días.</desc>
+	</programme>
+	<programme start="20260809060000 +0200" stop="20260809070000 +0200" channel="Mega">
+    <title>Vidas anónimas</title>
+    <desc>Documentales,Antropología | 2007 | ⑯ | ★6.0/10
+· Serie documental en la que los protagonistas son personas anónimas.
 · País: España
-· Dirección: Gracia Querejeta, Miguel Olid.</desc>
+· Dirección: Ana Muñoz.</desc>
 	</programme>
-	<programme start="20260802080000 +0200" stop="20260802081300 +0200" channel="M+ Cine Español">
-    <title>Está por venir (y tendrá tus ojos)</title>
-    <desc>Cortometrajes,Corto animación | 2024 | ⑫ | ★6.0/10
-· Una pequeña comunidad que ha entrado en estado de colapso a causa de una crisis ambiental, se adapta como puede a la nueva realidad.
+	<programme start="20260809070000 +0200" stop="20260809100000 +0200" channel="Mega">
+    <title>¿Quién da más?</title>
+    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
+· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+· País: Estados Unidos
+· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
+· Productora: Cinema Vehicle Services, Original Productions.</desc>
+	</programme>
+	<programme start="20260809100000 +0200" stop="20260809110000 +0200" channel="Mega">
+    <title>Frontón</title>
+    <desc>Deportes,Programa deportes | ★5.8/10
+· Espacio deportivo que emite distintos partidos de pelota vasca, juego que consistente en impulsar una pelota contra una pared frontal por medio de la mano, desnuda o con la ayuda de un instrumento(palo o cesta).
+· País: España</desc>
+	</programme>
+	<programme start="20260809110000 +0200" stop="20260809160000 +0200" channel="Mega">
+    <title>¿Quién da más?</title>
+    <desc>Entretenimiento,Telerrealidad | 2022 | ⑦ | ★6.0/10
+· En las subastas de trasteros los postores lanzan ofertas sobre propiedades no reclamadas con la esperanza de hacerse de oro. Esta serie documental muestra a un variado elenco de personajes que participa en este tipo de subastas.
+· País: Estados Unidos
+· Reparto: Jarrod Schulz, Brandi Passante, Laura Dotson.
+· Productora: Cinema Vehicle Services, Original Productions.</desc>
+	</programme>
+	<programme start="20260809160000 +0200" stop="20260809211000 +0200" channel="Mega">
+    <title>Pesadilla en la cocina</title>
+    <desc>Entretenimiento,Telerrealidad | 2012 | ⑫ | ★6.6/10
+· El cocinero Alberto Chicote rescata restaurantes españoles en crisis.
 · País: España
-· Dirección: Izibene Oñederra.</desc>
+· Presenta: Alberto Chicote.</desc>
 	</programme>
-	<programme start="20260802081300 +0200" stop="20260802095900 +0200" channel="M+ Cine Español">
-    <title>La cólera del viento</title>
-    <desc>Cine,Drama | 1971 | ⑦ | ★6.2/10
-· En la España de 1900, un terrateniente contrata a dos mercenarios para que asesinen a los cabecillas de una rebelión campesina.
-· País: España e Italia
-· Dirección: Mario Camus.
-· Reparto: Terence Hill, Mario Pardo, Fernando Rey, Máximo Valverde, Carlo Alberto Cortina, Ángel Lombarte.
-· Guion: Mario Camus, Manolo Marinero, José Vicente Puente.
-· Música: Augusto Martelli.
-· Producción: Mario Cecchi Gori, Marciano de la Fuente.
-· Productora: Cesáreo González Producciones Cinematográficas.</desc>
-	</programme>
-	<programme start="20260802095900 +0200" stop="20260802115100 +0200" channel="M+ Cine Español">
-    <title>La muerte de un presidente</title>
-    <desc>Cine,Oeste | 1969 | ⑦ | ★6.0/10
-· Texas 1880. Están todavía abiertas las heridas de la guerra civil. Las teorías de igualdad entre los hombres de cada raza del presidente, James Garfield, crean un malestar en parte de la población.
-· País: España e Italia
-· Dirección: Tonino Valerii.
-· Reparto: Giuliano Gemma, Fernando Rey, Antonio Casas, Van Johnson, Ralph Neville, Warren Vanders.
-· Guion: Massimo Patrizi, Ernesto Gastaldi.
-· Música: Luis Bacalov, Luis Enríquez Bacalov.
-· Producción: Bianco Manini.
-· Productora: Films Montana, Patry Film, Bianco Manini.</desc>
-	</programme>
-	<programme start="20260802115100 +0200" stop="20260802133600 +0200" channel="M+ Cine Español">
-    <title>Eloy de la Iglesia. Adicto al cine</title>
-    <desc>Documentales,Biografía | 2025 | ⑱ | ★6.4/10
-· Nominado en los premios Goya y en los Forqué 2026. Retrata a uno de los directores más valientes y provocadores del cine español. Con sus películas desafió la censura y se atrevió a mostrar un mundo que pocos querían ver.
+	<programme start="20260809211000 +0200" stop="20260809234500 +0200" channel="Mega">
+    <title>Batalla de restaurantes</title>
+    <desc>Entretenimiento,Concurso | 2024 | ⑫ | ★6.4/10
+· Alberto Chicote recorre diversas ciudades para descubrir los mejores locales. El cocinero mostrará cómo cuatro restaurantes de una misma ciudad y especializados en el mismo plato local, se enfrentarán para obtener un premio de 10.000 euros.
 · País: España
-· Dirección: Gaizka Urresti.
-· Guion: Gaizka Urresti.</desc>
+· Presenta: Alberto Chicote.</desc>
 	</programme>
-	<programme start="20260802133600 +0200" stop="20260802151400 +0200" channel="M+ Cine Español">
-    <title>Cachito</title>
-    <desc>Cine,Drama | 1996 | ⑯ | ★6.0/10
-· Tras la muerte de su abuela, una adolescente decide comenzar la búsqueda de su madre, que la abandonó cuando era un bebé y de la que sólo conserva una antigua carta y la dirección de un hotel llamado "Paraíso".
+	<programme start="20260809234500 +0200" stop="20260810024500 +0200" channel="Mega">
+    <title>Desafío en la arena</title>
+    <desc>Entretenimiento,Concurso | 2023 | ⑦ | ★6.0/10
+· Diez equipos internacionales de artistas que utilizan la arena para sus creaciones compiten en la bahía de Fundy, Canadá, un lugar donde las mareas llegan a alcanzar hasta los 16 metros y sirven de cronómetro para completar sus obras.
+· País: Reino Unido
+· Dirección: Graeme Lynch.
+· Productora: Marblemedia.</desc>
+	</programme>
+	<programme start="20260810024500 +0200" stop="20260810032500 +0200" channel="Mega">
+    <title>Sportium Game Show</title>
+    <desc>Entretenimiento | 2025 | ⑱ | ★6.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas.
 · País: España
-· Dirección: Enrique Urbizu.
-· Reparto: Jorge Perugorría, Sancho Gracia, Amara Carmona, Elvira Mínguez, Aitor Mazo, Sara Mora, Luis Cuenca, Pilar Bardem, Pepo Oliva.
-· Guion: Enrique Urbizu, Imanol Uribe, Francisco Pino, Jesús Regueira.
-· Música: Bingen Mendizábal, Kike Suárez Alba.
-· Productora: Antena 3 Televisión, Canal+ España, Aurum Producciones S.A., Origen Producciones Cinematográficas S.A.</desc>
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
 	</programme>
-	<programme start="20260802151400 +0200" stop="20260802164700 +0200" channel="M+ Cine Español">
-    <title>El casoplón</title>
-    <desc>Cine,Comedia | 2025 | TP | ★6.2/10
-· Toñi, Carlos y sus hijos están pasando el peor verano de sus vidas: sin vacaciones, encerrados en su asfixiante piso y, para colmo, sin aire acondicionado. Todo cambia cuando a Carlos le dan trabajo como jardinero ¡en un casoplón!
-· País: España
-· Dirección: Joaquín Mazón.
-· Reparto: Raquel Guerrero, Pablo Chiapella, Nerea Pascual, Álvaro Lafuente, Noah Casas, Edurne, Iñaki Miramón, Janfri Topera, Vito Rogado, Hamza Zaidi, María Córdoba.
-· Guion: Roberto Jiménez.
-· Música: Vicente Ortiz Gimeno.
-· Producción: Juan Moreno, Guillermo Sempere, Koldo Zuazua.
-· Productora: Casoplón, A.I.E., Feelgood Media, Radio Televisión Española (RTVE), Crea SGR, Movistar Plus+.</desc>
+	<programme start="20260810032500 +0200" stop="20260810034000 +0200" channel="Mega">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | ★5.8/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
 	</programme>
-	<programme start="20260802164700 +0200" stop="20260802183400 +0200" channel="M+ Cine Español">
-    <title>La cena</title>
-    <desc>Cine,Comedia | 2025 | ⑫ | ★7.2/10
-· Tras el final de la Guerra Civil, a Franco se le antoja celebrar la victoria en el Hotel Palace, ahora un hospital. Un teniente, un maître y un grupo de prisioneros republicanos, deben preparar un banquete exprés... pero, en la cocina, se trama algo más.
-· País: España y Francia
-· Dirección: Manuel Gómez Pereira.
-· Reparto: Mario Casas, Alberto San Juan, Asier Etxeandia, Nora Hernández, Elvira Mínguez, Carlos Serrano, Ferran Gadea.
-· Guion: Joaquín Oristrell, Yolanda García Serrano, Manuel Gómez Pereira.
-· Música: Anne-Sophie Versnaeyen.
-· Producción: Cristóbal García, Lina Badenes.
-· Productora: La Terraza Films, S.L., Turanga Films.</desc>
-	</programme>
-	<programme start="20260802183400 +0200" stop="20260802201400 +0200" channel="M+ Cine Español">
-    <title>Campamento Garra de Oso</title>
-    <desc>Cine,Comedia | 2025 | TP | ★6.0/10
-· Dos niños tendrán que unir fuerzas y luchar a contrarreloj para salvar el campamento de verano amenazado por el excéntrico constructor Sebastián. Para ello, deben buscar a un oso que creen que nadie ha visto pero sigue habitando el valle.
-· País: España y Portugal
-· Dirección: Sílvia Quer.
-· Reparto: Júlia Raya, Martín Abelló, Anabel Alonso, Edu Soto, Ana Morgade.
-· Guion: Marta Armengol, Daniel González.
-· Música: Cláudia Correia.
-· Producción: Oriol Marcos.
-· Productora: A Film About Quiet Jazz, Boavista Filmes Lda..</desc>
-	</programme>
-	<programme start="20260802201400 +0200" stop="20260802220000 +0200" channel="M+ Cine Español">
-    <title>Canallas</title>
-    <desc>Cine,Comedia | 2022 | ⑫ | ★6.0/10
-· Los tejemanejes de Joaquín lo han llevado al borde del embargo de la casa familiar. Para recuperar el dinero, no se le ocurre otra cosa que buscar la ayuda de Brujo y Luismi, sus amigos de la infancia, cuyas brillantes ideas serán de poca ayuda.
-· País: España
-· Dirección: Daniel Guzmán.
-· Reparto: Luis Tosar, Daniel Guzmán, Joaquín González, Luis Zahera, Julián Villagrán, Antonio Durán 'Morris', Miguel Herrán.
-· Guion: Daniel Guzmán.
-· Música: Vicente Ortiz Gimeno.
-· Productora: Movistar+, El Niño Producciones.</desc>
-	</programme>
-	<programme start="20260802220000 +0200" stop="20260802235400 +0200" channel="M+ Cine Español">
-    <title>Rondallas</title>
-    <desc>Cine,Comedia dramática | 2025 | ⑫ | ★7.6/10
-· Dos años después del naufragio de un pesquero gallego, los conmocionados habitantes del pueblo de aquellos pescadores van a encontrar consuelo y esperanza en su rondalla, la tradicional banda de música rural gallega.
-· País: España
-· Dirección: Daniel Sánchez Arévalo.
-· Reparto: Judith Fernández, Javier Gutiérrez, María Vázquez, Tamar Novas.</desc>
-	</programme>
-	<programme start="20260802235400 +0200" stop="20260803002900 +0200" channel="M+ Cine Español">
-    <title>El cine bélico de Boyero</title>
-    <desc>Cine,Programa de cine | 2026 | ⑦ | ★6.0/10
-· El cine bélico lleva décadas contando las guerras que han asolado y siguen asolando nuestro planeta. El crítico de cine Carlos Boyero analiza todas las vertientes del género, de la mano de la presentadora Cristina Teva.
-· País: España
-· Presenta: Carlos Boyero, Cristina Teva.
-· Guion: Montserrat Jerez.
-· Producción: Isabel Guerrero Martínez.</desc>
-	</programme>
-	<programme start="20260803002900 +0200" stop="20260803021800 +0200" channel="M+ Cine Español">
-    <title>El secreto de Marrowbone</title>
-    <desc>Cine,Thriller | 2017 | ⑯ | ★7.6/10
-· En 1969, tras huir de Inglaterra, cuatro hermanos y su madre enferma comienzan una nueva vida en EE UU, en la casa materna de Marrowbone. Cuando la madre fallece, Jack, Billy, Jane y el pequeño Sam deciden ocultarlo hasta la mayoría de edad de Jack.
-· País: Estados Unidos y España
-· Dirección: Sergio Gutiérrez Sánchez.
-· Reparto: George MacKay, Anya Taylor-Joy, Charlie Heaton, Mia Goth, Matthew Stagg.
-· Guion: Sergio Gutiérrez Sánchez.
-· Música: Fernando Velázquez.
-· Producción: Juan Antonio Bayona, Ghislain Barrois, Álvaro Augustín, Belén Atienza.
-· Productora: Lions Gate International, Marrowbone, Telecinco Cinema.</desc>
-	</programme>
-	<programme start="20260803021800 +0200" stop="20260803034800 +0200" channel="M+ Cine Español">
-    <title>La mesita del comedor</title>
-    <desc>Cine,Terror | 2022 | ⑯ | ★6.8/10
-· Las vivencias de una pareja que no imaginarán que la compra de una mesita para el comedor se convertirá en la peor decisión de sus vidas.
-· País: España
-· Dirección: Caye Casas.
-· Reparto: David Pareja, Estefanía de los Santos, Josep Maria Riera, Eduardo Antuña, Cristina Dilla, Itziar Castro, Emilio Gavira.
-· Guion: Caye Casas.
-· Producción: Norbert Llaras.</desc>
-	</programme>
-	<programme start="20260803034800 +0200" stop="20260803053300 +0200" channel="M+ Cine Español">
-    <title>El orfanato</title>
-    <desc>Cine,Terror | 2007 | ⑯ | ★7.0/10
-· Laura regresa con su marido y su hijo Simón -enfermo de VIH y adoptado por la pareja cuando era un bebé- al ahora abandonado orfanato donde Laura se crió, con la intención de abrir una residencia para niños discapacitados.
-· País: España
-· Dirección: Juan Antonio Bayona.
-· Reparto: Belén Rueda, Fernando Cayo, Roger Príncep, Geraldine Chaplin, Mabel Rivera, Montserrat Carulla, Andrés Gertrúdix, Edgar Vivar.
-· Guion: Sergio Gutiérrez Sánchez.
-· Música: Fernando Velázquez.
-· Producción: Guillermo del Toro, Joaquín Padró, Mar Targarona.
-· Productora: Rodar y Rodar Cine y Televisión S.L, Telecinco Cinema, Warner Bros. Pictures, Canal+ España, Televisió de Catalunya (TV3).</desc>
-	</programme>
-	<programme start="20260803053300 +0200" stop="20260803070800 +0200" channel="M+ Cine Español">
-    <title>Beyond Re-animator</title>
-    <desc>Cine,Terror | 2003 | ⑱ | ★6.0/10
-· En catorce años de prisión, el doctor Herbert West no ha dejado de experimentar sus técnicas de reanimación de cadáveres.
-· País: Estados Unidos y España
-· Dirección: Brian Yuzna.
-· Reparto: Jeffrey Combs, Jason Barry, Elsa Pataky, Bárbara Elorrieta, Santiago Segura, Simón Andreu, Enrique Arce, Lolo Herrero, Nico Baixas, Raquel Gribler.
-· Guion: José Manuel Gómez (I), Miguel Flores.
-· Música: Xavier Capellas, Richard Band.
-· Producción: Julio Fernández.
-· Productora: Fantastic Factory (Filmax), Filmax.</desc>
+	<programme start="20260810034000 +0200" stop="20260810050000 +0200" channel="Mega">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | ★6.2/10
+· Espacio de televenta.</desc>
 	</programme>
 	<programme start="20260803070800 +0200" stop="20260803080000 +0200" channel="M+ Cine Español">
     <title>Pedro x Javis T1 · Muerte y cine</title>
@@ -4225,517 +3930,189 @@
 · Música: Michel Malka, José Tejera.
 · Productora: Impala, S.A.</desc>
 	</programme>
-	<programme start="20260802062400 +0200" stop="20260802065300 +0200" channel="Nickelodeon">
-    <title>Los Pitufos T1 E7</title>
-    <desc>Infantil,Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando Pitufo Miedoso se cansa de estar asustado, se pone un disfraz de superhéroe y trata de vencer su miedo. / Un niño extraterrestre visita a los pitufos y los hechiza para convertirlos en sus amigos.
-· País: Bélgica, Estados Unidos y Francia
-· Dirección: William Renaud.
-· Guion: Peter Saisselin, Amy Serafin.
-· Productora: Dargaud Média, Ketnet, Kinderkanal.</desc>
+	<programme start="20260809044500 +0200" stop="20260809063500 +0200" channel="M+ Cine Español">
+    <title>El rey pasmado</title>
+    <desc>Cine,Comedia | 1991 | ⑯ | ★6.2/10
+· España, siglo XVII. Acaba de subir al trono un joven Felipe IV, un rey sin capacidad para gobernar pero dispuesto a descubrir el mundo. Recién casado, el inexperto monarca encuentra un mundo de sensaciones entre los brazos de la bella prostituta Marfisa.
+· País: España, Francia y Portugal
+· Dirección: Imanol Uribe.
+· Reparto: Gabino Diego, Fernando Fernán Gómez, Joaquim de Almeida, María Barranco, Juan Diego, Laura Del Sol, Eusebio Poncela, Anne Roussel, Javier Gurruchaga, Alejandra Grepi.
+· Guion: Juan Potau Martínez, Gonzalo Torrente Malvido.
+· Música: José Nieto.
+· Producción: Andrés Santana, Imanol Uribe.
+· Productora: Arión Producciones, Aiete Films.</desc>
 	</programme>
-	<programme start="20260802065300 +0200" stop="20260802072200 +0200" channel="Nickelodeon">
-    <title>Los Pitufos T1 E8 · Pitufaos los cinturones / Deja las hojas en paz</title>
-    <desc>Infantil,Dibujos animados | 2021 | TP | ★6.0/10
-· Cuando Manitas y Tormenta descubren el plan de Gargamel para hacer volar a Azrael, construyen sus propias máquinas voladoras. / Cuando la cosecha de zarzaparrilla es arruinada por una plaga, los pitufos descubren el plan de Gargamel para atraerlos.
-· País: Bélgica, Estados Unidos y Francia
-· Dirección: William Renaud.
-· Guion: Peter Saisselin, Amy Serafin.
-· Productora: Dargaud Média, Ketnet, Kinderkanal.</desc>
+	<programme start="20260809063500 +0200" stop="20260809080000 +0200" channel="M+ Cine Español">
+    <title>El robobo de la jojoya</title>
+    <desc>Cine,Comedia | 1991 | TP | ★6.2/10
+· Dos chapuceros ladrones pretenden conseguir una joya valiosísima conocida como el ojo de Nefertiti.
+· País: España
+· Dirección: Álvaro Sáenz de Heredia.
+· Reparto: Josema Yuste, Millán Salcedo, Esther del Prado, Anabel Alonso, Emilio Aragón, Valeriano Andrés.
+· Guion: Álvaro Sáenz de Heredia, Yolanda García Serrano, Juan Luis Iborra.
+· Música: José Tejera.
+· Producción: José María Calleja.
+· Productora: Aligator Producciones.</desc>
 	</programme>
-	<programme start="20260802072200 +0200" stop="20260802074900 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T3 E8 · Bromas Pat-pesadas / Un brindis chistoso por Patrricio</title>
-    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.0/10
-· Patricio y Calamarina se camuflan para investigar una fábrica corrupta de artículos de broma. Además, Patricio es la estrella presenta "Un brindis chistoso por Patricio".
-· País: Estados Unidos
-· Dirección: Julian Murphy, Sean Dempsey.
-· Guion: Luke Brookshier, Andrew Goodman, Mr. Lawrence, Jacob Fleisher, Dave Tennant, Gabe Del Valle, Andy Gonsalves, Mike Pelensky, Miggs Perez.
-· Productora: Nickelodeon Animation Studios.</desc>
+	<programme start="20260809080000 +0200" stop="20260809093500 +0200" channel="M+ Cine Español">
+    <title>El retorno de Ringo</title>
+    <desc>Cine,Oeste | 1965 | ⑯ | ★5.8/10
+· Ha terminado la guerra de Secesión y el caos reina en el país. Los hombres regresan a casa, pero siguen pensando en la lucha.
+· País: España e Italia
+· Dirección: Duccio Tessari.
+· Reparto: Giuliano Gemma, Fernando Sancho, Antonio Casas, Nieves Navarro, Manuel Muñiz.
+· Guion: Duccio Tessari, Fernando Di Leo, Alfonso Balcázar.
+· Música: Ennio Morricone.
+· Producción: Luciano Ercoli, Alberto Pugliese.
+· Productora: Balcazar P.C., Produzione Cinematografica Mediterranee, Rizzoli Film.</desc>
 	</programme>
-	<programme start="20260802074900 +0200" stop="20260802081600 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T3 E9 · Se acabaron los ladrillos de ideas / Un necio bien enseñado</title>
-    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.2/10
-· Patricio y Calamarina persiguen a un ladrillo de ideas fugado hasta Tuntún-landia. Tras descubrir que Patricio nunca aprobó higiene y urbanidad su familia lo matricula en casa.
-· País: Estados Unidos
-· Dirección: Sean Dempsey, Alex S. Conaway.
-· Guion: Luke Brookshier, Andrew Goodman, Kaz Mr. Lawrence, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Nora Meek, Zoë Moss, Dave Tennant.
-· Productora: Nickelodeon Animation Studios.</desc>
+	<programme start="20260809093500 +0200" stop="20260809111500 +0200" channel="M+ Cine Español">
+    <title>Antes llega la muerte</title>
+    <desc>Cine,Oeste | 1964 | TP | ★6.2/10
+· Cuando Bob sale de la cárcel, tras cumplir condena por homicidio cometido en defensa de María, ésta se ha casado con un rico.
+· País: España e Italia
+· Dirección: Joaquín Luis Romero Marchent, Joaquín Romero Hernández.
+· Reparto: Paul Piaget, Jesús Puente, Gloria Milland, Robert Hundar, Agustín Bescos, Fernando Sancho.
+· Guion: Federico De Urrutia, Joaquín Luis Romero Marchent, Manuel Sebares.
+· Música: Riz Ortolani.
+· Productora: Produzioni Europee Associate (PEA), Félix Durán Aparicio, Produzioni Europee Associati (PEA), Centauro Films.</desc>
 	</programme>
-	<programme start="20260802081600 +0200" stop="20260802084400 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T3 E11 · Una Acción de Gracias con muy poca gracia</title>
-    <desc>Infantil,Dibujos animados | 2024 | TP | ★5.8/10
-· Los Estrella celebran Acción de Gracias con los parientes de Bunny en Tarugilandia.
-· País: Estados Unidos
-· Dirección: Julian Murphy, Sean Dempsey, Brett Varon.
-· Guion: Luke Brookshier, Andrew Goodman, Mr. Lawrence, Danny Giovannini, Jacob Fleisher, Dave Tennant, Gabe Del Valle, Mike Pelensky.
-· Productora: Nickelodeon Animation Studios.</desc>
+	<programme start="20260809111500 +0200" stop="20260809124500 +0200" channel="M+ Cine Español">
+    <title>Dos cruces en Danger Pass</title>
+    <desc>Cine,Oeste | 1967 | ⑯ | ★6.0/10
+· Un sheriff y su esposa son asesinados y desde entonces sus hijos, que presenciaron el crimen, sólo piensan en vengarse.
+· País: España e Italia
+· Dirección: Rafael Romero Marchent.
+· Reparto: Pietro Martellanza, Mara Cruz, Antonio Pica, Armando Calvo, Jesús Puente, Luis Gaspar, Dyanik Zurakowska, Mario Novelli.
+· Guion: Enzo Battaglia, Eduardo Brochero, Gianlorenzo Battaglia.
+· Música: Francesco De Masi.
+· Producción: Fulvio Lucisano, Eduardo Brochero.
+· Productora: Copercines, Cooperativa Cinematográfica, United Pictures.</desc>
 	</programme>
-	<programme start="20260802084400 +0200" stop="20260802091200 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T14 E3 · Lubimardo; La caja del bobomardo</title>
-    <desc>Infantil,Dibujos animados | 2023 | TP | ★6.2/10
-· Calamardo y Lubina Burbujas viajan a Ciudad Desechos. Calamardo se queda atrapado en la caja de la imaginación.
-· País: Estados Unidos
-· Dirección: Andrew Overtoom, Dave Cunningham, Ian Vazquez.
-· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	<programme start="20260809124500 +0200" stop="20260809130000 +0200" channel="M+ Cine Español">
+    <title>Corto (thr.)</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20260802091200 +0200" stop="20260802094000 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T14 E4 · La sangre es más espesa que la grasa; No me hagas reír</title>
-    <desc>Infantil,Dibujos animados | 2023 | ⑦ | ★6.0/10
-· La familia de Plankton abre un restaurante justo al lado del Cubo de cebo. De repente, Bob Esponja se ríe de todo.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez.
-· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	<programme start="20260809130000 +0200" stop="20260809143000 +0200" channel="M+ Cine Español">
+    <title>Salto al vacío</title>
+    <desc>Cine,Drama | 1995 | ⑱ | ★4.4/10
+· Alex es una joven con la cabeza rapada, la palabra "Void" (Vacío) escrita en su cabeza y una fuerte personalidad que mantiene a su familia gracias al tráfico de armas y drogas.
+· País: España
+· Dirección: Daniel Calparsoro.
+· Reparto: Najwa Nimri, Roberto Chalu, Saturnino García, Karra Elejalde, Ion Gabella, Kandido Uranga, Alfredo Villa.
+· Guion: Daniel Calparsoro.
+· Productora: Fernando Colomo Producciones Cinematográficas, S.L., Canal+ España.</desc>
 	</programme>
-	<programme start="20260802094000 +0200" stop="20260802100200 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T14 E5 · Momageddon; La roca mascota</title>
-    <desc>Infantil,Dibujos animados | 2023 | ⑦ | ★6.0/10
-· Las madres de los Krew dirigen el Crustáceo Crujiente. Un coleccionista de rocas anhela la roca mascota de Patricio.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan.
-· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	<programme start="20260809143000 +0200" stop="20260809163000 +0200" channel="M+ Cine Español">
+    <title>Abre los ojos</title>
+    <desc>Cine,Thriller | 1997 | ⑯ | ★6.8/10
+· César es un joven millonario, con gran éxito entre las mujeres, que en su fiesta de cumpleaños se enamora de Sofía, acompañante de su mejor amigo. Esa misma noche, César se encuentra con Nuria, una antigua amante que siente un amor obsesivo por él.
+· País: España, Francia e Italia
+· Dirección: Alejandro Amenábar.
+· Reparto: Eduardo Noriega, Penélope Cruz, Fele Martínez, Najwa Nimri, Chete Lera, Gérard Barray, Tristán Ulloa.
+· Guion: Alejandro Amenábar, Mateo Gil.
+· Música: Alejandro Amenábar, Mariano Marín.
+· Producción: José Luis Cuerda, Fernando Bovaira.
+· Productora: Canal+ España, Las Producciones del Escorpión S.L., Les Films Alain Sarde, Lucky Red, Sociedad General de Televisión S.A. (Sogetel).</desc>
 	</programme>
-	<programme start="20260802100200 +0200" stop="20260802103100 +0200" channel="Nickelodeon">
-    <title>Sonic Prime T1 E7 · Terreno desconocido</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
-· En la isla tropical de Ninguna Parte, Sonic conoce a una simpática banda de piratas y a su misterioso capitán, que adora las fiestas.
-· País: Canadá
-· Dirección: Erik Wiese.</desc>
+	<programme start="20260809163000 +0200" stop="20260809182000 +0200" channel="M+ Cine Español">
+    <title>Carne de neón</title>
+    <desc>Cine,Thriller | 2010 | ⑱ | ★6.2/10
+· Ricky va a morir esta noche: una bala se dirige inexorable hacia su cabeza. Los pensamientos se arremolinan unos con otros, tratando de encontrar la razón por la que ese trozo de metal va a acabar con su vida.
+· País: Argentina, España, Francia y Suecia
+· Dirección: Paco Cabezas.
+· Reparto: Mario Casas, Vicente Romero, Luciano Cáceres.
+· Guion: Paco Cabezas.
+· Música: Óscar Araujo, Julio de la Rosa.
+· Producción: Juan Gordon.
+· Productora: Film i Väst, Morena Films S.L, Mandarin Films.</desc>
 	</programme>
-	<programme start="20260802103100 +0200" stop="20260802105900 +0200" channel="Nickelodeon">
-    <title>Sonic Prime T1 E8 · En este "equipo" no hay piratas</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.4/10
-· Los amigos de Sonic buscan el fragmento de Prisma, pero pronto se dan cuenta de que no son los únicos. Solo hay una forma de ganar: ¡tienen que darse prisa!
-· País: Canadá
-· Dirección: Erik Wiese.</desc>
+	<programme start="20260809182000 +0200" stop="20260809200500 +0200" channel="M+ Cine Español">
+    <title>La isla mínima</title>
+    <desc>Cine,Thriller | 2014 | ⑯ | ★7.6/10
+· 1980. En un pueblo de las marismas del Guadalquivir, dos chicas desaparecen. Nadie le da importancia, ya que muchos jóvenes se escapan de casa para huir del pueblo. Sin embargo, la madre de las adolescentes logra que un juez se interese por el caso.
+· País: Estados Unidos y España
+· Dirección: Alberto Rodríguez.
+· Reparto: Raúl Arévalo, Javier Gutiérrez, Antonio de la Torre, Nerea Barros, Salva Reina, Jesús Castro, Manolo Solo.
+· Guion: Alberto Rodríguez, Rafael Cobos.
+· Música: Julio de la Rosa.
+· Producción: Jose Antonio Félez, José Sánchez-Montes, Mercedes Cantero, Mikel Lejarza, Mercedes Gamero.
+· Productora: Sacromonte Films, Atípica Films, Atresmedia Cine.</desc>
 	</programme>
-	<programme start="20260802105900 +0200" stop="20260802112600 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E1 · Despertando la historia ; El golpe de la gracia</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.0/10
-· Lisa utiliza una tecnología para despertar a un cavernícola; Luan ayuda a Lori en una guerra de bromas.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Jeff Sayers, Andrew Brooks.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	<programme start="20260809200500 +0200" stop="20260809214500 +0200" channel="M+ Cine Español">
+    <title>Capitán Kóblic</title>
+    <desc>Cine,Drama | 2016 | ⑯ | ★6.6/10
+· El excapitán Kóblic huye tras participar en los vuelos de la muerte. En Colonia Helena, enfrentará al corrupto comisario Velarde y su red criminal.
+· País: Argentina y España
+· Dirección: Sebastián Borensztein.
+· Reparto: Ricardo Darín, Oscar Martínez, Inma Cuesta, Marcos Cartoy Díaz, Agustín Bellusci, Luis Armesto.
+· Guion: Sebastián Borensztein, Alejandro Ocon.
+· Música: Federico Jusid.
+· Producción: Pablo Bossi, Juan Pablo Buscarini, Sebastián Borensztein, Axel Kuschevatzky, José Ibáñez, Mikel Lejarza, Mercedes Gamero.
+· Productora: Pampa Films, Gloriamundi Producciones, Antena 3 Films, Instituto Nacional de Cine y Artes Audiovisuales (INCAA).</desc>
 	</programme>
-	<programme start="20260802112600 +0200" stop="20260802115300 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E2 · Un juego de niños; La fuerza de la costumbre</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
-· La banda de Luna toca música infantil; Lori y Luna notan las molestas costumbres de sus parejas.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Kevin Sullivan, Byron Dockins.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	<programme start="20260809214500 +0200" stop="20260809220000 +0200" channel="M+ Cine Español">
+    <title>Corto (rel. fam.)</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20260802115300 +0200" stop="20260802122100 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E3 · Amargada por los dulces ; El ilusionado</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★5.8/10
-· Lola intenta superar sus ganas de comer dulces; Lincoln quiere impresionar a un mago.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Adeline Colangelo, Michelle Hantman.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	<programme start="20260809220000 +0200" stop="20260809234000 +0200" channel="M+ Cine Español">
+    <title>Cien años de perdón</title>
+    <desc>Cine,Thriller | 2016 | ⑯ | ★7.4/10
+· En una mañana lluviosa, seis hombres disfrazados y armados asaltan la sede central de un banco en Valencia. Lo que parecía un robo limpio y fácil pronto se complica. Pero, ¿qué es exactamente lo que buscan los atracadores?
+· País: Argentina, España y Francia
+· Dirección: Daniel Calparsoro.
+· Reparto: Luis Tosar, Rodrigo de la Serna, Raúl Arévalo, José Coronado, Patricia Vico, Marian Álvarez, Joaquín Furriel, Luciano Cáceres.
+· Guion: Jorge Guerricaechevarría.
+· Música: Julio de la Rosa.
+· Producción: Juan Gordon, Emma Lustres, Borja Pena, Álvaro Augustín, Ghislain Barrois.
+· Productora: Vaca Films, Morena Films S.L, Invasor Producciones AIE, Telecinco Cinema.</desc>
 	</programme>
-	<programme start="20260802122100 +0200" stop="20260802124800 +0200" channel="Nickelodeon">
-    <title>Los Thunderman: Infiltrados T1 E11 · Marea y prejuicio</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★6.4/10
-· Los Thunderman están encantados de conocer a Marea, un superhéroe legendario que se presenta en su puerta tras una misión muy larga. Marea les explica que solía vivir en su casa y que era el anterior protector de Secret Shores. Aunque a Max y Phoebe l...
-· País: Estados Unidos
-· Dirección: Trevor Kirschner.
-· Guion: Sean William Cunningham, Marc Dworkin.</desc>
+	<programme start="20260809234000 +0200" stop="20260810011000 +0200" channel="M+ Cine Español">
+    <title>La buena suerte</title>
+    <desc>Cine,Thriller | 2025 | ⑯ | ★6.6/10
+· Pablo decide bajarse repentinamente en la estación de un pueblo de mala muerte. Allí, en un piso destartalado, comienza a vivir de nuevo huyendo de todo. En el pueblo, todo parece estancado menos Raluca, una mujer dispuesta a confiar en la suerte.
+· País: España
+· Dirección: Gracia Querejeta.
+· Reparto: Hugo Silva, Megan Montaner, Miguel Rellán, Eva Ugarte, Ismael Martínez, Álvaro Rico.
+· Guion: Gracia Querejeta, María Ruiz.
+· Música: Vanessa Garde.
+· Producción: Gerardo Herrero, Mariela Besuievsky.
+· Productora: Arlas Producciones Cinematográficas, A.I.E., Tornasol.</desc>
 	</programme>
-	<programme start="20260802124800 +0200" stop="20260802131500 +0200" channel="Nickelodeon">
-    <title>Los Thunderman: Infiltrados T1 E12 · Sucedió en broma</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★6.0/10
-· Cuando Max usa el dinero de los clubes escolares para comprarse un carrito de golf, Chloe y sus amigos corren el peligro de perder sus respectivos clubes. Un bromista misterioso se venga haciendo gamberradas a Max, que declara que no se rendirá ante s...
-· País: Estados Unidos
-· Dirección: Kira Kosarin.
-· Guion: Chris Tallman.</desc>
+	<programme start="20260810011000 +0200" stop="20260810024500 +0200" channel="M+ Cine Español">
+    <title>Una palabra tuya</title>
+    <desc>Cine,Comedia | 2008 | ⑯ | ★6.2/10
+· Rosario y Milagros, dos grandes amigas, realizan un viaje en coche con el propósito de enterrar al gato fallecido de esta última.
+· País: España
+· Dirección: Ángeles González Sinde.
+· Reparto: Malena Alterio, Esperanza Pedreño, Antonio de la Torre, María Alfonsa Rosso, Luis Bermejo, Chiqui Fernández, Marilyn Torres, Juan Sanz.
+· Guion: Ángeles González Sinde.
+· Música: Julio de la Rosa.
+· Producción: Antón Reixa, Jose Antonio Félez.
+· Productora: Filmanova Invest, Tesela P.C., Tesela Producciones Cinematográficas S.r.l.</desc>
 	</programme>
-	<programme start="20260802131500 +0200" stop="20260802134200 +0200" channel="Nickelodeon">
-    <title>Henry Danger T4 E11 · Un peligro animado</title>
-    <desc>Series,Comedia | 2017 | ⑦ | ★6.8/10
-· Henry y Ray se apresuran a arreglar el dibujo animado de Kid Danger y el capitán Man para la fiesta del estreno.
-· País: Estados Unidos
-· Dirección: Steve Hoefer, Adam Weissman.
-· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
-· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	<programme start="20260810024500 +0200" stop="20260810041500 +0200" channel="M+ Cine Español">
+    <title>Pápa Piquillo</title>
+    <desc>Cine,Comedia | 1998 | TP | ★6.6/10
+· Un abuelo gitano llamado Pápa Piquillo se gana la vida cantando y bailando por las calles de Madrid en compañía de sus seis nietos, un mono y una cabra. De este modo intenta sacar adelante a su familia y evitar que los suyos caigan en las drogas.
+· País: España
+· Dirección: Álvaro Sáenz de Heredia.
+· Reparto: Chiquito de la Calzada, José Manuel Muñoz, Samara Losada, La Chunga, Bigote Arrocet, Javivi, Adolfo Losada, Sergio Ramos Gutiérrez.
+· Guion: Álvaro Sáenz de Heredia.
+· Música: Andrés Sáenz de Heredia.
+· Producción: Silvano Fava.
+· Productora: Producciones ASH Films.</desc>
 	</programme>
-	<programme start="20260802134200 +0200" stop="20260802140900 +0200" channel="Nickelodeon">
-    <title>Henry Danger T5 E1 · Pasmados</title>
-    <desc>Series,Comedia | 2018 | ⑦ | ★7.0/10
-· Kid Danger y el capitán Man pierden sus poderes; se ponen los exotrajes controlados por Schwoz.
-· País: Estados Unidos
-· Dirección: Steve Hoefer, Adam Weissman.
-· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
-· Productora: Nickelodeon, Nickelodeon Network.</desc>
-	</programme>
-	<programme start="20260802140900 +0200" stop="20260802143700 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E15 · Ha caído un inspector; uno entre un millón</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★5.8/10
-· Luan debe resolver un caso de detectives en la escuela. Lincoln y Clyde quieren una gran recompensa de Flip.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Kevin Sullivan, Adeline Colangelo.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802143700 +0200" stop="20260802145900 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E16 · Toda clase de bromas; El robobo de la mumuñeca</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★5.8/10
-· Ronnie Anne debe pasar su última prueba de bromas. Lily hace un trueque con Eunice por accidente.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Whitney Wetta, Michelle Hantman.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802145900 +0200" stop="20260802151600 +0200" channel="Nickelodeon">
-    <title>Una casa de locos Single Story T6 E2 · Perdiendo los papeles</title>
-    <desc>Infantil,Dibujos animados | 2021 | TP | ★6.2/10
-· Tras conseguir un papel en una obra de Villaeslaleche, Luan tendrá que ocultarle la noticia a la Sra. Bernardo por haberla ganado.
-· País: Estados Unidos
-· Productora: Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802151600 +0200" stop="20260802154300 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T1 E15 · Cubriendo a las chicas; Salva la cita</title>
-    <desc>Infantil,Dibujos animados | 2016 | ⑦ | ★6.4/10
-· Lincoln ayuda a sus diez hermanas; Lori y Lincoln tienen una cita doble.
-· País: Estados Unidos
-· Dirección: Chris Savino, Kyle Marshall.
-· Reparto: Jessica DiCicco, Lara Jill Miller, Carlos Alazraqui, Fred Willard, Brian Stepanek, Breanna Yde, Carlos PenaVega, Caleel Harris, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Grant Palmer, Catherine Taber, Cristina Pucelli.
-· Guion: Kevin Sullivan, Karla Sakas Shposhire, Sheela Shrinivas.
-· Música: Doug Rockwell.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802154300 +0200" stop="20260802161100 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T1 E14 · Estrellas menguantes; Patriciez</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.0/10
-· La familia Star se hace más pequeña./El malvado primo gemelo de Patrick arruina la reputación de Patrick.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Dave Cunningham.
-· Reparto: Cree Summer, Bill Fagerbakke, Dana Snyder, Jill Talley.
-· Guion: Luke Brookshier, Andrew Goodman.
-· Productora: Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802161100 +0200" stop="20260802163800 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T1 E15 · Viaje requeteincreíble; Presentadores estrellados</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.0/10
-· Tinkle, Ouchie y Pinkeye son llevados por error./ Patricio se lesiona.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Dave Cunningham.
-· Reparto: Cree Summer, Bill Fagerbakke, Dana Snyder, Jill Talley.
-· Guion: Luke Brookshier, Andrew Goodman.
-· Productora: Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802163800 +0200" stop="20260802170100 +0200" channel="Nickelodeon">
-    <title>Sonic Prime T1 E16 · Ni la más remota posibilidad</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
-· Mientras Nine reconstruye el Prisma Paradoxal, Shadow y Sonic se enfrentan al Consejo para trata de ganar tiempo.
-· País: Canadá
-· Dirección: Erik Wiese.</desc>
-	</programme>
-	<programme start="20260802170100 +0200" stop="20260802172800 +0200" channel="Nickelodeon">
-    <title>Sonic Prime T1 E2 · El Yugo te atrapa</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
-· Un corte de electricidad permite que dos rebeldes se cuelen en un laboratorio en el que el Consejo del Caos estudia la conexión entre Sonic y su fuente de energía.
-· País: Canadá
-· Dirección: Erik Wiese.
-· Guion: Man of Action, Erik Wiese.</desc>
-	</programme>
-	<programme start="20260802172800 +0200" stop="20260802174600 +0200" channel="Nickelodeon">
-    <title>Bob Esponja Single Story T12 E34 · Jefe por un día</title>
-    <desc>Infantil,Dibujos animados | 2018 | TP | ★6.2/10
-· El señor Cangrejo sufre un accidente y deja a Bob Esponja al mando del Krustáceo Krujiente. Nada puede salir mal, ¿verdad?
-· País: Estados Unidos
-· Dirección: Vincent Waller, Dave Cunningham.
-· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
-	</programme>
-	<programme start="20260802174600 +0200" stop="20260802181300 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T15 E18 · ¿Quién teme al señor Pinzas?; Un pez llamado Arenita</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.0/10
-· Calamardo y Plankton tienen un plan para su actuación. Arenita intercambia genes con un pez.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez.
-· Guion: Mike Bell, Luke Brookshier, Andrew Goodman, Danny Giovannini.</desc>
-	</programme>
-	<programme start="20260802181300 +0200" stop="20260802184100 +0200" channel="Nickelodeon">
-    <title>Los Thunderman: Infiltrados T2 E1 · Un verano de secretos</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★6.2/10
-· Chloe se ha ausentado del cole al ir a misiones con sus hermanos, así que tiene que ir a clases de verano. A Max le hace gracia que ella vaya a perder el verano en el cole... hasta que le informan de que le tocará dar las clases a él.
-· País: Estados Unidos
-· Dirección: Víctor González.
-· Guion: Hannah Suria.</desc>
-	</programme>
-	<programme start="20260802184100 +0200" stop="20260802190800 +0200" channel="Nickelodeon">
-    <title>Los Thunderman: Infiltrados T2 E2 · Sé lo que hicisteis este verano</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★6.4/10
-· Max decide sorprender a Phoebe en una de sus misiones en solitario, pero descubre que ha estado colaborando en secreto con el Capitán Perfecto.
-· País: Estados Unidos
-· Dirección: Víctor González.
-· Guion: Nora Sullivan.</desc>
-	</programme>
-	<programme start="20260802190800 +0200" stop="20260802193400 +0200" channel="Nickelodeon">
-    <title>Henry Danger T5 E8 · Parte 3: Un nuevo héroe</title>
-    <desc>Series,Comedia | 2018 | ⑦ | ★6.8/10
-· Schwoz trabaja en un antivirus; Kid Danger y el capitán Man luchan por salvar el mundo.
-· País: Estados Unidos
-· Dirección: Steve Hoefer, Adam Weissman.
-· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
-· Productora: Nickelodeon, Nickelodeon Network.</desc>
-	</programme>
-	<programme start="20260802193400 +0200" stop="20260802195800 +0200" channel="Nickelodeon">
-    <title>Henry Danger T5 E9 · Caballero y peligroso</title>
-    <desc>Series,Comedia | 2018 | ⑦ | ★7.0/10
-· Engañan a Kid Danger y al capitán Man para que unan fuerzas con el villano Ryker.
-· País: Estados Unidos
-· Dirección: Steve Hoefer, Adam Weissman.
-· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
-· Productora: Nickelodeon, Nickelodeon Network.</desc>
-	</programme>
-	<programme start="20260802195800 +0200" stop="20260802202600 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E2 · Un juego de niños; La fuerza de la costumbre</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
-· La banda de Luna toca música infantil; Lori y Luna notan las molestas costumbres de sus parejas.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Kevin Sullivan, Byron Dockins.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802202600 +0200" stop="20260802205300 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E3 · Amargada por los dulces ; El ilusionado</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★5.8/10
-· Lola intenta superar sus ganas de comer dulces; Lincoln quiere impresionar a un mago.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Adeline Colangelo, Michelle Hantman.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802205300 +0200" stop="20260802212000 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E4 · Cumpleaños incumplido ; Pequeño, pero no matón</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.0/10
-· Lucy lanza un hechizo para que olviden su cumpleaños; Zach debe sobrevivir al castigo.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Andrew Brooks, Caitlin Fein.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802212000 +0200" stop="20260802214800 +0200" channel="Nickelodeon">
-    <title>Una casa de locos T7 E5 · De viaje: el Extrañario</title>
-    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
-· En un viaje de mamá por todo el país, Lincoln intenta tomar un desvío para ir a un museo de rarezas.
-· País: Estados Unidos
-· Dirección: Jessica Borutski, Patrick Pakula.
-· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
-· Guion: Adeline Colangelo, Byron Dockins.
-· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802214800 +0200" stop="20260802221500 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T9 E92 · Pícnic de Empresa; Arrimad un Barril</title>
-    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★5.8/10
-· El señor Cangrejo organiza un picnic para subir la moral a los trabajadores; y cuenta historias sobre la Marina.
-· País: Estados Unidos
-· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
-· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Kyle McCulloch, Jack Pendarvis.
-· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
-	</programme>
-	<programme start="20260802221500 +0200" stop="20260802224300 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T9 E93 · El Santuario; ¿Qué se Come a Patricio?</title>
-    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★6.2/10
-· Bob Esponja cuida de unos caracoles perdidos; Patricio se presenta a un concurso de comer cangreburguers.
-· País: Estados Unidos
-· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
-· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Kyle McCulloch, Jack Pendarvis.
-· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
-	</programme>
-	<programme start="20260802224300 +0200" stop="20260802231100 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T9 E94 · Las Cloacas de Fondo de Bikini; El Juego de Patricio</title>
-    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★6.0/10
-· Patricio se inventa un juego de mesa; Bob Esponja y Calamardo buscan una caja fuerte en las alcantarillas.
-· País: Estados Unidos
-· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
-· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Kyle McCulloch, Kazimieras Gediminus Prapuolenis.
-· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
-	</programme>
-	<programme start="20260802231100 +0200" stop="20260802233800 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T1 E24 · E Doble; Huelga de Órganos</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★6.2/10
-· Patricio consigue un doble, los órganos de Patricio abandonan su cuerpo en protesta por el mal trato recibido.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Dave Cunningham.
-· Reparto: Cree Summer, Bill Fagerbakke, Dana Snyder, Jill Talley.
-· Guion: Luke Brookshier, Andrew Goodman.
-· Productora: Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260802233800 +0200" stop="20260803000200 +0200" channel="Nickelodeon">
-    <title>Patricio es la estrella (dobles) T1 E25 · ¿Quién es la Bruja?; Salgan de mi Césped</title>
-    <desc>Infantil,Dibujos animados | 2020 | TP | ★5.6/10
-· La madre de Bunny nos visita desde el viejo continente; la Abuela Tentáculos consigue su propio programa de televisión.
-· País: Estados Unidos
-· Dirección: Sherm Cohen, Dave Cunningham.
-· Reparto: Cree Summer, Bill Fagerbakke, Dana Snyder, Jill Talley.
-· Guion: Luke Brookshier, Andrew Goodman.
-· Productora: Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260803000200 +0200" stop="20260803002900 +0200" channel="Nickelodeon">
-    <title>Henry Danger T5 E9 · Caballero y peligroso</title>
-    <desc>Series,Comedia | 2018 | ⑦ | ★7.0/10
-· Engañan a Kid Danger y al capitán Man para que unan fuerzas con el villano Ryker.
-· País: Estados Unidos
-· Dirección: Steve Hoefer, Adam Weissman.
-· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
-· Productora: Nickelodeon, Nickelodeon Network.</desc>
-	</programme>
-	<programme start="20260803002900 +0200" stop="20260803005700 +0200" channel="Nickelodeon">
-    <title>Equipo Danger T1 E4 · La noche de los villanos</title>
-    <desc>Series,Serie juvenil | 2020 | ⑦ | ★7.0/10
-· El Equipo Danger y el Capitán Man acuden de incógnito como villanos al Beatin' Dungeon para atrapar a un criminal.
-· País: Estados Unidos
-· Dirección: Mike Caron, Evelyn Belasco.
-· Reparto: Cooper Barnes, Michael D. Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan, Michaël Cohen.
-· Guion: Nathan Knetchel, Sam Becker.
-· Productora: Nickelodeon Productions.</desc>
-	</programme>
-	<programme start="20260803005700 +0200" stop="20260803011800 +0200" channel="Nickelodeon">
-    <title>Los Thunderman: Infiltrados T2 E4 · El plan de una noche de verano</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★5.8/10
-· Max quiere impresionar al Capitán Perfecto, así que decide ayudarle con su hermana menor, una chica muy tozuda a la que le atrae el mal. Max intenta enseñarle los beneficios de hacer el bien, pero ella le engaña y se va a las pruebas para secuaces de ...
-· País: Estados Unidos
-· Dirección: Wendy Faraone.
-· Guion: Dan Serafin.</desc>
-	</programme>
-	<programme start="20260803011800 +0200" stop="20260803014000 +0200" channel="Nickelodeon">
-    <title>Los Thunderman: Infiltrados T2 E5 · Verano cruel</title>
-    <desc>Series,Serie juvenil | 2025 | TP | ★6.0/10
-· Phoebe, Max y Chloe vivirán nuevas aventuras al infiltrarse en una ciudad nueva.
-· País: Estados Unidos
-· Dirección: Wendy Faraone.
-· Guion: Jed Spingarn.</desc>
-	</programme>
-	<programme start="20260803014000 +0200" stop="20260803020100 +0200" channel="Nickelodeon">
-    <title>Historias de las Tortugas Ninja T1 E4 · Donnie Hangs Tough</title>
-    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.2/10
-· Donnie corre por los túneles del metro de Nueva York para detener a los Mecazoides de Bishop y a su malvada IA.
-· País: Estados Unidos
-· Dirección: Kalvin Lee.
-· Guion: Christopher Yost, Alex Hanson.</desc>
-	</programme>
-	<programme start="20260803020100 +0200" stop="20260803022300 +0200" channel="Nickelodeon">
-    <title>Historias de las Tortugas Ninja T1 E5 · Bishop Makes Her Move!</title>
-    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.0/10
-· Los orígenes de Bishop revelan los motivos, los secretos y lo que ocurrió cuando atrapó a las Tortugas.
-· País: Estados Unidos
-· Dirección: Jennifer Bennett.
-· Guion: Haley Mancini.</desc>
-	</programme>
-	<programme start="20260803022300 +0200" stop="20260803024500 +0200" channel="Nickelodeon">
-    <title>Nate el Grande T2 E19</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
-· La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
-· País: Estados Unidos
-· Dirección: Kimberly Jo Mills.
-· Reparto: Carolyn Hennesy, Kevin Michael Richardson, Daniel Mk Cohen, Mitch Watson, Delaney Rob, Ben Giroux, Bryce Charles, Arnie Pantoja.
-· Guion: Sarah Allan, Ben Lapides.</desc>
-	</programme>
-	<programme start="20260803024500 +0200" stop="20260803030800 +0200" channel="Nickelodeon">
-    <title>Piedra, Papel, Tijera T2 E2 · Papel y Lápiz cuentan un chiste / La orquesta de Tijera</title>
-    <desc>Infantil,Serie infantil | 2025 | TP | ★6.0/10
-· Papel y Lápiz cuentan un chiste en una fiesta y luego van repitiéndoselo a todo quisqui para creerse graciosos. Tijera paga a una orquesta para que le ponga banda sonora a su vida, lo que le consigue a una novia famosa.
-· País: Estados Unidos
-· Dirección: Chad Hicks.
-· Guion: Kyle Stegina, Josh Lehrman, Rekha Barua.
-· Productora: Nickelodeon Animation Studios.</desc>
-	</programme>
-	<programme start="20260803030800 +0200" stop="20260803033100 +0200" channel="Nickelodeon">
-    <title>Deer Squad T4 E2 · Bollos en el espacio / Rasca y huele</title>
-    <desc>Infantil,Preescolar | 2025 | TP | ★6.0/10
-· Kai inventa un Bollo-zuka para lanzar los bollos de Bobbi al espacio, ¡pero terminan dañando la Dinoave! / Las mejoras que Kai y la profesora Scratch hacen a una Robo-rosa crean una nube apestosa sobre la ciudad.
-· País: Estados Unidos
-· Dirección: Sherry Shen.
-· Guion: Allan Plenderleith, Evan Thaler Hickey, Amelia Fergusson.</desc>
-	</programme>
-	<programme start="20260803033100 +0200" stop="20260803035300 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T13 E18 · Entreguen a la Isla de los Monstruos; Patricio y la bicicleta</title>
-    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Bob Esponja y Plancton tienen que intentar sobrevivir juntos; Patricio aprende a montar en bici.
-· País: Estados Unidos
-· Dirección: Vincent Waller, Dave Cunningham.
-· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
-· Guion: Tim Hill, Stephen Hillenburg.
-· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
-	</programme>
-	<programme start="20260803035300 +0200" stop="20260803041500 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T13 E19 · Nueces ahumadas; Sr. Erizo y Caracol</title>
-    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
-· El aperitivo casero de Arenita se hace muy popular; El dúo cómico favorito de Bob Esponja se pelea.
-· País: Estados Unidos
-· Dirección: Vincent Waller, Dave Cunningham.
-· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
-· Guion: Tim Hill, Stephen Hillenburg.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
-	</programme>
-	<programme start="20260803041500 +0200" stop="20260803043800 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T13 E20 · Amigo-aniversario; Música obligatoria</title>
-    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.2/10
-· Bob Esponja celebra su amistad con Calamardo; Calamardo tiene que ir a una clase de música.
-· País: Estados Unidos
-· Dirección: Vincent Waller, Dave Cunningham.
-· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
-· Guion: Tim Hill, Stephen Hillenburg.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
-	</programme>
-	<programme start="20260803043800 +0200" stop="20260803050000 +0200" channel="Nickelodeon">
-    <title>Bob Esponja T13 E21 · Bobi Dick; Plankton y los frijoles mágicos</title>
-    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
-· Calamardo se une a una tripulación para buscar una medusa blanca gigante; Plankton encuentra una habichuela mágica.
-· País: Estados Unidos
-· Dirección: Vincent Waller, Dave Cunningham.
-· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
-· Guion: Tim Hill, Stephen Hillenburg.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
-	</programme>
-	<programme start="20260803050000 +0200" stop="20260803052100 +0200" channel="Nickelodeon">
-    <title>Historias de las Tortugas Ninja T1 E1 · Leo Nardo Stands Alone!</title>
-    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.0/10
-· Con las Tortugas dispersas, Leo debe detener a los Mecazoides de Bishop y salvar a sus hermanos él solo.
-· País: Estados Unidos
-· Dirección: Kalvin Lee.
-· Guion: Christopher Yost.</desc>
-	</programme>
-	<programme start="20260803052100 +0200" stop="20260803054300 +0200" channel="Nickelodeon">
-    <title>Historias de las Tortugas Ninja T1 E2 · Mikey Does the Right Thing</title>
-    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.2/10
-· Mikey tiene que hacerse responsable y pedir ayuda a Rod para salvar a sus hermanos.
-· País: Estados Unidos
-· Dirección: Kenji Ono.
-· Guion: Matthew Bass.</desc>
-	</programme>
-	<programme start="20260803054300 +0200" stop="20260803055600 +0200" channel="Nickelodeon">
-    <title>Marsupilamis (single story) T1 E18 · Misión: parque</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
-· Los gemelos y los marsupilamis quieren jugar en el parque, pero Rosa vigila la entrada y tienen que buscar otra forma de entrar.
-· País: Francia
-· Dirección: Célestine Plays.
-· Guion: Myles McLeod.
-· Productora: Belvision.</desc>
-	</programme>
-	<programme start="20260803055600 +0200" stop="20260803062200 +0200" channel="Nickelodeon">
-    <title>Marsupilamis (dobles) T1 E3 · Duelo de baile / El espectáculo debe continuar</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | ★5.8/10
-· Jade es una gran bailarina y debe enfrentarse a Míster Best en un duelo de baile en persona. Mica y Jade montan una función para ganar un premio para el colegio, pero se les olvida un decorado fundamentel y los marsupis les ayudan.
-· País: Bélgica y Francia
-· Dirección: Célestine Plays.
-· Guion: Myles McLeod.
-· Productora: Belvision.</desc>
+	<programme start="20260810041500 +0200" stop="20260810055500 +0200" channel="M+ Cine Español">
+    <title>La Casa de Bernarda Alba</title>
+    <desc>Cine,Drama | 1986 | ⑫ | ★6.2/10
+· Bernarda, a la muerte de su segundo marido, se queda al cuidado de cinco hijas, a las que somete a una disciplina muy dura.
+· País: España
+· Dirección: Mario Camus.
+· Reparto: Irene Gutiérrez Caba, Ana Belén, Mercedes Lezcano, Enriqueta Carballeira, Vicky Peña, Florinda Chico.
+· Guion: Mario Camus, Antonio Larreta.
+· Música: Ángel Álvarez.
+· Productora: Televisión Española (TVE).</desc>
 	</programme>
 	<programme start="20260803062200 +0200" stop="20260803064900 +0200" channel="Nickelodeon">
     <title>Patricio es la estrella (dobles) T1 E18 · El efecto Patri Mariposa; Una aventura espacial inolvidable</title>
@@ -4963,7 +4340,7 @@
 	</programme>
 	<programme start="20260803164000 +0200" stop="20260803165000 +0200" channel="Nickelodeon">
     <title>Patricio es la estrella T5 E2 · El paladín jactancioso</title>
-    <desc>Infantil | 2025 | TP | ★6.0/10
+    <desc>Infantil | 2025 | TP | ★6.2/10
 · Aunque vive en casa con su excéntrica familia, Patrick presenta este espacio basado en sus caprichos en constante cambio.
 · País: Estados Unidos
 · Dirección: Alex S. Conaway, Juli Murphy.
@@ -5176,7 +4553,7 @@
 	</programme>
 	<programme start="20260804022900 +0200" stop="20260804025100 +0200" channel="Nickelodeon">
     <title>Nate el Grande T2 E20</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
 · La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
 · País: Estados Unidos
 · Dirección: Kyle Neswald.
@@ -5194,7 +4571,7 @@
 	</programme>
 	<programme start="20260804031300 +0200" stop="20260804033700 +0200" channel="Nickelodeon">
     <title>Deer Squad T4 E3 · Peligro, pingüinos / La feria Arreglatodo</title>
-    <desc>Infantil,Preescolar | 2025 | TP | ★6.2/10
+    <desc>Infantil,Preescolar | 2025 | TP | ★6.0/10
 · Kai ayuda a unos pingüinos a volar con un mando a distancia, pero este acaba cayendo en las malvadas garras del baron Bite. / El señor Acero y Blip provocan el caos en la Feria Arreglatodo al intentar arreglar cosas que no están rotas.
 · País: Estados Unidos
 · Dirección: David Marshall, Sherry Shen.
@@ -5482,7 +4859,7 @@
 	</programme>
 	<programme start="20260804160300 +0200" stop="20260804163000 +0200" channel="Nickelodeon">
     <title>Pinky Malinky T1 E2 · Mascota / Merienda</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.0/10
 · Pinky Malinky es un estudiante de secundaria de 12 años que se convierte en un perrito caliente. Junto a sus dos amigos humanos Babs Buttman y JJ Jameson tratan de ser mejores cada día y viven divertidas aventuras.
 · País: Estados Unidos
 · Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
@@ -5710,7 +5087,7 @@
 	</programme>
 	<programme start="20260805023100 +0200" stop="20260805025300 +0200" channel="Nickelodeon">
     <title>Nate el Grande T2 E21</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
 · La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
 · País: Estados Unidos
 · Dirección: Victoria Harris.
@@ -5728,7 +5105,7 @@
 	</programme>
 	<programme start="20260805031500 +0200" stop="20260805033800 +0200" channel="Nickelodeon">
     <title>Deer Squad T4 E4 · Dojobot / El monstruo marino</title>
-    <desc>Infantil,Preescolar | 2025 | TP | ★5.8/10
+    <desc>Infantil,Preescolar | 2025 | TP | ★6.0/10
 · El barón Bite roba el Dojobot de Kai, que usan para entrenar, y lo vuelve en su contra. / Lady Fluffpot avista un monstruo marino mientras nada en la playa.
 · País: Estados Unidos
 · Dirección: David Marshall, Sherry Shen.
@@ -5893,7 +5270,7 @@
 	</programme>
 	<programme start="20260805095800 +0200" stop="20260805102500 +0200" channel="Nickelodeon">
     <title>Pinky Malinky T1 E2 · Mascota / Merienda</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.0/10
 · Pinky Malinky es un estudiante de secundaria de 12 años que se convierte en un perrito caliente. Junto a sus dos amigos humanos Babs Buttman y JJ Jameson tratan de ser mejores cada día y viven divertidas aventuras.
 · País: Estados Unidos
 · Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
@@ -6032,7 +5409,7 @@
 	</programme>
 	<programme start="20260805163000 +0200" stop="20260805164000 +0200" channel="Nickelodeon">
     <title>Patricio es la estrella T5 E6 · La nevera inalcanzable</title>
-    <desc>Infantil | 2025 | TP | ★5.8/10
+    <desc>Infantil | 2025 | TP | ★6.0/10
 · Patricio, GranPat y Cecil quieren que Bunny reconozca sus méritos en la nevera.
 · País: Estados Unidos
 · Dirección: Sean Dempsey, Alex S. Conaway, Brett Varon.
@@ -6255,7 +5632,7 @@
 	</programme>
 	<programme start="20260806023100 +0200" stop="20260806025300 +0200" channel="Nickelodeon">
     <title>Nate el Grande T2 E22</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
 · País: Estados Unidos
 · Dirección: Kyle Neswald.
@@ -6309,7 +5686,7 @@
 	</programme>
 	<programme start="20260806044600 +0200" stop="20260806050000 +0200" channel="Nickelodeon">
     <title>Bob Esponja Single Story T9 E21 · Perdido en fondo de Bikini</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.6/10
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.8/10
 · Bob Esponja toma un atajo para ir al trabajo pero se pierde.
 · País: Estados Unidos
 · Dirección: Vincent Waller, Dave Cunningham.</desc>
@@ -6584,7 +5961,7 @@
 	</programme>
 	<programme start="20260806164000 +0200" stop="20260806165500 +0200" channel="Nickelodeon">
     <title>Patricio es la estrella T5 E6 · La nevera inalcanzable</title>
-    <desc>Infantil | 2025 | TP | ★5.8/10
+    <desc>Infantil | 2025 | TP | ★6.0/10
 · Patricio, GranPat y Cecil quieren que Bunny reconozca sus méritos en la nevera.
 · País: Estados Unidos
 · Dirección: Sean Dempsey, Alex S. Conaway, Brett Varon.
@@ -6804,7 +6181,7 @@
 	</programme>
 	<programme start="20260807025300 +0200" stop="20260807031500 +0200" channel="Nickelodeon">
     <title>Piedra, Papel, Tijera T2 E6 · Los más altruistas / El disco</title>
-    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★5.8/10
+    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★6.0/10
 · Piedra, Papel y Tijera tienen que demostrar que son mejores que los Rata Bros en altruismo haciendo el bien sin mirar a quién. Una cita entre Tijera y Lolly, la estrella del pop, se tuerce, así que se vuelve el hombre más odiado del mundo.
 · País: Estados Unidos
 · Dirección: Chad Hicks, Jeff Barker.
@@ -7065,7 +6442,7 @@
 	</programme>
 	<programme start="20260807142800 +0200" stop="20260807145500 +0200" channel="Nickelodeon">
     <title>Una casa de locos T5 E15 · Falta de dirección; Juego de discusiones</title>
-    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2020 | ⑦ | ★5.8/10
 · Luan no puede dirigir la obra escolar. Lisa se une al equipo de fútbol de Lynn como entrenadora analítica.
 · País: Estados Unidos
 · Dirección: Chris Savino, Kyle Marshall.
@@ -7164,7 +6541,7 @@
 	</programme>
 	<programme start="20260807182100 +0200" stop="20260807184800 +0200" channel="Nickelodeon">
     <title>Una casa de locos T1 E26 · El empollón guapetón; Una casa muy revuelta</title>
-    <desc>Infantil,Dibujos animados | 2016 | ⑦ | ★6.6/10
+    <desc>Infantil,Dibujos animados | 2016 | ⑦ | ★6.4/10
 · Las hermanas de Licoln se enamoran de su profesor; un tornado amenaza con destruir la casa.
 · País: Estados Unidos
 · Dirección: Chris Savino, Kyle Marshall.
@@ -7333,7 +6710,7 @@
 	</programme>
 	<programme start="20260808023100 +0200" stop="20260808025300 +0200" channel="Nickelodeon">
     <title>Nate el Grande T2 E24</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.4/10
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
 · La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
 · País: Estados Unidos
 · Dirección: Victoria Harris.
@@ -7342,7 +6719,7 @@
 	</programme>
 	<programme start="20260808025300 +0200" stop="20260808031500 +0200" channel="Nickelodeon">
     <title>Piedra, Papel, Tijera T2 E7 · Papel nos deja sin móvil / Historias para (no) dormir</title>
-    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★6.0/10
+    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★6.4/10
 · Papel les quita los móviles a Piedra y Tijera para poder pasar tiempo con ellos en la vida real, lo que acaba dando lugar al peor día de sus vidas. Piedra no puede dormir, así que Papel y Tijera tienen que contarle un cuento: una tarea nada fácil.
 · País: Estados Unidos
 · Dirección: Chad Hicks, Riccardo Durante.
@@ -7513,7 +6890,7 @@
 	</programme>
 	<programme start="20260808112400 +0200" stop="20260808115100 +0200" channel="Nickelodeon">
     <title>Pinky Malinky T1 E2 · Mascota / Merienda</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.0/10
 · Pinky Malinky es un estudiante de secundaria de 12 años que se convierte en un perrito caliente. Junto a sus dos amigos humanos Babs Buttman y JJ Jameson tratan de ser mejores cada día y viven divertidas aventuras.
 · País: Estados Unidos
 · Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
@@ -7607,7 +6984,7 @@
 	</programme>
 	<programme start="20260808160900 +0200" stop="20260808163600 +0200" channel="Nickelodeon">
     <title>Pinky Malinky T1 E2 · Mascota / Merienda</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.0/10
 · Pinky Malinky es un estudiante de secundaria de 12 años que se convierte en un perrito caliente. Junto a sus dos amigos humanos Babs Buttman y JJ Jameson tratan de ser mejores cada día y viven divertidas aventuras.
 · País: Estados Unidos
 · Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
@@ -7679,7 +7056,7 @@
 	</programme>
 	<programme start="20260808195600 +0200" stop="20260808202300 +0200" channel="Nickelodeon">
     <title>Pinky Malinky T1 E2 · Mascota / Merienda</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | ★5.8/10
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.0/10
 · Pinky Malinky es un estudiante de secundaria de 12 años que se convierte en un perrito caliente. Junto a sus dos amigos humanos Babs Buttman y JJ Jameson tratan de ser mejores cada día y viven divertidas aventuras.
 · País: Estados Unidos
 · Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
@@ -7725,7 +7102,7 @@
 	</programme>
 	<programme start="20260808221300 +0200" stop="20260808224100 +0200" channel="Nickelodeon">
     <title>Bob Esponja T9 E96 · El Experimento Helado; Casado con el Dinero</title>
-    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★6.0/10
+    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★6.2/10
 · Sandy estudia el comportamiento de Bob Esponja y Patricio. El señor Cangrejo se casa con su verdadero amor.
 · País: Estados Unidos
 · Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
@@ -7814,7 +7191,7 @@
 	</programme>
 	<programme start="20260809022200 +0200" stop="20260809024400 +0200" channel="Nickelodeon">
     <title>Nate el Grande T2 E25</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
 · La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
 · País: Estados Unidos
 · Dirección: Kyle Neswald.
@@ -7823,7 +7200,7 @@
 	</programme>
 	<programme start="20260809024400 +0200" stop="20260809030600 +0200" channel="Nickelodeon">
     <title>Piedra, Papel, Tijera T2 E8 · La patita, Tijera / Reunión familiar de Papel</title>
-    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★6.4/10
+    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★6.6/10
 · Franz Roll confunde a Tijera con un perro y lo adopta, así que Piedra se pone celoso de su relación. Papel odia la comida anual con su familia porque todo el mundo hace cosas de provecho menos él, así que traza un plan para escaquearse.
 · País: Estados Unidos
 · Dirección: Scott MacDonald, Jeff Barker.
@@ -7892,6 +7269,481 @@
     <title>Marsupilamis (single story) T1 E28 · Caos en la acampada</title>
     <desc>Infantil,Dibujos animados | 2025 | TP | ★6.6/10
 · Los gemelos se van de acampada con el colegio y los marsupilamis provocan el caos.
+· País: Francia
+· Dirección: Célestine Plays.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+	<programme start="20260809055600 +0200" stop="20260809062300 +0200" channel="Nickelodeon">
+    <title>Marsupilamis (dobles) T1 E9 · ¡Fiesta! / El robot de Mica</title>
+    <desc>Series,Animación | 2025 | TP | ★6.2/10
+· Jade se cuela en la fiesta de Bibi porque cree que no está invitada. Mica no acaba su robot a tiempo para la feria de ciencias, así que los marsupis se meten dentro para manejarlo.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+	<programme start="20260809062300 +0200" stop="20260809065200 +0200" channel="Nickelodeon">
+    <title>Los Pitufos T1 E11 · Los Magníficos Cinco / Lío en la cocina</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | ★6.0/10
+· Papá Pitufo celebra una votación especial para decidir quiénes actuarán como Pitufos Rescatadores si Gargamel ataca. / Después de que Tontín salve la vida de Chef, éste toma a Pitufo Tontín como su ayudante en la cocina. Es una catástrofe.
+· País: Bélgica, Estados Unidos y Francia
+· Dirección: William Renaud.
+· Guion: Peter Saisselin, Amy Serafin.
+· Productora: Dargaud Média, Ketnet, Kinderkanal.</desc>
+	</programme>
+	<programme start="20260809065200 +0200" stop="20260809072100 +0200" channel="Nickelodeon">
+    <title>Los Pitufos T1 E12 · La sopa de Chef / Cuidando a Bebé Pitufo</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | ★5.8/10
+· Cuando Pitufo filósofo critica la cocina de Pitufo Chef, éste se marcha enfadado y acaba cocinando para los ogros. / Cuando Pitufo Torpe y Pitufa Flor cuidan de Bebé Pitufo, intentan demostrar a toda la Aldea Pitufa lo pitufos que son en realidad.
+· País: Bélgica, Estados Unidos y Francia
+· Dirección: William Renaud.
+· Guion: Peter Saisselin, Amy Serafin.
+· Productora: Dargaud Média, Ketnet, Kinderkanal.</desc>
+	</programme>
+	<programme start="20260809072100 +0200" stop="20260809074800 +0200" channel="Nickelodeon">
+    <title>Patricio es la estrella (dobles) T4 E4 · Tempestad de mascotas en una tetera / Producto defectuoso</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+· Cuando Abuelita Tentáculos sale a pasar el día en un spa, Patricio se ofrece a vigilar su casa. Patricio no consigue seguir las instrucciones de la abuelita pero de todas formas logra entrar en la casa y después hace entrar a Calamarina.
+· País: Estados Unidos
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809074800 +0200" stop="20260809081500 +0200" channel="Nickelodeon">
+    <title>Patricio es la estrella (dobles) T4 E6 · ¡Hi-aaa! / Los chicos del bosque de algas en: Los Pat-Granujillas</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+· En esta edición falsificada del espectáculo de variedades Patricio es la Estrella habrá números cómicos, canciones y montones de rastrillos. Patricio y Calamarina presentan los nuevos segmentos mientras Abuelita Tentáculos intenta que nadie suba a su ...
+· País: Estados Unidos
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809081500 +0200" stop="20260809084300 +0200" channel="Nickelodeon">
+    <title>Patricio es la estrella (dobles) T4 E7 · Universidad zoológica / Recordando el pasado de Gran Pat</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+· La familia Estrella realiza una visita guiada a la universidad de Patricio.
+· País: Estados Unidos
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809084300 +0200" stop="20260809091000 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T14 E11 · Nieve Amarilla y las siete medusas</title>
+    <desc>Infantil,Dibujos animados | 2023 | ⑦ | ★6.0/10
+· La reina Karen pretende reclamar para sí el título de "la más cuadrada de todas" y arrebatárselo a Nieve Amarilla.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+	<programme start="20260809091000 +0200" stop="20260809093800 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T14 E12 · Lubina Burbuja Sucia; Sheldon Pantalones Cuadrados</title>
+    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★5.8/10
+· Lubina Burbujas y Burbuja Sucia se unen y forman equipo. Plankton se une a la familia Pantalones Cuadrados.
+· País: Estados Unidos
+· Dirección: Andrew Overtoom, Dave Cunningham, Ian Vazquez.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+	<programme start="20260809093800 +0200" stop="20260809100100 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T15 E7 · Sammy Rémora / en primera división</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | ★5.8/10
+· El Krustáceo Krujiente está hecho una porquería y un pez mágico enseña a Bob Esponja a mantener las superficies impolutas en un periquete. Bob Esponja es contratado en la Gran Liga, pero antes debe probar su valía en la cocina de pruebas.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+	<programme start="20260809100100 +0200" stop="20260809102900 +0200" channel="Nickelodeon">
+    <title>Sonic Prime T1 E11 · Segundo viento</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★5.8/10
+· Para salvar a la tripulación del capitán Terrible y recapturar el fragmento, Sonic va a tener que actuar con rapidez. Afortunadamente, cuenta con una aliada inesperada.
+· País: Canadá
+· Dirección: Erik Wiese.</desc>
+	</programme>
+	<programme start="20260809102900 +0200" stop="20260809105700 +0200" channel="Nickelodeon">
+    <title>Sonic Prime T1 E12 · Sin salida</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+· Los amigos se convierten en rivales cuando la tripulación cuestiona la lealtad de Sonic. Luego, se desata una batalla en alta mar sobre la posesión del fragmento.
+· País: Canadá
+· Dirección: Erik Wiese.</desc>
+	</programme>
+	<programme start="20260809105700 +0200" stop="20260809112400 +0200" channel="Nickelodeon">
+    <title>Pinky Malinky T1 E3 · Tecnología / Espíritu</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.2/10
+· A Pinky le preocupa que su madre no utilice las nuevas tecnologías, así que le enseña todo lo necesario y más para meterse de lleno en el mundillo de lo digital.
+· País: Estados Unidos
+· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+	</programme>
+	<programme start="20260809112400 +0200" stop="20260809115100 +0200" channel="Nickelodeon">
+    <title>Pinky Malinky T1 E4 · Hater / Vídeo</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.4/10
+· Pinky disfruta a tope con la semana del espíritu escolar, pero se centra tanto en subirle la moral a Tina, la jefa de animadoras, que no se da cuenta de que le gusta.
+· País: Estados Unidos
+· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+	</programme>
+	<programme start="20260809115100 +0200" stop="20260809121900 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T2 E2 · Sé lo que hicisteis este verano</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★6.4/10
+· Max decide sorprender a Phoebe en una de sus misiones en solitario, pero descubre que ha estado colaborando en secreto con el Capitán Perfecto.
+· País: Estados Unidos
+· Dirección: Víctor González.
+· Guion: Nora Sullivan.</desc>
+	</programme>
+	<programme start="20260809121900 +0200" stop="20260809124600 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T2 E3 · El verano en el que me enganché con Gideon</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★5.8/10
+· Max y Phoebe se disponen a impresionar al Capitán Perfecto y salvar su misión, pero chocan por sus formas de trabajar. Max se da cuenta de que Phoebe trabajó mejor con el Capitán Perfecto, así que decide que a él también le irá mejor con otro compañero.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Scott Taylor, Wesley Jermaine Johnson.</desc>
+	</programme>
+	<programme start="20260809124600 +0200" stop="20260809131300 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T2 E4 · El plan de una noche de verano</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★5.8/10
+· Max quiere impresionar al Capitán Perfecto, así que decide ayudarle con su hermana menor, una chica muy tozuda a la que le atrae el mal. Max intenta enseñarle los beneficios de hacer el bien, pero ella le engaña y se va a las pruebas para secuaces de ...
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Dan Serafin.</desc>
+	</programme>
+	<programme start="20260809131300 +0200" stop="20260809134000 +0200" channel="Nickelodeon">
+    <title>Henry Danger T5 E4 · Susie sibilante</title>
+    <desc>Series,Comedia | 2018 | ⑦ | ★6.8/10
+· Tras activar una bomba atomica por error, Ray y Henry la llevan al desierto.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+	<programme start="20260809134000 +0200" stop="20260809140700 +0200" channel="Nickelodeon">
+    <title>Henry Danger T5 E5 · El gran congreso cactus</title>
+    <desc>Series,Comedia | 2018 | ⑦ | ★6.8/10
+· Jasper pasa tiempo con alguien que le gusta; aparece un villano y el equipo tiene que actuar rápidamente.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+	<programme start="20260809140700 +0200" stop="20260809143500 +0200" channel="Nickelodeon">
+    <title>Una casa de locos T7 E20 · Escuela de acertijos; Ámame, Tenor</title>
+    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
+· El equipo de Noticias en Acción busca a un misterioso bromista. Gus revela un talento oculto.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Andrew Brooks, Byron Dockins.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809143500 +0200" stop="20260809145700 +0200" channel="Nickelodeon">
+    <title>Una casa de locos T8 E1 · De vuelta a casa; Olla a presión</title>
+    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.2/10
+· Los Loud quieren que Lori vuelva a casa. Clyde y Nana Gayle consiguen su propio camión de comidas.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Guion: Kevin Sullivan, Adeline Colangelo.</desc>
+	</programme>
+	<programme start="20260809145700 +0200" stop="20260809151400 +0200" channel="Nickelodeon">
+    <title>Una casa de locos Single Story T6 E4 · Por partida doble</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | ★6.0/10
+· Lola y Lana se enfrentan a Cheryl y a Meryl para ser las nuevas gemelas representantes de la Heladería de la Tía Pam.
+· País: Estados Unidos
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809151400 +0200" stop="20260809154100 +0200" channel="Nickelodeon">
+    <title>Una casa de locos T1 E17 · Dando la nota; Una idea novelesca</title>
+    <desc>Infantil,Dibujos animados | 2016 | ⑦ | ★6.4/10
+· La familia de Lincoln forma una banda; mamá lleva a Lincoln a su trabajo en la consulta dental.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Jessica DiCicco, Lara Jill Miller, Charlie Schlatter, Brian Stepanek, Caleel Harris, Jeff Bennett, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Grant Palmer, Catherine Taber, Cristina Pucelli.
+· Guion: Kevin Sullivan, Alec Schwimmer.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809154100 +0200" stop="20260809160900 +0200" channel="Nickelodeon">
+    <title>Pinky Malinky T1 E3 · Tecnología / Espíritu</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.2/10
+· A Pinky le preocupa que su madre no utilice las nuevas tecnologías, así que le enseña todo lo necesario y más para meterse de lleno en el mundillo de lo digital.
+· País: Estados Unidos
+· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+	</programme>
+	<programme start="20260809160900 +0200" stop="20260809163600 +0200" channel="Nickelodeon">
+    <title>Pinky Malinky T1 E4 · Hater / Vídeo</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.4/10
+· Pinky disfruta a tope con la semana del espíritu escolar, pero se centra tanto en subirle la moral a Tina, la jefa de animadoras, que no se da cuenta de que le gusta.
+· País: Estados Unidos
+· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+	</programme>
+	<programme start="20260809163600 +0200" stop="20260809165900 +0200" channel="Nickelodeon">
+    <title>Sonic Prime T1 E5 · El árbol descomunal</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.2/10
+· Para regresar a la dimensión correcta, Sonic debe enfrentarse al monstruo de la selva que les declaró la guerra a sus amigos y conseguir el poderoso fragmento de Prisma.
+· País: Canadá
+· Dirección: Erik Wiese.
+· Guion: Patricia Villetta.</desc>
+	</programme>
+	<programme start="20260809165900 +0200" stop="20260809172700 +0200" channel="Nickelodeon">
+    <title>Sonic Prime T1 E6 · Situación: Crítica</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+· De vuelta en Nueva Yugork, Sonic trata de convencer a Nine para que se una a la Resistencia, pero él está ocupado construyendo un nuevo hogar.
+· País: Canadá
+· Dirección: Erik Wiese.</desc>
+	</programme>
+	<programme start="20260809172700 +0200" stop="20260809174400 +0200" channel="Nickelodeon">
+    <title>Bob Esponja Single Story T12 E37 · Toc, Toc, ¿Quién es?</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | ★6.0/10
+· Bob Esponja cuida de la casa del señor Cangrejo en su ausencia y toma medidas extremas para asegurarse de que nadie se cuela.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.</desc>
+	</programme>
+	<programme start="20260809174400 +0200" stop="20260809181200 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T16 E3 · Estudiante de intercambio; El crustáceo tenebroso</title>
+    <desc>Infantil,Dibujos animados | 2025 | ⑦ | ★5.8/10
+· Bob Esponja vuelve a la autoescuela. Slappy el Muñeco lleva el terror al Crustáceo Crujiente.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Dave Cunningham, Michelle Bryan, Eric Bryan.
+· Guion: Mike Bell, Luke Brookshier, Andrew Goodman, Danny Giovannini, Ben Kurzrock.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+	<programme start="20260809181200 +0200" stop="20260809183900 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T2 E5 · Verano cruel</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★6.0/10
+· Phoebe, Max y Chloe vivirán nuevas aventuras al infiltrarse en una ciudad nueva.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Jed Spingarn.</desc>
+	</programme>
+	<programme start="20260809183900 +0200" stop="20260809190700 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T2 E6 · Verano sin fin</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★6.0/10
+· Max se hace pasar por malvado para infiltrarse entre los secuaces de Cerebro y robar el lanzachips que le había vuelto malvado de verdad.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Sean William Cunningham, Marc Dworkin.</desc>
+	</programme>
+	<programme start="20260809190700 +0200" stop="20260809193400 +0200" channel="Nickelodeon">
+    <title>Henry Danger T5 E11 · El gran robo de Otto</title>
+    <desc>Series,Comedia | 2018 | ⑦ | ★6.8/10
+· El loro de la escuela de Piper repite la identidad de superhéroe de Henry; el equipo intenta solucionar las cosas.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+	<programme start="20260809193400 +0200" stop="20260809195600 +0200" channel="Nickelodeon">
+    <title>Pinky Malinky T1 E3 · Tecnología / Espíritu</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.2/10
+· A Pinky le preocupa que su madre no utilice las nuevas tecnologías, así que le enseña todo lo necesario y más para meterse de lleno en el mundillo de lo digital.
+· País: Estados Unidos
+· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+	</programme>
+	<programme start="20260809195600 +0200" stop="20260809202300 +0200" channel="Nickelodeon">
+    <title>Pinky Malinky T1 E4 · Hater / Vídeo</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | ★6.4/10
+· Pinky disfruta a tope con la semana del espíritu escolar, pero se centra tanto en subirle la moral a Tina, la jefa de animadoras, que no se da cuenta de que le gusta.
+· País: Estados Unidos
+· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+	</programme>
+	<programme start="20260809202300 +0200" stop="20260809205100 +0200" channel="Nickelodeon">
+    <title>Una casa de locos T7 E9 · Rompiendo el paso; Acogida fría</title>
+    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
+· Clyde y su abuela Gayle participan en un concurso de baile. Lincoln debe hacer que la escuela vuelva a la normalidad.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Kevin Sullivan, Andrew Brooks, Erik Steinman.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809205100 +0200" stop="20260809211800 +0200" channel="Nickelodeon">
+    <title>Una casa de locos T7 E10 · Con la música a otra parte; Escurriéndose de la ropa</title>
+    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
+· Luna y las Cabras Lunares buscan un guitarrista. Lincoln quiere terminar de lavar la ropa cuanto antes.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Andrew Brooks, Michelle Hantman.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809211800 +0200" stop="20260809214500 +0200" channel="Nickelodeon">
+    <title>Una casa de locos T7 E11 · Ninguna furgo se queda atrás; Patinazo publicitario</title>
+    <desc>Infantil,Dibujos animados | 2022 | ⑦ | ★6.2/10
+· Vanzilla se descompone. Lynn y sus amigos disfrutan de beneficios gratuitos en Royal Woods.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Byron Dockins.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809214500 +0200" stop="20260809221300 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T9 E98 · Tiburones Contra ventosas; Copia Esponja</title>
+    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★6.2/10
+· Un enfrentamiento podría ser demasiado para Bob Esponja; Plankton clona a Bob Esponja.
+· País: Estados Unidos
+· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
+· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Kazimieras Gediminus Prapuolenis, Solomon Georgio.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+	<programme start="20260809221300 +0200" stop="20260809224100 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T9 E99 · ¡Vendida!; Bobadas Hechas Realidad</title>
+    <desc>Infantil,Dibujos animados | 2013 | ⑦ | ★6.2/10
+· Bob Esponja y Patricio se mudan. Las galletas de la fortuna empiezan a predecir el futuro.
+· País: Estados Unidos
+· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
+· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Kyle McCulloch, Kazimieras Gediminus Prapuolenis.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+	<programme start="20260809224100 +0200" stop="20260809230900 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T9 E100 · ¿Adiós a la Cangreburguer?</title>
+    <desc>Infantil,Dibujos animados | 2016 | ⑦ | ★6.4/10
+· El señor Cangrejo produce cangreburgers y eso afecta la amistad entre Bob Esponja y Patricio.
+· País: Estados Unidos
+· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
+· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Kyle McCulloch.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+	<programme start="20260809230900 +0200" stop="20260809233600 +0200" channel="Nickelodeon">
+    <title>Patricio es la estrella T2 E2 · Superestrellas; Museo visto y no visto</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+· En un universo alternativo, la familia Estrella forma un equipo de superhéroes. Cecil trabaja en un museo de arte.
+· País: Estados Unidos
+· Dirección: Sean Dempsey, Alex S. Conaway.
+· Guion: Marc Ceccarelli, Luke Brookshier, Andrew Goodman, Jacob Fleisher, Gabe Del Valle, Andy Gonsalves.
+· Música: Nick Carr.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809233600 +0200" stop="20260809235900 +0200" channel="Nickelodeon">
+    <title>Patricio es la estrella T2 E3 · 10 y un inodoros; Sepulcros familiares</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+· El inodoro mascota de la familia tiene cachorros. La familia va de pícnic a un cementerio que confunden con un parque.
+· País: Estados Unidos
+· Dirección: Sean Dempsey, Alex S. Conaway.
+· Guion: Marc Ceccarelli, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Nora Meek, Zoë Moss, Dave Tennant.
+· Música: Nick Carr.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260809235900 +0200" stop="20260810002600 +0200" channel="Nickelodeon">
+    <title>Henry Danger T5 E16 · Sueño con peligro</title>
+    <desc>Series,Comedia | 2018 | ⑦ | ★7.0/10
+· Charlotte tiene un sueño en el que casi besa a Kid Danger e intenta evitar a Henry.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+	<programme start="20260810002600 +0200" stop="20260810005400 +0200" channel="Nickelodeon">
+    <title>Equipo Danger T1 E15 · Amigos a prueba</title>
+    <desc>Series,Serie juvenil | 2020 | ⑦ | ★6.0/10
+· Capitán Man somete al equipo a una serie de pruebas para ver si puede confiar en ellos.
+· País: Estados Unidos
+· Dirección: Mike Caron, Evelyn Belasco.
+· Reparto: Cooper Barnes, Michael D. Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan, Michaël Cohen.
+· Guion: Nathan Knetchel, Sam Becker.
+· Productora: Nickelodeon Productions.</desc>
+	</programme>
+	<programme start="20260810005400 +0200" stop="20260810011600 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T1 E7 · De a todo gas, nada</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★6.0/10
+· Los Thunderman descubren que una nueva villana superrápida llamada Garragatuna está delinquiendo en Secret Shores, y que Billy, su hermano superrápido, es su mejor esperanza para atraparla.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Scott Taylor, Wesley Jermaine Johnson.</desc>
+	</programme>
+	<programme start="20260810011600 +0200" stop="20260810013800 +0200" channel="Nickelodeon">
+    <title>Los Thunderman: Infiltrados T1 E8 · Solo para sus espías</title>
+    <desc>Series,Serie juvenil | 2025 | TP | ★6.0/10
+· Cuando Max y Phoebe deben asistir a la reunión de padres del colegio, Chloe les pregunta si puede pasar la tarde en casa, sola con sus amigos. A pesar de que le dicen que no, Chloe invita en secreto a Jinx y a Bucha mientras sus tutores están fuera.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Angela Yarbrough.</desc>
+	</programme>
+	<programme start="20260810013800 +0200" stop="20260810020000 +0200" channel="Nickelodeon">
+    <title>Historias de las Tortugas Ninja T1 E1 · Leo Nardo Stands Alone!</title>
+    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.0/10
+· Con las Tortugas dispersas, Leo debe detener a los Mecazoides de Bishop y salvar a sus hermanos él solo.
+· País: Estados Unidos
+· Dirección: Kalvin Lee.
+· Guion: Christopher Yost.</desc>
+	</programme>
+	<programme start="20260810020000 +0200" stop="20260810022200 +0200" channel="Nickelodeon">
+    <title>Historias de las Tortugas Ninja T1 E2 · Mikey Does the Right Thing</title>
+    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.2/10
+· Mikey tiene que hacerse responsable y pedir ayuda a Rod para salvar a sus hermanos.
+· País: Estados Unidos
+· Dirección: Kenji Ono.
+· Guion: Matthew Bass.</desc>
+	</programme>
+	<programme start="20260810022200 +0200" stop="20260810024400 +0200" channel="Nickelodeon">
+    <title>Nate el Grande T2 E26</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | ★6.0/10
+· La familia se ha ampliado y Nate Wright tendrá que lidiar con dinámicas extrañas. También tendrá que lidiar con nuevos enamoramientos, amistades y problemas.
+· País: Estados Unidos
+· Dirección: Victoria Harris.
+· Reparto: Daniel Mk Cohen, Mitch Watson, Delaney Rob, Ben Giroux, Bryce Charles, Arnie Pantoja, MVAX Dove Cameron.
+· Guion: Sarah Allan, Ben Lapides, Lissy Klatchko.</desc>
+	</programme>
+	<programme start="20260810024400 +0200" stop="20260810030600 +0200" channel="Nickelodeon">
+    <title>Piedra, Papel, Tijera T2 E9 · Munami 12 / Juicio arácnido</title>
+    <desc>Infantil,Serie infantil | 2025 | ⑦ | ★5.6/10
+· Piedra, Papel y Tijera intentan mantener la tradición de ir juntos a ver todas las pelis de "Munami" el día del estreno. Los tres amigos acaban en un juicio arácnido por intentar cargarse a una araña en su piso.
+· País: Estados Unidos
+· Guion: Kyle Stegina, Josh Lehrman, Rekha Barua.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260810030600 +0200" stop="20260810032900 +0200" channel="Nickelodeon">
+    <title>Deer Squad T4 E9 · Se acerca el invierno / El festival de cometas</title>
+    <desc>Infantil,Preescolar | 2025 | TP | ★5.8/10
+· El barón Bite roba el poderoso cristal Frío de Jade y lo usa para desatar una ventisca. / La profesora Scratch crea una cometa con forma de águila para los gemelos, pero se descontrola.
+· País: Estados Unidos
+· Dirección: Sherry Shen.
+· Guion: Adam Long, Allan Plenderleith.</desc>
+	</programme>
+	<programme start="20260810032900 +0200" stop="20260810035100 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T14 E12 · Lubina Burbuja Sucia; Sheldon Pantalones Cuadrados</title>
+    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★5.8/10
+· Lubina Burbujas y Burbuja Sucia se unen y forman equipo. Plankton se une a la familia Pantalones Cuadrados.
+· País: Estados Unidos
+· Dirección: Andrew Overtoom, Dave Cunningham, Ian Vazquez.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+	<programme start="20260810035100 +0200" stop="20260810041400 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T15 E7 · Sammy Rémora / en primera división</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | ★5.8/10
+· El Krustáceo Krujiente está hecho una porquería y un pez mágico enseña a Bob Esponja a mantener las superficies impolutas en un periquete. Bob Esponja es contratado en la Gran Liga, pero antes debe probar su valía en la cocina de pruebas.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+	<programme start="20260810041400 +0200" stop="20260810043700 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T15 E8 · Calamardo triunfa / Pulpo agitado no identificado</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | ★6.0/10
+· Lady Remilgada presenta a Calamardo y a sus "talentos musicales" a sus amigos de la alta sociedad y se convierte en su mecenas. Calamardo se propone demostrar que los alienígenas no existen hasta que se encuentra cara a cara con uno.
+· País: Estados Unidos
+· Dirección: Andrew Overtoom, Dave Cunningham, Michelle Bryan, Ian Vazquez, Eric Bryan.
+· Guion: Luke Brookshier, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+	<programme start="20260810043700 +0200" stop="20260810050000 +0200" channel="Nickelodeon">
+    <title>Bob Esponja T15 E9 · Bob da mala suerte; El cometa Sandman</title>
+    <desc>Infantil,Dibujos animados | 2024 | ⑦ | ★6.4/10
+· Bob Esponja experimenta una racha de mala suerte. Patricio busca la ayuda de Sandman.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+	<programme start="20260810050000 +0200" stop="20260810052100 +0200" channel="Nickelodeon">
+    <title>Historias De Las Tortugas Ninja T2 E3 · Raph contra todos</title>
+    <desc>Infantil,Dibujos animados | 2025 | ⑦ | ★6.0/10
+· Con toda su familia y amigos bajo el control mental de Kitsune, Raph ya no quiere luchar en la Arena de Combate Mutante. Pero tendrá que hacerlo (con la ayuda de Pete Paloma) para salvar a TODOS sus seres queridos antes de que sea demasiado tarde.
+· País: Estados Unidos
+· Dirección: Rie Koga, Kevin Molina-Ortiz, Laura Gille.
+· Guion: Ellie Guzman.</desc>
+	</programme>
+	<programme start="20260810052100 +0200" stop="20260810054300 +0200" channel="Nickelodeon">
+    <title>Historias De Las Tortugas Ninja T2 E4 · La isla</title>
+    <desc>Infantil,Dibujos animados | 2025 | ⑦ | ★5.8/10
+· Los animales mutantes se vuelven contra las Tortugas Ninja después de que Ray Fillet las acuse de haberle atacado.
+· País: Estados Unidos
+· Dirección: JJ Conway.
+· Guion: Kevin Burke, Wyatt Chris \.</desc>
+	</programme>
+	<programme start="20260810054300 +0200" stop="20260810055600 +0200" channel="Nickelodeon">
+    <title>Marsupilamis (single story) T1 E32 · Una situación peliaguda</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | ★6.0/10
+· Es temporada de muda de pelo y las bolas de pelo de Twister guían a Stan hasta él.
 · País: Francia
 · Dirección: Célestine Plays.
 · Guion: Myles McLeod.
